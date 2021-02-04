@@ -38,7 +38,7 @@ I'm X**ia** f**an**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, 
 
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
