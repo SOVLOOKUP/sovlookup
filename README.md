@@ -19,7 +19,7 @@ I'm X**ia** f**an**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, 
   🏸Badminton
   😋Yummy food
  
-- ✨ I'm Learning:
+- 📖 I'm Learning:
   🗬NLP
   💡Svelte
 
