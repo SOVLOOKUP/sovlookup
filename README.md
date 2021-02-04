@@ -1,18 +1,45 @@
-### Hi there 👋
 
-<!--
-**SOVLOOKUP/sovlookup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, sovlookup here! :wave: 
 
-Here are some ideas to get you started:
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sovlookup&theme=dark&show_icons=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm X**ia** f**an**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, I have huge attraction on ⚡ computer science ⚡ and I am a bit mad 🗯️ when I code.
 
-![](https://github-readme-stats.vercel.app/api?username=sovlookup&theme=dark)
+- 🚀 I use:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Golang](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=Go)
+  ![Nim](https://img.shields.io/badge/-Nim-yellow?style=plastic&logo=nim)
+ 
+- 💬 I speak:
+  🇨🇳Chinese 🇬🇧English
+
+- 😄 I like:
+  📷Photography
+  🏸Badminton
+  😋Yummy food
+ 
+- ✨ I'm Learning:
+  🗬NLP
+  💡Svelte
+
+- 📫 How to reach me:
+  [![Gmail Badge](https://img.shields.io/badge/-gonorth@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gonorth@qq.com)](mailto:gonorth@qq.com)
+
+---
+#### :sparkles: My followers
+
+<!--START_SECTION:top-followers-->
+
+<!--END_SECTION:top-followers-->
+
+---
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
+
+---
