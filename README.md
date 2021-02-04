@@ -3,7 +3,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sovlookup&theme=dark&show_icons=true">
 
-I'm X**ia** f**an**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, I have huge attraction on ⚡ computer science ⚡ and I am a bit mad 🗯️ when I code.
+I'm Y**u** B**ei**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, I have huge attraction on ⚡ computer science ⚡ and I am a bit mad 🗯️ when I code.
 
 - 🚀 I use:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
