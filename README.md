@@ -30,7 +30,52 @@ I'm X**ia** f**an**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, 
 #### :sparkles: My followers
 
 <!--START_SECTION:top-followers-->
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jamshedalii">
+        <img src="https://avatars2.githubusercontent.com/u/71660579" width="100px;" alt="jamshedalii"/>
+      </a>
+      <br />
+      <a href="https://github.com/jamshedalii">jamshedalii</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fluffyrita">
+        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
+      </a>
+      <br />
+      <a href="https://github.com/fluffyrita">fluffyrita</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DallasAutumn">
+        <img src="https://avatars2.githubusercontent.com/u/34374626" width="100px;" alt="DallasAutumn"/>
+      </a>
+      <br />
+      <a href="https://github.com/DallasAutumn">Qiuyang Duan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joebudi">
+        <img src="https://avatars2.githubusercontent.com/u/49767913" width="100px;" alt="joebudi"/>
+      </a>
+      <br />
+      <a href="https://github.com/joebudi">Joe</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shadow-zed">
+        <img src="https://avatars2.githubusercontent.com/u/66454164" width="100px;" alt="shadow-zed"/>
+      </a>
+      <br />
+      <a href="https://github.com/shadow-zed">shadow-zed</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lj2000star">
+        <img src="https://avatars2.githubusercontent.com/u/53227911" width="100px;" alt="lj2000star"/>
+      </a>
+      <br />
+      <a href="https://github.com/lj2000star">Jensis</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 ---
