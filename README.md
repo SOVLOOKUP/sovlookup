@@ -20,7 +20,7 @@ I'm Y**u** B**ei**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, I
   😋Yummy food
  
 - 📖 I'm Learning:
-  🗬NLP
+  🌈NLP
   💡Svelte
 
 - 📫 How to reach me:
