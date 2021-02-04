@@ -87,3 +87,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+#### :star2: Awesome stars
+
+[My Awesome Stars](AWESOME-STARS.md)
+
