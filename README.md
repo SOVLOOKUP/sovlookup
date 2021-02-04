@@ -26,6 +26,8 @@ I'm X**ia** f**an**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, 
 - 📫 How to reach me:
   [![Gmail Badge](https://img.shields.io/badge/-gonorth@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gonorth@qq.com)](mailto:gonorth@qq.com)
 
+---
+  
 #### :sparkles: My followers
 
 <!--START_SECTION:top-followers-->
