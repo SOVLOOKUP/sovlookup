@@ -117,6 +117,7 @@
 
 ## JavaScript 
 
+- [routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a Web project for Baidu Paddle, which is  an open source deep learning framework designed to work on web browser. Load a pretrained paddle.js SavedModel or Paddle Hub module into the browser and run inference through Paddle.js. It could run on nearly every browser with WebGL support.
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
@@ -313,6 +314,7 @@
 
 ## TypeScript 
 
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv) - ⚛️ Polished Gatsby theme for documentation site
