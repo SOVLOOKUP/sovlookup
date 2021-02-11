@@ -152,6 +152,7 @@
 
 ## Jupyter Notebook 
 
+- [deepke](https://github.com/zjunlp/deepke) - 基于深度学习的开源中文关系抽取框架
 - [pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [LSTM-CRF-medical](https://github.com/yixiu00001/LSTM-CRF-medical) - 构建医疗实体识别的模型，包含词典和语料标注，基于python构建
 - [Covid-19-Analysis](https://github.com/LakiLiu/Covid-19-Analysis) - 数据集依据与“新冠肺炎”相关的230个主题关键词进行数据采集，抓取了2020年1月1日—2020年2月20日期间共计100万条微博数据，并对其中10万条数据进行人工标注，标注分为三类，分别为：1（积极），0（中性）和-1（消极）
