@@ -118,6 +118,7 @@
 
 ## JavaScript 
 
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a Web project for Baidu Paddle, which is  an open source deep learning framework designed to work on web browser. Load a pretrained paddle.js SavedModel or Paddle Hub module into the browser and run inference through Paddle.js. It could run on nearly every browser with WebGL support.
