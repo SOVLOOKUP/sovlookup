@@ -48,18 +48,18 @@ I'm Y**u** B**ei**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, I
       <a href="https://github.com/fluffyrita">fluffyrita</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DallasAutumn">
-        <img src="https://avatars2.githubusercontent.com/u/34374626" width="100px;" alt="DallasAutumn"/>
-      </a>
-      <br />
-      <a href="https://github.com/DallasAutumn">Qiuyang Duan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/joebudi">
         <img src="https://avatars2.githubusercontent.com/u/49767913" width="100px;" alt="joebudi"/>
       </a>
       <br />
       <a href="https://github.com/joebudi">Joe</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DallasAutumn">
+        <img src="https://avatars2.githubusercontent.com/u/34374626" width="100px;" alt="DallasAutumn"/>
+      </a>
+      <br />
+      <a href="https://github.com/DallasAutumn">Qiuyang Duan</a>
     </td>
     <td align="center">
       <a href="https://github.com/shadow-zed">
