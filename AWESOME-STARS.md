@@ -355,7 +355,7 @@
 
 - [pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
 - [ydoc](https://github.com/yesccx/ydoc) - 一个简单易用的文档管理工具，支持markdown写作，可本地部署。
-- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [uniapp-configurationForm](https://github.com/GongNextDoor/uniapp-configurationForm) - 
 - [TaroCreator](https://github.com/mpfast/TaroCreator) - 微信小程序 小程序模板 小程序可视化设计工具 Taro Taro UI
 - [approvalFlow](https://github.com/SNFocus/approvalFlow) - 基于form-generator，仿钉钉审批流程创建（表单创建/流程节点可视化配置/必填条件及校验）
