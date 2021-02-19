@@ -62,6 +62,13 @@ I'm Y**u** B**ei**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, I
       <a href="https://github.com/DallasAutumn">Qiuyang Duan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xiluowei0">
+        <img src="https://avatars2.githubusercontent.com/u/66123059" width="100px;" alt="xiluowei0"/>
+      </a>
+      <br />
+      <a href="https://github.com/xiluowei0">WUJI</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/shadow-zed">
         <img src="https://avatars2.githubusercontent.com/u/66454164" width="100px;" alt="shadow-zed"/>
       </a>
