@@ -45,7 +45,7 @@ I'm Y**u** B**ei**, a 🎓 college student 🎓 majoring in ⚖️ law ⚖️, I
         <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
       </a>
       <br />
-      <a href="https://github.com/fluffyrita">fluffyrita</a>
+      <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
     <td align="center">
       <a href="https://github.com/joebudi">
