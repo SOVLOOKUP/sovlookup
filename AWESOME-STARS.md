@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [budibase](https://github.com/Budibase/budibase) - Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months  🚀
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
@@ -334,7 +335,7 @@
 - [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [Graphin](https://github.com/antvis/Graphin) - A React toolkit for graph analysis based on G6
+- [Graphin](https://github.com/antvis/Graphin) - A React toolkit for graph visualization based on G6
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
