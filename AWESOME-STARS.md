@@ -103,6 +103,7 @@
 - [3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [did-core](https://github.com/w3c/did-core) - W3C Decentralized Identifier Specification v1.0
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [ion](https://github.com/decentralized-identity/ion) - DID Method implementation using the Sidetree protocol on top of Bitcoin
 
 ## Haskell 
 
@@ -343,7 +344,6 @@
 - [web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
 - [hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
 - [Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
-- [ion](https://github.com/decentralized-identity/ion) - DID Method implementation using the Sidetree protocol on top of Bitcoin
 - [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
