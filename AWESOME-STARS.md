@@ -141,7 +141,7 @@
 - [codap](https://github.com/concord-consortium/codap) - CODAP (Common Online Data Analysis Platform)
 - [vue-form-builder](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api.
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
-- [vue-json-schema-form](https://github.com/lljj-x/vue-json-schema-form) - 基于Vue/Vue3，Json Schema 和 ElementUi/antdv/iview3 等生成 HTML Form 表单，可用于可视活动编辑器、h5编辑器等数据配置；支持可视化生成表单Schema 。 Generate a form using Vue/Vue3, Json Schema and ElementUi/antdv/iview3
+- [vue-json-schema-form](https://github.com/lljj-x/vue-json-schema-form) - 基于Vue/Vue3，Json Schema 和 ElementUi/antdv/iview3 等生成 HTML Form 表单，用于活动编辑器、h5编辑器、cms等数据配置；支持可视化生成表单Schema 。 Generate a form using Vue/Vue3, Json Schema and ElementUi/antdv/iview3
 - [uniapp-todolist](https://github.com/linzowo/uniapp-todolist) - 采用uniapp框架开发的microsoft 风格 todolist
 - [icejs-todos-admin](https://github.com/ice-lab/icejs-todos-admin) - icejs todos
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
@@ -350,7 +350,7 @@
 - [ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）https://ice.work/
 - [openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
-- [brick-design](https://github.com/brick-design/brick-design) - 组件可视化拖拽，页面搭建，自由拖拽嵌套，可实现任何真实开发中的复杂页面，所见即所得，可完美还原UI设计，多平台展示支持，喜欢的点颗星支持鼓励一下！visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration
+- [brick-design](https://github.com/brick-design/brick-design) - 全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 - [ts-react-redux](https://github.com/vettel-qin/ts-react-redux) - 从零开始，一步一步搭建Typescript+React+Redux项目模板
 - [blog-react](https://github.com/fxy5869571/blog-react) - 基于typescript koa2 react的个人博客
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
