@@ -71,7 +71,7 @@
 - [qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [offiaccount](https://github.com/fastwego/offiaccount) - [微信公众号] A fast wechat offiaccount development sdk written in Golang
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [did](https://github.com/ockam-network/did) - A golang package to work with Decentralized Identifiers (DIDs)
 - [go-orbit-db](https://github.com/berty/go-orbit-db) - Go version of P2P Database on IPFS
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
