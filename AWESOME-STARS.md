@@ -122,6 +122,7 @@
 
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [budibase](https://github.com/Budibase/budibase) - Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months  🚀
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [routify](https://github.com/roxiness/routify) - Automated Svelte routes
@@ -360,7 +361,6 @@
 
 ## Vue 
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
 - [ydoc](https://github.com/yesccx/ydoc) - 一个简单易用的文档管理工具，支持markdown写作，可本地部署。
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
