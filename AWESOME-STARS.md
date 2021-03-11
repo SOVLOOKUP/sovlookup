@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -122,6 +123,8 @@
 
 ## JavaScript 
 
+- [moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
+- [mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -129,7 +132,6 @@
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a Web project for Baidu Paddle, which is  an open source deep learning framework designed to work on web browser. Load a pretrained paddle.js SavedModel or Paddle Hub module into the browser and run inference through Paddle.js. It could run on nearly every browser with WebGL support.
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [InteractiveGraph](https://github.com/grapheco/InteractiveGraph) - InteractiveGraph provides a web-based interactive visualization and analysis framework for large graph data, which may come from a GSON file, or an online Neo4j graph database. InteractiveGraph also provides applications built on the framework: GraphNavigator, GraphExplorer and RelFinder.
 - [netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
@@ -326,6 +328,7 @@
 
 ## TypeScript 
 
+- [etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
 - [svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
@@ -334,6 +337,7 @@
 - [sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv) - ⚛️ Polished Gatsby theme for documentation site
+- [Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a Web project for Baidu Paddle, which is  an open source deep learning framework designed to work on web browser. Load a pretrained paddle.js SavedModel or Paddle Hub module into the browser and run inference through Paddle.js. It could run on nearly every browser with WebGL support.
 - [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
