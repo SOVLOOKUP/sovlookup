@@ -123,6 +123,10 @@
 
 ## JavaScript 
 
+- [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+- [gifter](https://github.com/panwenwei/gifter) - 使用nodejs基于etcd的服务发现注册
+- [minimajs](https://github.com/lorry2018/minimajs) - MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on  NodeJS.
+- [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
@@ -328,6 +332,8 @@
 
 ## TypeScript 
 
+- [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
+- [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
 - [svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
