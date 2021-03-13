@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [rollup-plugin-protobuf](https://github.com/asabil/rollup-plugin-protobuf) - Rollup plugin for Protocol Buffers
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [gifter](https://github.com/panwenwei/gifter) - 使用nodejs基于etcd的服务发现注册
 - [minimajs](https://github.com/lorry2018/minimajs) - MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on  NodeJS.
@@ -332,6 +333,7 @@
 
 ## TypeScript 
 
+- [remote-module-loader](https://github.com/Paciolan/remote-module-loader) - Loads a CommonJS module from a remote URL for the Browser or Node.js.
 - [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
 - [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
