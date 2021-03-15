@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -123,6 +124,10 @@
 
 ## JavaScript 
 
+- [vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
+- [generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+- [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [rollup-plugin-protobuf](https://github.com/asabil/rollup-plugin-protobuf) - Rollup plugin for Protocol Buffers
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [gifter](https://github.com/panwenwei/gifter) - 使用nodejs基于etcd的服务发现注册
@@ -183,7 +188,6 @@
 - [nlvm](https://github.com/arnetheduck/nlvm) - LLVM-based compiler for the Nim language
 - [nimph](https://github.com/disruptek/nimph) - Nim package hierarchy manager from the future 🧚
 - [nim-quic](https://github.com/status-im/nim-quic) - QUIC for Nim
-- [2DeFi](https://github.com/gogolxdong/2DeFi) - 
 - [nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim
 - [parseini](https://github.com/lihf8515/parseini) - A high-performance ini parse library for nim.
 - [Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
@@ -333,6 +337,7 @@
 
 ## TypeScript 
 
+- [git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [remote-module-loader](https://github.com/Paciolan/remote-module-loader) - Loads a CommonJS module from a remote URL for the Browser or Node.js.
 - [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
 - [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
