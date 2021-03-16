@@ -102,6 +102,7 @@
 
 ## HTML 
 
+- [mitojs](https://github.com/clouDr-f2e/mitojs) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK
 - [css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [KG-View](https://github.com/ownthink/KG-View) - 知识图谱可视化展示
 - [3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
@@ -337,6 +338,7 @@
 
 ## TypeScript 
 
+- [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [remote-module-loader](https://github.com/Paciolan/remote-module-loader) - Loads a CommonJS module from a remote URL for the Browser or Node.js.
 - [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
