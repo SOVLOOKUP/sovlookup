@@ -125,6 +125,7 @@
 
 ## JavaScript 
 
+- [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -338,6 +339,7 @@
 
 ## TypeScript 
 
+- [type-arango](https://github.com/RienNeVaPlus/type-arango) - 🥑 TypeArango manages ArangoDB collections, documents, relations and routes by taking advantage of TypeScript's typings.
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [remote-module-loader](https://github.com/Paciolan/remote-module-loader) - Loads a CommonJS module from a remote URL for the Browser or Node.js.
