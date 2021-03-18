@@ -18,10 +18,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
   📷Photography
   🏸Badminton
   😋Yummy food
- 
-- 📖 I'm Learning:
-  🌈NLP
-  💡Svelte
 
 - 📫 How to reach me:
   [![Gmail Badge](https://img.shields.io/badge/-gonorth@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gonorth@qq.com)](mailto:gonorth@qq.com)
