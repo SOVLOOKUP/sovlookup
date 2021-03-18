@@ -1,5 +1,6 @@
 
-## Hey, sovlookup here! :wave: 
+## Hey, sovlookup here! :wave:   [![Gmail Badge](https://img.shields.io/badge/-gonorth@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gonorth@qq.com)](mailto:gonorth@qq.com)
+
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sovlookup&theme=dark&show_icons=true">
 
@@ -18,9 +19,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
   📷Photography
   🏸Badminton
   😋Yummy food
-
-- 📫 How to reach me:
-  [![Gmail Badge](https://img.shields.io/badge/-gonorth@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gonorth@qq.com)](mailto:gonorth@qq.com)
 
 ---
   
