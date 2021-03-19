@@ -125,6 +125,8 @@
 
 ## JavaScript 
 
+- [rollup-starter-code-splitting](https://github.com/rollup/rollup-starter-code-splitting) - Starter project with code-splitting and dynamic imports, for modern and legacy browsers
+- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
