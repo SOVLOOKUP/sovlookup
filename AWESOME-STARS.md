@@ -28,378 +28,379 @@
 
 ## C 
 
-- [darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
+- [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 
 ## C# # 
 
-- [GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine
-- [cms](https://github.com/siteserver/cms) - SS CMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。
+- [microsoft/GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine
+- [siteserver/cms](https://github.com/siteserver/cms) - SS CMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。
 
 ## C++ 
 
-- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [pyltp](https://github.com/HuangFJ/pyltp) - LTP wrapper module for Python. Move to https://github.com/HIT-SCIR/pyltp
-- [nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 研读顶会论文，复现论文相关代码
-- [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
-- [lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性
-- [openrasp](https://github.com/baidu/openrasp) - 🔥Open source RASP solution
-- [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
-- [go-tensorrt](https://github.com/rai-project/go-tensorrt) - Go binding to TensorRT C API to do inference with pre-trained model in Go
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [HuangFJ/pyltp](https://github.com/HuangFJ/pyltp) - LTP wrapper module for Python. Move to https://github.com/HIT-SCIR/pyltp
+- [km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 研读顶会论文，复现论文相关代码
+- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+- [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性
+- [baidu/openrasp](https://github.com/baidu/openrasp) - 🔥Open source RASP solution
+- [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
+- [rai-project/go-tensorrt](https://github.com/rai-project/go-tensorrt) - Go binding to TensorRT C API to do inference with pre-trained model in Go
 
 ## CoffeeScript 
 
-- [Love-Gift](https://github.com/idealclover/Love-Gift) - 💌 A love gift for my ex-girlfriend.
+- [idealclover/Love-Gift](https://github.com/idealclover/Love-Gift) - 💌 A love gift for my ex-girlfriend.
 
 ## Go 
 
-- [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
-- [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
-- [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
-- [ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
-- [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
-- [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [gojieba](https://github.com/yanyiwu/gojieba) - "结巴"中文分词的Golang版本
-- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [sidetree-core-go](https://github.com/trustbloc/sidetree-core-go) - Ledger-agnostic Sidetree core components in Golang
-- [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
-- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
-- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [offiaccount](https://github.com/fastwego/offiaccount) - [微信公众号] A fast wechat offiaccount development sdk written in Golang
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
-- [did](https://github.com/ockam-network/did) - A golang package to work with Decentralized Identifiers (DIDs)
-- [go-orbit-db](https://github.com/berty/go-orbit-db) - Go version of P2P Database on IPFS
-- [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
-- [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
-- [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-- [wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
-- [wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
-- [yjgo](https://github.com/zeroing-zy1/yjgo) - 基于GoFrame用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA
-- [Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-- [ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
-- [goku-api-gateway](https://github.com/eolinker/goku-api-gateway) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
-- [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform tailored for multicloud and multi-cluster management
-- [gmanager](https://github.com/goflyfox/gmanager) - 基于gf框架的管理平台，支持登录、认证、组织机构、用户、角色、菜单、日志
-- [goadmin](https://github.com/CrazyRocks/goadmin) - 全自动一键生成的golang admin,干活就是需要快
-- [gtoken](https://github.com/goflyfox/gtoken) - 基于gf框架的token插件，通过服务端验证方式实现token认证；
-- [read](https://github.com/talkgo/read) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
-- [go-web-admin](https://github.com/hequan2017/go-web-admin) - 基本gf的 go web 管理框架
-- [rotab](https://github.com/zhaopengme/rotab) - 基于 goframe 的 golang 博客
-- [buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-- [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-- [goonnx](https://github.com/dhdanie/goonnx) - Go language bindings for ONNX runtime
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
+- [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
+- [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
+- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+- [yanyiwu/gojieba](https://github.com/yanyiwu/gojieba) - "结巴"中文分词的Golang版本
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [trustbloc/sidetree-core-go](https://github.com/trustbloc/sidetree-core-go) - Ledger-agnostic Sidetree core components in Golang
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
+- [qor/qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [fastwego/offiaccount](https://github.com/fastwego/offiaccount) - [微信公众号] A fast wechat offiaccount development sdk written in Golang
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
+- [ockam-network/did](https://github.com/ockam-network/did) - A golang package to work with Decentralized Identifiers (DIDs)
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) - Go version of P2P Database on IPFS
+- [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
+- [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
+- [tal-tech/go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [chanxuehong/wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
+- [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
+- [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
+- [zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo) - 基于GoFrame用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
+- [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform tailored for multicloud and multi-cluster management
+- [goflyfox/gmanager](https://github.com/goflyfox/gmanager) - 基于gf框架的管理平台，支持登录、认证、组织机构、用户、角色、菜单、日志
+- [CrazyRocks/goadmin](https://github.com/CrazyRocks/goadmin) - 全自动一键生成的golang admin,干活就是需要快
+- [goflyfox/gtoken](https://github.com/goflyfox/gtoken) - 基于gf框架的token插件，通过服务端验证方式实现token认证；
+- [talkgo/read](https://github.com/talkgo/read) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
+- [hequan2017/go-web-admin](https://github.com/hequan2017/go-web-admin) - 基本gf的 go web 管理框架
+- [zhaopengme/rotab](https://github.com/zhaopengme/rotab) - 基于 goframe 的 golang 博客
+- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+- [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+- [dhdanie/goonnx](https://github.com/dhdanie/goonnx) - Go language bindings for ONNX runtime
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 
 ## HTML 
 
-- [mitojs](https://github.com/clouDr-f2e/mitojs) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK
-- [css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
-- [KG-View](https://github.com/ownthink/KG-View) - 知识图谱可视化展示
-- [3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
-- [did-core](https://github.com/w3c/did-core) - W3C Decentralized Identifier Specification v1.0
-- [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
-- [ion](https://github.com/decentralized-identity/ion) - DID Method implementation using the Sidetree protocol on top of Bitcoin
+- [clouDr-f2e/mitojs](https://github.com/clouDr-f2e/mitojs) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK
+- [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
+- [ownthink/KG-View](https://github.com/ownthink/KG-View) - 知识图谱可视化展示
+- [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+- [w3c/did-core](https://github.com/w3c/did-core) - W3C Decentralized Identifier Specification v1.0
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - DID Method implementation using the Sidetree protocol on top of Bitcoin
 
 ## Haskell 
 
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 ## Java 
 
-- [hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
-- [janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
-- [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
-- [APIJSON](https://github.com/Tencent/APIJSON) - 🏆码云最有价值开源项目 🚀后端接口和文档自动化，前端(客户端) 定制返回 JSON 的数据和结构！🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
+- [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
+- [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆码云最有价值开源项目 🚀后端接口和文档自动化，前端(客户端) 定制返回 JSON 的数据和结构！🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 
 ## JavaScript 
 
-- [rollup-starter-code-splitting](https://github.com/rollup/rollup-starter-code-splitting) - Starter project with code-splitting and dynamic imports, for modern and legacy browsers
-- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
-- [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
-- [vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
-- [generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-- [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
-- [rollup-plugin-protobuf](https://github.com/asabil/rollup-plugin-protobuf) - Rollup plugin for Protocol Buffers
-- [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-- [gifter](https://github.com/panwenwei/gifter) - 使用nodejs基于etcd的服务发现注册
-- [minimajs](https://github.com/lorry2018/minimajs) - MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on  NodeJS.
-- [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
-- [mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
-- [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
-- [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [budibase](https://github.com/Budibase/budibase) - Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months  🚀
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
-- [routify](https://github.com/roxiness/routify) - Automated Svelte routes
-- [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [InteractiveGraph](https://github.com/grapheco/InteractiveGraph) - InteractiveGraph provides a web-based interactive visualization and analysis framework for large graph data, which may come from a GSON file, or an online Neo4j graph database. InteractiveGraph also provides applications built on the framework: GraphNavigator, GraphExplorer and RelFinder.
-- [netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
-- [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-- [RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
-- [DataV-React](https://github.com/DataV-Team/DataV-React) - React数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新
-- [public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
-- [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
-- [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [react-router-pro](https://github.com/aiyuekuang/react-router-pro) - 基于react-router的中国习惯版，集中配置路由，极简化配置缓存路由，方便配置中后台标签页，不依赖其他第三方库，即插即用
-- [codap](https://github.com/concord-consortium/codap) - CODAP (Common Online Data Analysis Platform)
-- [vue-form-builder](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api.
-- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
-- [vue-json-schema-form](https://github.com/lljj-x/vue-json-schema-form) - 基于Vue/Vue3，Json Schema 和 ElementUi/antd/iview3 等生成 HTML Form 表单，用于活动编辑器、h5编辑器、cms等数据配置；支持可视化生成表单Schema 。 Generate a form using Vue/Vue3, Json Schema and ElementUi/antdv/iview3
-- [uniapp-todolist](https://github.com/linzowo/uniapp-todolist) - 采用uniapp框架开发的microsoft 风格 todolist
-- [icejs-todos-admin](https://github.com/ice-lab/icejs-todos-admin) - icejs todos
-- [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [gatekeeper](https://github.com/didi/gatekeeper) - A non-dependent, online configuration, GO-developed, API gateway
-- [form-render](https://github.com/alibaba/form-render) - 🚴‍♀️ 易用的跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面
-- [antd-visual-editor](https://github.com/yu-tou/antd-visual-editor) - ant-design 组件库实时可视化编辑器，实时生成 react 代码
-- [house](https://github.com/lx164/house) - 租房平台类微信小程序，基于Cloud Base（TCB）云开发，小程序端集成了管理后台。用户可以发布新房、二手房、租房等委托，中介机构审核发布、推荐，客户挑好房子后可以直接中介或者房源发布者。小程序带完整的管理员后台，使用云开发独特的身份鉴权方式对管理员身份进行验证。快速完成微信小程序前后端的搭建，后台完全使用微信小程序云开发，不依赖服务器，无需购买服务器即可使用。
-- [APIAuto](https://github.com/TommyLemon/APIAuto) - ☔ 敏捷开发最强大易用的 HTTP 接口工具，机器学习零代码测试、生成代码与静态检查、生成文档与光标悬浮注释。☔ The most advanced tool for HTTP API. Testing with machine learning, generating codes, static analysising, generating documents, generating annotations and floating hints.
-- [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [f-render](https://github.com/dream2023/f-render) - f-render | 基于 ElementUI 的表单设计器
-- [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+- [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
+- [rollup/rollup-starter-code-splitting](https://github.com/rollup/rollup-starter-code-splitting) - Starter project with code-splitting and dynamic imports, for modern and legacy browsers
+- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [neo4j-contrib/neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
+- [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
+- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+- [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+- [asabil/rollup-plugin-protobuf](https://github.com/asabil/rollup-plugin-protobuf) - Rollup plugin for Protocol Buffers
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+- [panwenwei/gifter](https://github.com/panwenwei/gifter) - 使用nodejs基于etcd的服务发现注册
+- [lorry2018/minimajs](https://github.com/lorry2018/minimajs) - MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on  NodeJS.
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
+- [malijs/mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months  🚀
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
+- [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [grapheco/InteractiveGraph](https://github.com/grapheco/InteractiveGraph) - InteractiveGraph provides a web-based interactive visualization and analysis framework for large graph data, which may come from a GSON file, or an online Neo4j graph database. InteractiveGraph also provides applications built on the framework: GraphNavigator, GraphExplorer and RelFinder.
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+- [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+- [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
+- [DataV-Team/DataV-React](https://github.com/DataV-Team/DataV-React) - React数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新
+- [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
+- [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
+- [kingdido999/zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
+- [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [aiyuekuang/react-router-pro](https://github.com/aiyuekuang/react-router-pro) - 基于react-router的中国习惯版，集中配置路由，极简化配置缓存路由，方便配置中后台标签页，不依赖其他第三方库，即插即用
+- [concord-consortium/codap](https://github.com/concord-consortium/codap) - CODAP (Common Online Data Analysis Platform)
+- [openfext/vue-form-builder](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api.
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
+- [lljj-x/vue-json-schema-form](https://github.com/lljj-x/vue-json-schema-form) - 基于Vue/Vue3，Json Schema 和 ElementUi/antd/iview3 等生成 HTML Form 表单，用于活动编辑器、h5编辑器、cms等数据配置；支持可视化生成表单Schema 。 Generate a form using Vue/Vue3, Json Schema and ElementUi/antdv/iview3
+- [linzowo/uniapp-todolist](https://github.com/linzowo/uniapp-todolist) - 采用uniapp框架开发的microsoft 风格 todolist
+- [ice-lab/icejs-todos-admin](https://github.com/ice-lab/icejs-todos-admin) - icejs todos
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [didi/gatekeeper](https://github.com/didi/gatekeeper) - A non-dependent, online configuration, GO-developed, API gateway
+- [alibaba/form-render](https://github.com/alibaba/form-render) - 🚴‍♀️ 易用的跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面
+- [yu-tou/antd-visual-editor](https://github.com/yu-tou/antd-visual-editor) - ant-design 组件库实时可视化编辑器，实时生成 react 代码
+- [lx164/house](https://github.com/lx164/house) - 租房平台类微信小程序，基于Cloud Base（TCB）云开发，小程序端集成了管理后台。用户可以发布新房、二手房、租房等委托，中介机构审核发布、推荐，客户挑好房子后可以直接中介或者房源发布者。小程序带完整的管理员后台，使用云开发独特的身份鉴权方式对管理员身份进行验证。快速完成微信小程序前后端的搭建，后台完全使用微信小程序云开发，不依赖服务器，无需购买服务器即可使用。
+- [TommyLemon/APIAuto](https://github.com/TommyLemon/APIAuto) - ☔ 敏捷开发最强大易用的 HTTP 接口工具，机器学习零代码测试、生成代码与静态检查、生成文档与光标悬浮注释。☔ The most advanced tool for HTTP API. Testing with machine learning, generating codes, static analysising, generating documents, generating annotations and floating hints.
+- [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [dream2023/f-render](https://github.com/dream2023/f-render) - f-render | 基于 ElementUI 的表单设计器
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 ## Jupyter Notebook 
 
-- [deepke](https://github.com/zjunlp/deepke) - 基于深度学习的开源中文关系抽取框架
-- [pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
-- [LSTM-CRF-medical](https://github.com/yixiu00001/LSTM-CRF-medical) - 构建医疗实体识别的模型，包含词典和语料标注，基于python构建
-- [Covid-19-Analysis](https://github.com/LakiLiu/Covid-19-Analysis) - 数据集依据与“新冠肺炎”相关的230个主题关键词进行数据采集，抓取了2020年1月1日—2020年2月20日期间共计100万条微博数据，并对其中10万条数据进行人工标注，标注分为三类，分别为：1（积极），0（中性）和-1（消极）
-- [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [zjunlp/deepke](https://github.com/zjunlp/deepke) - 基于深度学习的开源中文关系抽取框架
+- [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
+- [yixiu00001/LSTM-CRF-medical](https://github.com/yixiu00001/LSTM-CRF-medical) - 构建医疗实体识别的模型，包含词典和语料标注，基于python构建
+- [LakiLiu/Covid-19-Analysis](https://github.com/LakiLiu/Covid-19-Analysis) - 数据集依据与“新冠肺炎”相关的230个主题关键词进行数据采集，抓取了2020年1月1日—2020年2月20日期间共计100万条微博数据，并对其中10万条数据进行人工标注，标注分为三类，分别为：1（积极），0（中性）和-1（消极）
+- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
+- [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 
 ## Makefile 
 
-- [go-onnx](https://github.com/c-bata/go-onnx) - Golang binding of ONNX and ONNX-ML.
+- [c-bata/go-onnx](https://github.com/c-bata/go-onnx) - Golang binding of ONNX and ONNX-ML.
 
 ## Nim 
 
-- [nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
-- [nlvm](https://github.com/arnetheduck/nlvm) - LLVM-based compiler for the Nim language
-- [nimph](https://github.com/disruptek/nimph) - Nim package hierarchy manager from the future 🧚
-- [nim-quic](https://github.com/status-im/nim-quic) - QUIC for Nim
-- [nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim
-- [parseini](https://github.com/lihf8515/parseini) - A high-performance ini parse library for nim.
-- [Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
-- [nimscript_utils](https://github.com/deech/nimscript_utils) - A number of NimScript utilities that help with custom Nimble builds.
-- [bump](https://github.com/disruptek/bump) - a tiny tool to bump nimble versions 🍻
-- [itertools](https://github.com/narimiran/itertools) - Nim rewrite of a very popular Python module of the same name.
-- [nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
-- [nim-nimterlingua](https://github.com/juancarlospaco/nim-nimterlingua) - Internationalization at Compile Time for Nim
-- [nim.nwatchdog](https://github.com/zendbit/nim.nwatchdog) - Simple watchdog (watching file change modified, deleted, created) in nim lang
-- [monit](https://github.com/jiro4989/monit) - The task runner. Run tasks and watch file changes with custom paths.
-- [loco](https://github.com/moigagoo/loco) - Loco: Localization Package for Nim Apps
-- [nimage](https://github.com/moigagoo/nimage) - Dockerfiles for various Nim versions published on Docker Hub
-- [logue](https://github.com/planety/logue) - Command tools for Prologue in Nim.
-- [nim-json-rpc](https://github.com/status-im/nim-json-rpc) - Nim library for implementing JSON-RPC clients and servers
-- [cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs At
-- [googlesearch.nim](https://github.com/xyb/googlesearch.nim) - Nim library for scraping google search results
-- [karax](https://github.com/pragmagic/karax) - Karax. Single page applications for Nim.
-- [nim-markdown](https://github.com/soasme/nim-markdown) - A Beautiful Markdown Parser in the Nim World.
-- [ipsumgenera](https://github.com/dom96/ipsumgenera) - Static blog generator written in Nim
-- [prologue](https://github.com/planety/prologue) - Prologue is an elegant web framework written in Nim.
-- [fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
+- [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
+- [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) - LLVM-based compiler for the Nim language
+- [disruptek/nimph](https://github.com/disruptek/nimph) - Nim package hierarchy manager from the future 🧚
+- [status-im/nim-quic](https://github.com/status-im/nim-quic) - QUIC for Nim
+- [status-im/nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim
+- [lihf8515/parseini](https://github.com/lihf8515/parseini) - A high-performance ini parse library for nim.
+- [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
+- [deech/nimscript_utils](https://github.com/deech/nimscript_utils) - A number of NimScript utilities that help with custom Nimble builds.
+- [disruptek/bump](https://github.com/disruptek/bump) - a tiny tool to bump nimble versions 🍻
+- [narimiran/itertools](https://github.com/narimiran/itertools) - Nim rewrite of a very popular Python module of the same name.
+- [ThomasTJdev/nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
+- [juancarlospaco/nim-nimterlingua](https://github.com/juancarlospaco/nim-nimterlingua) - Internationalization at Compile Time for Nim
+- [zendbit/nim.nwatchdog](https://github.com/zendbit/nim.nwatchdog) - Simple watchdog (watching file change modified, deleted, created) in nim lang
+- [jiro4989/monit](https://github.com/jiro4989/monit) - The task runner. Run tasks and watch file changes with custom paths.
+- [moigagoo/loco](https://github.com/moigagoo/loco) - Loco: Localization Package for Nim Apps
+- [moigagoo/nimage](https://github.com/moigagoo/nimage) - Dockerfiles for various Nim versions published on Docker Hub
+- [planety/logue](https://github.com/planety/logue) - Command tools for Prologue in Nim.
+- [status-im/nim-json-rpc](https://github.com/status-im/nim-json-rpc) - Nim library for implementing JSON-RPC clients and servers
+- [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs At
+- [xyb/googlesearch.nim](https://github.com/xyb/googlesearch.nim) - Nim library for scraping google search results
+- [pragmagic/karax](https://github.com/pragmagic/karax) - Karax. Single page applications for Nim.
+- [soasme/nim-markdown](https://github.com/soasme/nim-markdown) - A Beautiful Markdown Parser in the Nim World.
+- [dom96/ipsumgenera](https://github.com/dom96/ipsumgenera) - Static blog generator written in Nim
+- [planety/prologue](https://github.com/planety/prologue) - Prologue is an elegant web framework written in Nim.
+- [treeform/fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
 
 ## Others 
 
-- [CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
-- [KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse) - 东南大学《知识图谱》研究生课程
-- [Awesome-Law-NLP-Research-Work](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work) - Awesome Law NLP Research Work, Paper, Competition, Onlline System
-- [rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
-- [golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
-- [Core-Nim-programming](https://github.com/ScxMes/Core-Nim-programming) - Nim 核心编程
-- [awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
-- [awesome-taro](https://github.com/NervJS/awesome-taro) - 多端统一开发框架 Taro 优秀学习资源汇总
-- [imgcook](https://github.com/imgcook/imgcook) - Generate pages from any sketch or images.
-- [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
-- [Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
+- [thunlp/CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
+- [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse) - 东南大学《知识图谱》研究生课程
+- [bamtercelboo/Awesome-Law-NLP-Research-Work](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work) - Awesome Law NLP Research Work, Paper, Competition, Onlline System
+- [rocky-linux/rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
+- [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
+- [ScxMes/Core-Nim-programming](https://github.com/ScxMes/Core-Nim-programming) - Nim 核心编程
+- [VPashkov/awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
+- [NervJS/awesome-taro](https://github.com/NervJS/awesome-taro) - 多端统一开发框架 Taro 优秀学习资源汇总
+- [imgcook/imgcook](https://github.com/imgcook/imgcook) - Generate pages from any sketch or images.
+- [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
+- [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 
 ## Python 
 
-- [ipycytoscape](https://github.com/QuantStack/ipycytoscape) - A Cytoscape Jupyter widget
-- [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
-- [PGL](https://github.com/PaddlePaddle/PGL) - Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle
-- [HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
-- [pyunit-address](https://github.com/PyUnit/pyunit-address) - 字符串地址查询,支持自定义地址词库,解析地址,地址识别,地址抽取,中文地址.
-- [ltp](https://github.com/HIT-SCIR/ltp) - Language Technology Platform
-- [Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) - Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
-- [HarvestText](https://github.com/blmoistawinde/HarvestText) - 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等），无监督或弱监督方法
-- [EventTriplesExtraction](https://github.com/liuhuanyong/EventTriplesExtraction) - An experiment and demo-level tool for text information extraction (event-triples extraction),  which can be a route to the event chain and topic graph, 基于依存句法与语义角色标注的事件三元组抽取，可用于文本理解如文档主题链，事件线等应用。
-- [Jiagu](https://github.com/ownthink/Jiagu) - Jiagu深度学习自然语言处理工具  知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
-- [Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
-- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [scikit-network](https://github.com/sknetwork-team/scikit-network) - Graph Algorithms
-- [FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo) - A PyTorch Toolbox for Face Recognition
-- [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.
-- [DDParser](https://github.com/baidu/DDParser) - 百度开源的依存句法分析系统
-- [LawCrimeMining](https://github.com/liuhuanyong/LawCrimeMining) - Law Crime Mining Based on Corpus build and content analysis by NLP methods. 基于领域语料库构建与NLP方法的裁判文书与犯罪案例文本挖掘项目
-- [cail2019](https://github.com/padeoe/cail2019) - 法研杯2019相似案例匹配第二名解决方案（附数据集和文档）
-- [Forestry_LAW](https://github.com/17680329677/Forestry_LAW) - 基于知识图谱的林业法律法规问答
-- [CrimeKgAssitant](https://github.com/liuhuanyong/CrimeKgAssitant) - Crime assistant including crime type prediction and crime consult service based on nlp methods and crime kg,罪名法务智能项目,内容包括856项罪名知识图谱, 基于280万罪名训练库的罪名预测,基于20W法务问答对的13类问题分类与法律资讯问答功能.
-- [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [nltk](https://github.com/nltk/nltk) - NLTK Source
-- [ultraopt](https://github.com/auto-flow/ultraopt) - Distributed Asynchronous Hyperparameter Optimization better than HyperOpt. 比HyperOpt更强的分布式异步超参优化库。
-- [virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
-- [snownlp](https://github.com/isnowfy/snownlp) - Python library for processing Chinese text
-- [mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.
-- [capture_reid](https://github.com/Kestrong/capture_reid) - 可基于摄像头实时监控或录制的视频或静态图片进行行人检测(lffd)/跟踪(deep sort)和行人重识别(reid)。
-- [django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly CMS
-- [faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
-- [AutoGL](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
-- [pystiche](https://github.com/pmeier/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch
-- [wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python
-- [video-object-removal](https://github.com/zllrunning/video-object-removal) - Just draw a bounding box and you can remove the object you want to remove.
-- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
-- [gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
-- [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [Frodo](https://github.com/LouisYZK/Frodo) - python/fastapi + golang/gin + Vue + docker 基于异步技术栈的个人博客系统
-- [portia-dashboard](https://github.com/siegfried415/portia-dashboard) - portia-dashboard is a visual web crawler based on scrapinghub/portia
-- [RESTful-API-FastAPI-mongoDB](https://github.com/Karan-S-Mittal/RESTful-API-FastAPI-mongoDB) - The project is a simple RESTful API implemented with Fast and MongoDB.
-- [QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor) - Editor for qt stylesheet (qss).  Real-time preview, and user can define varibles in qss.
-- [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
-- [surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
-- [PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
-- [WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
-- [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
-- [Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX) - PaddlePaddle to ONNX model converter
-- [PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
-- [models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
-- [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for image classification powered by PaddlePaddle
-- [kaggle_days_china](https://github.com/okotaku/kaggle_days_china) - 
-- [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
-- [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
-- [Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
-- [Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch) - 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
-- [ai_law](https://github.com/brightmart/ai_law) - all kinds of baseline models for long text classificaiton( text categorization)
-- [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more
-- [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-- [proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
-- [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
-- [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
-- [spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT collection so that you can focus on analysis.
-- [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.6 and above with performance auto-tuning. Optionally with Alpine Linux.
-- [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
-- [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
-- [fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
-- [fastapi-users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI
-- [fastapi-permissions](https://github.com/holgi/fastapi-permissions) - row level security for FastAPI framework
-- [fastapi_contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities on top of FastAPI
-- [fastapi_login](https://github.com/MushroomMaula/fastapi_login) - FastAPI-Login tries to provide similar functionality as Flask-Login does.
-- [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML for Text, Image, and Tabular Data
-- [WeiboSpider](https://github.com/nghuyong/WeiboSpider) - This is a sina weibo spider built by scrapy [微博爬虫/持续维护]
-- [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-- [SinaVlogin](https://github.com/mapyJJJ/SinaVlogin) - 新浪微博模拟登陆（selenium+Flask+redis）
-- [KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
-- [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
-- [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
-- [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
-- [pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
-- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [QuantStack/ipycytoscape](https://github.com/QuantStack/ipycytoscape) - A Cytoscape Jupyter widget
+- [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
+- [PaddlePaddle/PGL](https://github.com/PaddlePaddle/PGL) - Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+- [PyUnit/pyunit-address](https://github.com/PyUnit/pyunit-address) - 字符串地址查询,支持自定义地址词库,解析地址,地址识别,地址抽取,中文地址.
+- [HIT-SCIR/ltp](https://github.com/HIT-SCIR/ltp) - Language Technology Platform
+- [crownpku/Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) - Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
+- [blmoistawinde/HarvestText](https://github.com/blmoistawinde/HarvestText) - 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等），无监督或弱监督方法
+- [liuhuanyong/EventTriplesExtraction](https://github.com/liuhuanyong/EventTriplesExtraction) - An experiment and demo-level tool for text information extraction (event-triples extraction),  which can be a route to the event chain and topic graph, 基于依存句法与语义角色标注的事件三元组抽取，可用于文本理解如文档主题链，事件线等应用。
+- [ownthink/Jiagu](https://github.com/ownthink/Jiagu) - Jiagu深度学习自然语言处理工具  知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
+- [leon-thomm/Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [sknetwork-team/scikit-network](https://github.com/sknetwork-team/scikit-network) - Graph Algorithms
+- [JDAI-CV/FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo) - A PyTorch Toolbox for Face Recognition
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [baidu/Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.
+- [baidu/DDParser](https://github.com/baidu/DDParser) - 百度开源的依存句法分析系统
+- [liuhuanyong/LawCrimeMining](https://github.com/liuhuanyong/LawCrimeMining) - Law Crime Mining Based on Corpus build and content analysis by NLP methods. 基于领域语料库构建与NLP方法的裁判文书与犯罪案例文本挖掘项目
+- [padeoe/cail2019](https://github.com/padeoe/cail2019) - 法研杯2019相似案例匹配第二名解决方案（附数据集和文档）
+- [17680329677/Forestry_LAW](https://github.com/17680329677/Forestry_LAW) - 基于知识图谱的林业法律法规问答
+- [liuhuanyong/CrimeKgAssitant](https://github.com/liuhuanyong/CrimeKgAssitant) - Crime assistant including crime type prediction and crime consult service based on nlp methods and crime kg,罪名法务智能项目,内容包括856项罪名知识图谱, 基于280万罪名训练库的罪名预测,基于20W法务问答对的13类问题分类与法律资讯问答功能.
+- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+- [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
+- [auto-flow/ultraopt](https://github.com/auto-flow/ultraopt) - Distributed Asynchronous Hyperparameter Optimization better than HyperOpt. 比HyperOpt更强的分布式异步超参优化库。
+- [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
+- [isnowfy/snownlp](https://github.com/isnowfy/snownlp) - Python library for processing Chinese text
+- [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.
+- [Kestrong/capture_reid](https://github.com/Kestrong/capture_reid) - 可基于摄像头实时监控或录制的视频或静态图片进行行人检测(lffd)/跟踪(deep sort)和行人重识别(reid)。
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly CMS
+- [vipstone/faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
+- [THUMNLab/AutoGL](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
+- [pmeier/pystiche](https://github.com/pmeier/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch
+- [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python
+- [zllrunning/video-object-removal](https://github.com/zllrunning/video-object-removal) - Just draw a bounding box and you can remove the object you want to remove.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [LouisYZK/Frodo](https://github.com/LouisYZK/Frodo) - python/fastapi + golang/gin + Vue + docker 基于异步技术栈的个人博客系统
+- [siegfried415/portia-dashboard](https://github.com/siegfried415/portia-dashboard) - portia-dashboard is a visual web crawler based on scrapinghub/portia
+- [Karan-S-Mittal/RESTful-API-FastAPI-mongoDB](https://github.com/Karan-S-Mittal/RESTful-API-FastAPI-mongoDB) - The project is a simple RESTful API implemented with Fast and MongoDB.
+- [hustlei/QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor) - Editor for qt stylesheet (qss).  Real-time preview, and user can define varibles in qss.
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+- [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
+- [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
+- [PyQt5/PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
+- [offu/WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
+- [PaddlePaddle/Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX) - PaddlePaddle to ONNX model converter
+- [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
+- [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
+- [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for image classification powered by PaddlePaddle
+- [okotaku/kaggle_days_china](https://github.com/okotaku/kaggle_days_china) - 
+- [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
+- [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
+- [649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
+- [649453932/Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch) - 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
+- [brightmart/ai_law](https://github.com/brightmart/ai_law) - all kinds of baseline models for long text classificaiton( text categorization)
+- [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, DPN, CSPNet, and more
+- [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
+- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
+- [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
+- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT collection so that you can focus on analysis.
+- [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.6 and above with performance auto-tuning. Optionally with Alpine Linux.
+- [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
+- [encode/uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
+- [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
+- [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI
+- [holgi/fastapi-permissions](https://github.com/holgi/fastapi-permissions) - row level security for FastAPI framework
+- [identixone/fastapi_contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities on top of FastAPI
+- [MushroomMaula/fastapi_login](https://github.com/MushroomMaula/fastapi_login) - FastAPI-Login tries to provide similar functionality as Flask-Login does.
+- [awslabs/autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML for Text, Image, and Tabular Data
+- [nghuyong/WeiboSpider](https://github.com/nghuyong/WeiboSpider) - This is a sina weibo spider built by scrapy [微博爬虫/持续维护]
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+- [mapyJJJ/SinaVlogin](https://github.com/mapyJJJ/SinaVlogin) - 新浪微博模拟登陆（selenium+Flask+redis）
+- [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
+- [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+- [iodide-project/pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 ## Ruby 
 
-- [forem](https://github.com/forem/forem) - For empowering community 🌱
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
 ## SCSS 
 
-- [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 
 ## Shell 
 
-- [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+- [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 
 ## Svelte 
 
-- [svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
-- [svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
+- [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
+- [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
 ## TypeScript 
 
-- [type-arango](https://github.com/RienNeVaPlus/type-arango) - 🥑 TypeArango manages ArangoDB collections, documents, relations and routes by taking advantage of TypeScript's typings.
-- [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
-- [git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
-- [remote-module-loader](https://github.com/Paciolan/remote-module-loader) - Loads a CommonJS module from a remote URL for the Browser or Node.js.
-- [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
-- [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
-- [etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
-- [svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
-- [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
-- [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
-- [sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
-- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- [gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv) - ⚛️ Polished Gatsby theme for documentation site
-- [Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a Web project for Baidu Paddle, which is  an open source deep learning framework designed to work on web browser. Load a pretrained paddle.js SavedModel or Paddle Hub module into the browser and run inference through Paddle.js. It could run on nearly every browser with WebGL support.
-- [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
-- [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
-- [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
-- [AVA](https://github.com/antvis/AVA) - 🤖 A framework for automated visual analytics.
-- [X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
-- [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
-- [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
-- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [Graphin](https://github.com/antvis/Graphin) - A React toolkit for graph visualization based on G6
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-- [web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
-- [hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
-- [Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
-- [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）https://ice.work/
-- [openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
-- [taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
-- [brick-design](https://github.com/brick-design/brick-design) - 全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
-- [ts-react-redux](https://github.com/vettel-qin/ts-react-redux) - 从零开始，一步一步搭建Typescript+React+Redux项目模板
-- [blog-react](https://github.com/fxy5869571/blog-react) - 基于typescript koa2 react的个人博客
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
-- [davinci](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [ATMSeer](https://github.com/HDI-Project/ATMSeer) - Visual Exploration of Automated Machine Learning with ATMSeer
+- [RienNeVaPlus/type-arango](https://github.com/RienNeVaPlus/type-arango) - 🥑 TypeArango manages ArangoDB collections, documents, relations and routes by taking advantage of TypeScript's typings.
+- [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
+- [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
+- [Paciolan/remote-module-loader](https://github.com/Paciolan/remote-module-loader) - Loads a CommonJS module from a remote URL for the Browser or Node.js.
+- [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
+- [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
+- [microsoft/etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
+- [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
+- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
+- [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
+- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv) - ⚛️ Polished Gatsby theme for documentation site
+- [PaddlePaddle/Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a Web project for Baidu Paddle, which is  an open source deep learning framework designed to work on web browser. Load a pretrained paddle.js SavedModel or Paddle Hub module into the browser and run inference through Paddle.js. It could run on nearly every browser with WebGL support.
+- [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+- [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
+- [antvis/AVA](https://github.com/antvis/AVA) - 🤖 A framework for automated visual analytics.
+- [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
+- [antvis/g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
+- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [antvis/Graphin](https://github.com/antvis/Graphin) - A React toolkit for graph visualization based on G6
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
+- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
+- [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
+- [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）https://ice.work/
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
+- [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
+- [brick-design/brick-design](https://github.com/brick-design/brick-design) - 全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
+- [vettel-qin/ts-react-redux](https://github.com/vettel-qin/ts-react-redux) - 从零开始，一步一步搭建Typescript+React+Redux项目模板
+- [fxy5869571/blog-react](https://github.com/fxy5869571/blog-react) - 基于typescript koa2 react的个人博客
+- [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
+- [edp963/davinci](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [HDI-Project/ATMSeer](https://github.com/HDI-Project/ATMSeer) - Visual Exploration of Automated Machine Learning with ATMSeer
 
 ## Vue 
 
-- [pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
-- [ydoc](https://github.com/yesccx/ydoc) - 一个简单易用的文档管理工具，支持markdown写作，可本地部署。
-- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [uniapp-configurationForm](https://github.com/GongNextDoor/uniapp-configurationForm) - 
-- [TaroCreator](https://github.com/mpfast/TaroCreator) - 微信小程序 小程序模板 小程序可视化设计工具 Taro Taro UI
-- [approvalFlow](https://github.com/SNFocus/approvalFlow) - 基于form-generator，仿钉钉审批流程创建（表单创建/流程节点可视化配置/必填条件及校验）
-- [uniapp-plugin-collections](https://github.com/xiaowang1314/uniapp-plugin-collections) - uni-app项目插件功能集合https://github.com/xiaowang1314/uniapp-plugin-collections
-- [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-- [fastapi-vue-crud](https://github.com/andfanilo/fastapi-vue-crud) - Testing a project with a FastAPI backend and Vue.js frontend in the same project
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-- [uniapp-admin](https://github.com/silianpan/uniapp-admin) - Muti-platform management system for uniapp, H5, Android, IOS, Min Program
-- [ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
+- [a54552239/pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
+- [yesccx/ydoc](https://github.com/yesccx/ydoc) - 一个简单易用的文档管理工具，支持markdown写作，可本地部署。
+- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [GongNextDoor/uniapp-configurationForm](https://github.com/GongNextDoor/uniapp-configurationForm) - 
+- [mpfast/TaroCreator](https://github.com/mpfast/TaroCreator) - 微信小程序 小程序模板 小程序可视化设计工具 Taro Taro UI
+- [SNFocus/approvalFlow](https://github.com/SNFocus/approvalFlow) - 基于form-generator，仿钉钉审批流程创建（表单创建/流程节点可视化配置/必填条件及校验）
+- [xiaowang1314/uniapp-plugin-collections](https://github.com/xiaowang1314/uniapp-plugin-collections) - uni-app项目插件功能集合https://github.com/xiaowang1314/uniapp-plugin-collections
+- [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
+- [andfanilo/fastapi-vue-crud](https://github.com/andfanilo/fastapi-vue-crud) - Testing a project with a FastAPI backend and Vue.js frontend in the same project
+- [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+- [silianpan/uniapp-admin](https://github.com/silianpan/uniapp-admin) - Muti-platform management system for uniapp, H5, Android, IOS, Min Program
+- [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 
 ## License
