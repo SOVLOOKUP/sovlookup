@@ -55,6 +55,9 @@
 
 ## Go 
 
+- [arangodb/go-driver](https://github.com/arangodb/go-driver) - The official ArangoDB go driver.
+- [arangodb-helper/arangodb](https://github.com/arangodb-helper/arangodb) - ArangoDB Starter - starts ArangoDB clusters & single servers with ease.
+- [arangodb/kube-arangodb](https://github.com/arangodb/kube-arangodb) - ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -241,6 +244,7 @@
 
 ## Python 
 
+- [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [QuantStack/ipycytoscape](https://github.com/QuantStack/ipycytoscape) - A Cytoscape Jupyter widget
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
 - [PaddlePaddle/PGL](https://github.com/PaddlePaddle/PGL) - Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle
