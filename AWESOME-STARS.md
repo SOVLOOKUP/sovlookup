@@ -55,6 +55,7 @@
 
 ## Go 
 
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
 - [arangodb/go-driver](https://github.com/arangodb/go-driver) - The official ArangoDB go driver.
 - [arangodb-helper/arangodb](https://github.com/arangodb-helper/arangodb) - ArangoDB Starter - starts ArangoDB clusters & single servers with ease.
 - [arangodb/kube-arangodb](https://github.com/arangodb/kube-arangodb) - ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min
@@ -356,6 +357,7 @@
 
 ## TypeScript 
 
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A front-end framework for process visualization.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [teambit/bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
 - [RienNeVaPlus/type-arango](https://github.com/RienNeVaPlus/type-arango) - 🥑 TypeArango manages ArangoDB collections, documents, relations and routes by taking advantage of TypeScript's typings.
