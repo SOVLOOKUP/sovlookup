@@ -55,6 +55,9 @@
 
 ## Go 
 
+- [xhit/go-simple-mail](https://github.com/xhit/go-simple-mail) - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
+- [qor/auth](https://github.com/qor/auth) - Golang Authentication solution
+- [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
 - [arangodb/go-driver](https://github.com/arangodb/go-driver) - The official ArangoDB go driver.
 - [arangodb-helper/arangodb](https://github.com/arangodb-helper/arangodb) - ArangoDB Starter - starts ArangoDB clusters & single servers with ease.
@@ -335,7 +338,7 @@
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
-- [iodide-project/pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 ## Ruby 
