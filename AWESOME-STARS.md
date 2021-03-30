@@ -133,6 +133,11 @@
 
 ## JavaScript 
 
+- [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
+- [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
+- [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
+- [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
+- [KlausSchaefers/figma-low-code](https://github.com/KlausSchaefers/figma-low-code) - A repository to bootstrap Figma low code projects
 - [FooBallZ/pulsar](https://github.com/FooBallZ/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [yjs/yjs](https://github.com/yjs/yjs) - Peer-to-peer shared types
@@ -189,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [zjunlp/deepke](https://github.com/zjunlp/deepke) - 基于深度学习的开源中文关系抽取框架
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [yixiu00001/LSTM-CRF-medical](https://github.com/yixiu00001/LSTM-CRF-medical) - 构建医疗实体识别的模型，包含词典和语料标注，基于python构建
@@ -230,6 +236,8 @@
 
 ## Others 
 
+- [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+- [phodal/lowcode](https://github.com/phodal/lowcode) - Low-code platform design rule
 - [thunlp/CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
 - [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse) - 东南大学《知识图谱》研究生课程
 - [bamtercelboo/Awesome-Law-NLP-Research-Work](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work) - Awesome Law NLP Research Work, Paper, Competition, Onlline System
@@ -248,6 +256,7 @@
 
 ## Python 
 
+- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [QuantStack/ipycytoscape](https://github.com/QuantStack/ipycytoscape) - A Cytoscape Jupyter widget
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
@@ -360,6 +369,11 @@
 
 ## TypeScript 
 
+- [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+- [bytedance/garfish](https://github.com/bytedance/garfish) - a powerful micro front-end framework 🚚
+- [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Write components in any way, use them everywhere.😘
+- [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A front-end framework for process visualization.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [teambit/bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
