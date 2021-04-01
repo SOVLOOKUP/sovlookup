@@ -55,6 +55,8 @@
 
 ## Go 
 
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [xhit/go-simple-mail](https://github.com/xhit/go-simple-mail) - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
 - [qor/auth](https://github.com/qor/auth) - Golang Authentication solution
 - [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
@@ -133,6 +135,12 @@
 
 ## JavaScript 
 
+- [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
+- [sveltejs/kit](https://github.com/sveltejs/kit) - A monorepo for SvelteKit and friends
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
+- [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
+- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
@@ -256,6 +264,9 @@
 
 ## Python 
 
+- [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source online database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+- [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -370,6 +381,13 @@
 
 ## TypeScript 
 
+- [midwayjs/hooks](https://github.com/midwayjs/hooks) - FullStack | Zero Api | Using "React Hooks" to develop the back-end | Vite
+- [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+- [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
+- [alibaba/pont](https://github.com/alibaba/pont) - 🌉数据服务层解决方案
+- [ykfe/imove](https://github.com/ykfe/imove) - Move your mouse, generate code from flow chart
+- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
+- [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
 - [bytedance/garfish](https://github.com/bytedance/garfish) - a powerful micro front-end framework 🚚
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Write components in any way, use them everywhere.😘
