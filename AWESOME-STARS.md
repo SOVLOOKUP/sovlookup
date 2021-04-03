@@ -135,6 +135,8 @@
 
 ## JavaScript 
 
+- [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
+- [mrpandey/d3graphTheory](https://github.com/mrpandey/d3graphTheory) - :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [sveltejs/kit](https://github.com/sveltejs/kit) - A monorepo for SvelteKit and friends
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
