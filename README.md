@@ -84,11 +84,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 
 <!--START_SECTION:waka-->
 ```text
-Go           12 hrs 37 mins  ███████████████████▓░░░░░   78.79 % 
-JavaScript   1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Svelte       1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Python       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-TOML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Go           10 hrs 52 mins  ███████████████████▒░░░░░   77.02 % 
+JavaScript   1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Svelte       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Python       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TOML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
