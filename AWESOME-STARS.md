@@ -55,6 +55,7 @@
 
 ## Go 
 
+- [iGoogle-ink/gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3已支持，推荐使用微信V3接口】
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [xhit/go-simple-mail](https://github.com/xhit/go-simple-mail) - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
@@ -247,6 +248,7 @@
 
 ## Others 
 
+- [zhpmatrix/nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review) - 复盘所有NLP比赛的TOP方案，只关注NLP比赛，持续更新中！
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [phodal/lowcode](https://github.com/phodal/lowcode) - Low-code platform design rule
 - [thunlp/CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
@@ -267,6 +269,7 @@
 
 ## Python 
 
+- [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source online database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
