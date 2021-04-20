@@ -21,6 +21,7 @@
   - [Prolog](#prolog)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Svelte](#svelte)
@@ -99,7 +100,7 @@
 - [zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo) - 基于GoFrame用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
-- [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
+- [eolinker/Goku-api-gateway-1.x](https://github.com/eolinker/Goku-api-gateway-1.x) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform tailored for multicloud and multi-cluster management
 - [goflyfox/gmanager](https://github.com/goflyfox/gmanager) - 基于gf框架的管理平台，支持登录、认证、组织机构、用户、角色、菜单、日志
 - [CrazyRocks/goadmin](https://github.com/CrazyRocks/goadmin) - 全自动一键生成的golang admin,干活就是需要快
@@ -137,6 +138,8 @@
 
 ## JavaScript 
 
+- [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
+- [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
@@ -376,6 +379,10 @@
 ## Ruby 
 
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+
+## Rust 
+
+- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 
 ## SCSS 
 
