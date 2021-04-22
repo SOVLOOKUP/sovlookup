@@ -138,6 +138,11 @@
 
 ## JavaScript 
 
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Electron app boilerplate based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
+- [rxwater/rxeditor](https://github.com/rxwater/rxeditor) - HTML Visual Editor, based in Bootstrap. 基于Bootstrap实现的，HTML可视化编辑工具。
+- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
+- [yansenlei/electron-asar-hot-updater](https://github.com/yansenlei/electron-asar-hot-updater) - :v:  A NodeJs module for Electron, that handles app.asar updates.
+- [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [denofn/svelte](https://github.com/denofn/svelte) - Svelte compiler ported to Deno
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
@@ -400,6 +405,8 @@
 
 ## TypeScript 
 
+- [rxwater/rxdrag](https://github.com/rxwater/rxdrag) - Build front end without the tears, just drag it.不需要代码的可视化前端，基于React Mui构建。
+- [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical compiler for svelte applications in deno
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [adam-cowley/use-neo4j](https://github.com/adam-cowley/use-neo4j) - React Hooks for Neo4j
