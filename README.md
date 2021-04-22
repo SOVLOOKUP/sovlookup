@@ -84,11 +84,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 
 <!--START_SECTION:waka-->
 ```text
-JSON         45 mins         ████████▒░░░░░░░░░░░░░░░░   33.52 % 
-CSV          40 mins         ███████▓░░░░░░░░░░░░░░░░░   30.08 % 
-Python       21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-JavaScript   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JSON         2 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   40.94 % 
+Python       56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.69 % 
+JavaScript   49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+CSV          40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 <!--END_SECTION:waka-->
 
