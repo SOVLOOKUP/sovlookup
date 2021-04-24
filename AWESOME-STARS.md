@@ -56,6 +56,7 @@
 
 ## Go 
 
+- [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [iGoogle-ink/gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3已支持，推荐使用微信V3接口】
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
@@ -218,6 +219,7 @@
 
 ## Jupyter Notebook 
 
+- [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [zjunlp/deepke](https://github.com/zjunlp/deepke) - 基于深度学习的开源中文关系抽取框架
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
@@ -282,6 +284,7 @@
 
 ## Python 
 
+- [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。
 - [jm12138/PaddleQuickInference](https://github.com/jm12138/PaddleQuickInference) - 一个基于 Paddle Inference 封装的用于快速部署的高层 API
 - [dataabc/weibo-search](https://github.com/dataabc/weibo-search) - 获取微博搜索结果信息，搜索即可以是微博关键词搜索，也可以是微博话题搜索
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
@@ -406,7 +409,9 @@
 
 ## TypeScript 
 
-- [rxwater/rxdrag](https://github.com/rxwater/rxdrag) - Build front end without the tears, just drag it.不需要代码的可视化前端，基于React Mui构建。
+- [openkraken/kraken](https://github.com/openkraken/kraken) - A high-performance, web standards-compliant rendering engine based on Flutter.
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
+- [rxwater/dragit](https://github.com/rxwater/dragit) - Build front end without the tears, just drag it.不需要代码的可视化前端，基于React Mui构建。
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical compiler for svelte applications in deno
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
