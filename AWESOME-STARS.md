@@ -41,6 +41,7 @@
 
 ## C++ 
 
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [HuangFJ/pyltp](https://github.com/HuangFJ/pyltp) - LTP wrapper module for Python. Move to https://github.com/HIT-SCIR/pyltp
 - [km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 研读顶会论文，复现论文相关代码
@@ -139,6 +140,7 @@
 
 ## JavaScript 
 
+- [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Electron app boilerplate based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [rxwater/rxeditor](https://github.com/rxwater/rxeditor) - HTML Visual Editor, based in Bootstrap. 基于Bootstrap实现的，HTML可视化编辑工具。
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
@@ -409,6 +411,8 @@
 
 ## TypeScript 
 
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [openkraken/kraken](https://github.com/openkraken/kraken) - A high-performance, web standards-compliant rendering engine based on Flutter.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [rxwater/dragit](https://github.com/rxwater/dragit) - Build front end without the tears, just drag it.不需要代码的可视化前端，基于React Mui构建。
