@@ -57,6 +57,7 @@
 
 ## Go 
 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [iGoogle-ink/gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3已支持，推荐使用微信V3接口】
@@ -141,7 +142,7 @@
 ## JavaScript 
 
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
-- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Electron app boilerplate based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [rxwater/rxeditor](https://github.com/rxwater/rxeditor) - HTML Visual Editor, based in Bootstrap. 基于Bootstrap实现的，HTML可视化编辑工具。
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [yansenlei/electron-asar-hot-updater](https://github.com/yansenlei/electron-asar-hot-updater) - :v:  A NodeJs module for Electron, that handles app.asar updates.
@@ -221,6 +222,7 @@
 
 ## Jupyter Notebook 
 
+- [AI4Finance-LLC/FinRL](https://github.com/AI4Finance-LLC/FinRL) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
 - [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [zjunlp/deepke](https://github.com/zjunlp/deepke) - 基于深度学习的开源中文关系抽取框架
@@ -287,7 +289,7 @@
 ## Python 
 
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。
-- [jm12138/PaddleQuickInference](https://github.com/jm12138/PaddleQuickInference) - 一个基于 Paddle Inference 封装的用于快速部署的高层 API
+- [AgentMaker/PaddleQuickInference](https://github.com/AgentMaker/PaddleQuickInference) - 一个基于 Paddle Inference 封装的用于快速部署的高层 API
 - [dataabc/weibo-search](https://github.com/dataabc/weibo-search) - 获取微博搜索结果信息，搜索即可以是微博关键词搜索，也可以是微博话题搜索
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source online database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
