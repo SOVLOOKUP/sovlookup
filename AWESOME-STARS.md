@@ -118,7 +118,6 @@
 
 ## HTML 
 
-- [clouDr-f2e/mitojs](https://github.com/clouDr-f2e/mitojs) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [ownthink/KG-View](https://github.com/ownthink/KG-View) - 知识图谱可视化展示
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
@@ -141,6 +140,8 @@
 
 ## JavaScript 
 
+- [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
+- [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies
 - [deepwel/Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator) - Annotator for Chinese Text Corpus (UNDER DEVELOPMENT) 中文文本标注工具
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
@@ -289,6 +290,7 @@
 
 ## Python 
 
+- [deshaw/versioned-hdf5](https://github.com/deshaw/versioned-hdf5) - Versioned HDF5
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。
 - [AgentMaker/PaddleQuickInference](https://github.com/AgentMaker/PaddleQuickInference) - 一个基于 Paddle Inference 封装的用于快速部署的高层 API
 - [dataabc/weibo-search](https://github.com/dataabc/weibo-search) - 获取微博搜索结果信息，搜索即可以是微博关键词搜索，也可以是微博话题搜索
@@ -440,6 +442,7 @@
 - [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
 - [RienNeVaPlus/type-arango](https://github.com/RienNeVaPlus/type-arango) - 🥑 TypeArango manages ArangoDB collections, documents, relations and routes by taking advantage of TypeScript's typings.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
+- [clouDr-f2e/mitojs](https://github.com/clouDr-f2e/mitojs) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [Paciolan/remote-module-loader](https://github.com/Paciolan/remote-module-loader) - Loads a CommonJS module from a remote URL for the Browser or Node.js.
 - [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
