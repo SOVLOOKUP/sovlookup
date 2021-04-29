@@ -290,6 +290,7 @@
 
 ## Python 
 
+- [jackfromeast/DES_algorithm](https://github.com/jackfromeast/DES_algorithm) - 使用DES加密算法通过四种操作模式（ECB\CBC\CFB\OFB）实现对文件的加密；Using DES algorithm encode files through four different patterns
 - [deshaw/versioned-hdf5](https://github.com/deshaw/versioned-hdf5) - Versioned HDF5
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。
 - [AgentMaker/PaddleQuickInference](https://github.com/AgentMaker/PaddleQuickInference) - 一个基于 Paddle Inference 封装的用于快速部署的高层 API
@@ -334,7 +335,7 @@
 - [vipstone/faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
 - [THUMNLab/AutoGL](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
 - [pystiche/pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch
-- [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python
+- [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [zllrunning/video-object-removal](https://github.com/zllrunning/video-object-removal) - Just draw a bounding box and you can remove the object you want to remove.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
