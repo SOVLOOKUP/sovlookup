@@ -135,7 +135,7 @@
 - [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 腾讯内外四个奖项、腾讯开源五个第一 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构！🏆 4 awards inside&outside Tencent, 5 best aspects of Tencent Open. 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 腾讯内外五个奖项、腾讯开源五个第一 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构！🏆 5 awards inside&outside Tencent, 5 best aspects of Tencent Open. 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 
 ## JavaScript 
