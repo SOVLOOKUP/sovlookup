@@ -41,6 +41,7 @@
 
 ## C++ 
 
+- [blueloveTH/playdict](https://github.com/blueloveTH/playdict) - 
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [HuangFJ/pyltp](https://github.com/HuangFJ/pyltp) - LTP wrapper module for Python. Move to https://github.com/HIT-SCIR/pyltp
@@ -260,7 +261,7 @@
 - [status-im/nim-json-rpc](https://github.com/status-im/nim-json-rpc) - Nim library for implementing JSON-RPC clients and servers
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs At
 - [xyb/googlesearch.nim](https://github.com/xyb/googlesearch.nim) - Nim library for scraping google search results
-- [pragmagic/karax](https://github.com/pragmagic/karax) - Karax. Single page applications for Nim.
+- [karaxnim/karax](https://github.com/karaxnim/karax) - Karax. Single page applications for Nim.
 - [soasme/nim-markdown](https://github.com/soasme/nim-markdown) - A Beautiful Markdown Parser in the Nim World.
 - [dom96/ipsumgenera](https://github.com/dom96/ipsumgenera) - Static blog generator written in Nim
 - [planety/prologue](https://github.com/planety/prologue) - Prologue is an elegant web framework written in Nim.
@@ -417,6 +418,7 @@
 
 ## TypeScript 
 
+- [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [openkraken/kraken](https://github.com/openkraken/kraken) - A high-performance, web standards-compliant rendering engine based on Flutter.
