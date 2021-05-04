@@ -15,6 +15,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Lua](#lua)
   - [Makefile](#makefile)
   - [Nim](#nim)
   - [Others](#others)
@@ -41,7 +42,6 @@
 
 ## C++ 
 
-- [blueloveTH/playdict](https://github.com/blueloveTH/playdict) - 
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [HuangFJ/pyltp](https://github.com/HuangFJ/pyltp) - LTP wrapper module for Python. Move to https://github.com/HIT-SCIR/pyltp
@@ -235,6 +235,10 @@
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 
+## Lua 
+
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+
 ## Makefile 
 
 - [c-bata/go-onnx](https://github.com/c-bata/go-onnx) - Golang binding of ONNX and ONNX-ML.
@@ -291,6 +295,7 @@
 
 ## Python 
 
+- [blueloveTH/playdict](https://github.com/blueloveTH/playdict) - 
 - [jackfromeast/DES_algorithm](https://github.com/jackfromeast/DES_algorithm) - 使用DES加密算法通过四种操作模式（ECB\CBC\CFB\OFB）实现对文件的加密；Using DES algorithm encode files through four different patterns
 - [deshaw/versioned-hdf5](https://github.com/deshaw/versioned-hdf5) - Versioned HDF5
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。
@@ -418,6 +423,7 @@
 
 ## TypeScript 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
