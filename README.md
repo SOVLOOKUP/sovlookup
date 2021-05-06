@@ -93,8 +93,7 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   43 mins         ███████████████████████▒░   93.00 % 
-JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+TypeScript   30 mins         █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
