@@ -43,6 +43,7 @@
 
 ## C++ 
 
+- [blueloveTH/playdict](https://github.com/blueloveTH/playdict) - 
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [HuangFJ/pyltp](https://github.com/HuangFJ/pyltp) - LTP wrapper module for Python. Move to https://github.com/HIT-SCIR/pyltp
@@ -304,7 +305,6 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [lux-org/lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
-- [blueloveTH/playdict](https://github.com/blueloveTH/playdict) - 
 - [jackfromeast/DES_algorithm](https://github.com/jackfromeast/DES_algorithm) - 使用DES加密算法通过四种操作模式（ECB\CBC\CFB\OFB）实现对文件的加密；Using DES algorithm encode files through four different patterns
 - [deshaw/versioned-hdf5](https://github.com/deshaw/versioned-hdf5) - Versioned HDF5
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。
