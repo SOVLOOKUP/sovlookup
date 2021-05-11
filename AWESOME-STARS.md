@@ -175,7 +175,7 @@
 - [KlausSchaefers/figma-low-code](https://github.com/KlausSchaefers/figma-low-code) - A repository to bootstrap Figma low code projects
 - [FooBallZ/pulsar](https://github.com/FooBallZ/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
-- [yjs/yjs](https://github.com/yjs/yjs) - Peer-to-peer shared types
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
@@ -304,6 +304,9 @@
 
 ## Python 
 
+- [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object detection and instance segmentation toolkit based on PaddlePaddle.
+- [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [LeLe86/vWeChatCrawl](https://github.com/LeLe86/vWeChatCrawl) - 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [lux-org/lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
