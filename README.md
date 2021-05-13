@@ -93,7 +93,9 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Rust     56 mins         ██████████████████████░░░   88.31 % 
+D        5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 <!--END_SECTION:waka-->
 
