@@ -20,6 +20,10 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
   🏸Badminton
   😋Yummy food
 
+- 📖 I am learning:
+  ![Rust](https://img.shields.io/badge/-Rust-pink?style=plastic&logo=Rust)
+  🇫🇷French
+  
 ---
   
 #### :sparkles: My followers
