@@ -447,6 +447,7 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
