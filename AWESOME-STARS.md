@@ -141,7 +141,7 @@
 - [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 腾讯内外五个奖项、腾讯开源五个第一 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构！🏆 5 awards inside&outside Tencent, 5 best aspects of Tencent Open. 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、自动化 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 
 ## JavaScript 
@@ -209,6 +209,7 @@
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+- [antvis/g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
 - [DataV-Team/DataV-React](https://github.com/DataV-Team/DataV-React) - React数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
@@ -500,7 +501,6 @@
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [antvis/AVA](https://github.com/antvis/AVA) - 🤖 A framework for automated visual analytics.
 - [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
-- [antvis/g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
 - [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
