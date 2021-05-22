@@ -53,6 +53,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/joebudi">Joe</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hamidnn">
+        <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
+      </a>
+      <br />
+      <a href="https://github.com/hamidnn">hamidnn</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/DallasAutumn">
         <img src="https://avatars2.githubusercontent.com/u/34374626" width="100px;" alt="DallasAutumn"/>
       </a>
@@ -73,6 +80,8 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/shadow-zed">shadow-zed</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lj2000star">
         <img src="https://avatars2.githubusercontent.com/u/53227911" width="100px;" alt="lj2000star"/>
@@ -80,8 +89,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/lj2000star">Jensis</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/S61033">
         <img src="https://avatars2.githubusercontent.com/u/82012439" width="100px;" alt="S61033"/>
