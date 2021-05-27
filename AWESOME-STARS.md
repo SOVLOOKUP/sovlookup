@@ -148,6 +148,7 @@
 
 ## JavaScript 
 
+- [KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [monk-coder/dust](https://github.com/monk-coder/dust) - 繁华 不过一掬细沙
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
@@ -470,7 +471,7 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [rxwater/dragit](https://github.com/rxwater/dragit) - Build front end without the tears, just drag it.不需要代码的可视化前端，基于React Mui构建。
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
-- [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical compiler for svelte applications in deno
+- [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical framework for svelte applications in deno
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [adam-cowley/use-neo4j](https://github.com/adam-cowley/use-neo4j) - React Hooks for Neo4j
 - [midwayjs/hooks](https://github.com/midwayjs/hooks) - FullStack | Zero Api | Using "React Hooks" to develop the back-end | Vite
