@@ -156,7 +156,6 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-- [monk-coder/dust](https://github.com/monk-coder/dust) - 繁华 不过一掬细沙
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies
