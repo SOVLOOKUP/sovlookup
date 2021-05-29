@@ -111,11 +111,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 12 mins   ███████████▒░░░░░░░░░░░░░   45.16 % 
-TypeScript   2 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
-JSON         2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Python       1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Svelte       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JavaScript   6 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   43.16 % 
+TypeScript   2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
+JSON         2 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Python       1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Svelte       43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 <!--END_SECTION:waka-->
 
