@@ -65,6 +65,7 @@
 
 ## Go 
 
+- [doorbash/pm2-web](https://github.com/doorbash/pm2-web) - Web based monitor for PM2
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -153,6 +154,7 @@
 
 ## JavaScript 
 
+- [yuedun/zhuque](https://github.com/yuedun/zhuque) - 使用go开发的简单高效的发布系统，支持pm2 deploy和scp两种发布方式。
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -317,6 +319,7 @@
 
 ## Python 
 
+- [tensorflow/decision-forests](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
 - [GentleCP/corpwechat-bot](https://github.com/GentleCP/corpwechat-bot) - 企业微信消息推送的python封装接口，让你轻松用python实现对企业微信的消息推送
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [duterscmy/ccks2019-ckbqa-4th-codes](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes) - 中文知识库问答代码，CCKS2019 CKBQA评测第四名解决方案
@@ -540,6 +543,7 @@
 
 ## Vue 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
 - [jwenjian/lucky-you](https://github.com/jwenjian/lucky-you) - A tiny, simple but useful cross platform app to do a lucky draw or make a rolling call
 - [a54552239/pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
 - [yesccx/ydoc](https://github.com/yesccx/ydoc) - 一个简单易用的文档管理工具，支持markdown写作，可本地部署。
