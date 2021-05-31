@@ -39,6 +39,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/baifengbai">Bai Feng</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yuedun">
+        <img src="https://avatars2.githubusercontent.com/u/7362116" width="100px;" alt="yuedun"/>
+      </a>
+      <br />
+      <a href="https://github.com/yuedun">yuedun</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fluffyrita">
         <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
       </a>
@@ -73,6 +80,8 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/DallasAutumn">Qiuyang Duan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/xiluowei0">
         <img src="https://avatars2.githubusercontent.com/u/66123059" width="100px;" alt="xiluowei0"/>
@@ -80,8 +89,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/xiluowei0">WUJI</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/shadow-zed">
         <img src="https://avatars2.githubusercontent.com/u/66454164" width="100px;" alt="shadow-zed"/>
