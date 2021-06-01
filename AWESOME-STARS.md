@@ -65,7 +65,7 @@
 
 ## Go 
 
-- [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
+- [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [doorbash/pm2-web](https://github.com/doorbash/pm2-web) - Web based monitor for PM2
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [yuedun/zhuque](https://github.com/yuedun/zhuque) - 使用go开发的简单高效的发布系统，支持pm2 deploy和scp两种发布方式。
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings
