@@ -211,7 +211,7 @@
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a free and open-source development platform that helps you build business apps on your own infrastructure, in minutes 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps you build and self-host internal tools in minutes 🚀
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -465,6 +465,7 @@
 
 ## TypeScript 
 
+- [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
 - [drashland/deno-drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero 3rd party dependencies
 - [alosaur/alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
@@ -545,7 +546,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
 - [jwenjian/lucky-you](https://github.com/jwenjian/lucky-you) - A tiny, simple but useful cross platform app to do a lucky draw or make a rolling call
 - [a54552239/pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
 - [yesccx/ydoc](https://github.com/yesccx/ydoc) - 一个简单易用的文档管理工具，支持markdown写作，可本地部署。
