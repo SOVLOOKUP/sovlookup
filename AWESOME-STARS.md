@@ -72,7 +72,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source vector database powered by Faiss, NMSLIB and Annoy
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [iGoogle-ink/gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3已支持，推荐使用微信V3接口】
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [browserify/detective](https://github.com/browserify/detective) - Find all calls to require() no matter how deeply nested using a proper walk of the AST
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [yuedun/zhuque](https://github.com/yuedun/zhuque) - 使用go开发的简单高效的发布系统，支持pm2 deploy和scp两种发布方式。
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
@@ -321,6 +322,7 @@
 
 ## Python 
 
+- [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 - [tensorflow/decision-forests](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
 - [GentleCP/corpwechat-bot](https://github.com/GentleCP/corpwechat-bot) - 企业微信消息推送的python封装接口，让你轻松用python实现对企业微信的消息推送
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
