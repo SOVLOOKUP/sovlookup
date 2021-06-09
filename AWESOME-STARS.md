@@ -75,7 +75,7 @@
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source vector database powered by Faiss, NMSLIB and Annoy
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
-- [iGoogle-ink/gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3已支持，推荐使用微信V3接口】
+- [go-pay/gopay](https://github.com/go-pay/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3已支持，推荐使用微信V3接口】
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [xhit/go-simple-mail](https://github.com/xhit/go-simple-mail) - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
