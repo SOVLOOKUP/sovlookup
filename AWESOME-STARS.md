@@ -75,7 +75,7 @@
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source vector database powered by Faiss, NMSLIB and Annoy
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
-- [go-pay/gopay](https://github.com/go-pay/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3已支持，推荐使用微信V3接口】
+- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信（WeChat）、QQ、支付宝（AliPay）的Go版本SDK。【微信支付V3已支持，推荐使用微信V3接口】
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [xhit/go-simple-mail](https://github.com/xhit/go-simple-mail) - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
@@ -242,7 +242,7 @@
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里飞猪 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 - [yu-tou/antd-visual-editor](https://github.com/yu-tou/antd-visual-editor) - ant-design 组件库实时可视化编辑器，实时生成 react 代码
 - [lx164/house](https://github.com/lx164/house) - 租房平台类微信小程序，基于Cloud Base（TCB）云开发，小程序端集成了管理后台。用户可以发布新房、二手房、租房等委托，中介机构审核发布、推荐，客户挑好房子后可以直接中介或者房源发布者。小程序带完整的管理员后台，使用云开发独特的身份鉴权方式对管理员身份进行验证。快速完成微信小程序前后端的搭建，后台完全使用微信小程序云开发，不依赖服务器，无需购买服务器即可使用。
-- [TommyLemon/APIAuto](https://github.com/TommyLemon/APIAuto) - ☔ 敏捷开发最强大易用的 HTTP 接口工具，机器学习零代码测试、生成代码与静态检查、生成文档与光标悬浮注释。☔ The most advanced tool for HTTP API. Testing with machine learning, generating codes, static analysising, generating documents, generating annotations and floating hints.
+- [TommyLemon/APIAuto](https://github.com/TommyLemon/APIAuto) - ☔ 敏捷开发最强大易用的 HTTP 接口工具，机器学习零代码测试、生成代码与静态检查、生成文档与光标悬浮注释。☔ The most advanced tool for HTTP API. Testing with machine learning, generating codes and static analysis, generating comments and floating hints.
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [dream2023/f-render](https://github.com/dream2023/f-render) - f-render | 基于 ElementUI 的表单设计器
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
