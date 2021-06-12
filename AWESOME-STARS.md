@@ -491,7 +491,7 @@
 - [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical framework for svelte applications in deno
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [adam-cowley/use-neo4j](https://github.com/adam-cowley/use-neo4j) - React Hooks for Neo4j
-- [midwayjs/hooks](https://github.com/midwayjs/hooks) - FullStack | Zero Api | Using "React Hooks" to develop the back-end | Vite
+- [midwayjs/hooks](https://github.com/midwayjs/hooks) - FullStack / Zero Api / Using "React Hooks" to develop the back-end / Vite
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [alibaba/pont](https://github.com/alibaba/pont) - 🌉数据服务层解决方案
