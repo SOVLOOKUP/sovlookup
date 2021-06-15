@@ -25,7 +25,6 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [SCSS](#scss)
   - [Shell](#shell)
   - [Svelte](#svelte)
   - [TypeScript](#typescript)
@@ -137,6 +136,7 @@
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [ownthink/KG-View](https://github.com/ownthink/KG-View) - 知识图谱可视化展示
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [w3c/did-core](https://github.com/w3c/did-core) - W3C Decentralized Identifier Specification v1.0
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
@@ -325,6 +325,8 @@
 
 ## Python 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [PaddlePaddle/PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo) - Comprehensive, latest, and deployable video deep learning algorithm, including video recognition, action localization, and temporal action detection tasks. It's a high-performance, light-weight codebase provides practical models for video understanding research and application
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 - [tensorflow/decision-forests](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
@@ -453,10 +455,6 @@
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
-
-## SCSS 
-
-- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 
 ## Shell 
 
