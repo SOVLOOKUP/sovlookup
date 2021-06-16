@@ -215,7 +215,7 @@
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps you build and self-host internal tools in minutes 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps you build, automate and self-host internal and external tools in minutes 🚀
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
