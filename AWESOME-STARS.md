@@ -157,6 +157,7 @@
 
 ## JavaScript 
 
+- [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable Svelte 3 components
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
@@ -327,6 +328,7 @@
 
 ## Python 
 
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [PaddlePaddle/PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo) - Comprehensive, latest, and deployable video deep learning algorithm, including video recognition, action localization, and temporal action detection tasks. It's a high-performance, light-weight codebase provides practical models for video understanding research and application
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
@@ -350,7 +352,7 @@
 - [AgentMaker/PaddleQuickInference](https://github.com/AgentMaker/PaddleQuickInference) - 一个基于 Paddle Inference 封装的用于快速部署的高层 API
 - [dataabc/weibo-search](https://github.com/dataabc/weibo-search) - 获取微博搜索结果信息，搜索即可以是微博关键词搜索，也可以是微博话题搜索
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
-- [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source online database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+- [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
@@ -453,6 +455,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -471,6 +474,7 @@
 
 ## TypeScript 
 
+- [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
 - [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
