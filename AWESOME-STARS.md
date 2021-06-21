@@ -475,6 +475,7 @@
 
 ## TypeScript 
 
+- [junknet/vscode-nimlsp](https://github.com/junknet/vscode-nimlsp) - vscode nim lsp plugin
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
