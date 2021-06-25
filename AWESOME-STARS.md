@@ -157,6 +157,8 @@
 
 ## JavaScript 
 
+- [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
+- [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [egoist/konan](https://github.com/egoist/konan) - find all require/import calls by walking the AST
 - [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable Svelte 3 components
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -477,6 +479,7 @@
 
 ## TypeScript 
 
+- [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [junknet/vscode-nimlsp](https://github.com/junknet/vscode-nimlsp) - vscode nim lsp plugin
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
