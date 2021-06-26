@@ -176,7 +176,7 @@
 - [deepwel/Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator) - Annotator for Chinese Text Corpus (UNDER DEVELOPMENT) 中文文本标注工具
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
-- [rxwater/rxeditor](https://github.com/rxwater/rxeditor) - HTML Visual Editor, based in Bootstrap. 基于Bootstrap实现的，HTML可视化编辑工具。
+- [rxdrag/rxeditor](https://github.com/rxdrag/rxeditor) - HTML Visual Editor, based in Bootstrap. 基于Bootstrap实现的，HTML可视化编辑工具。
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [yansenlei/electron-asar-hot-updater](https://github.com/yansenlei/electron-asar-hot-updater) - :v:  A NodeJs module for Electron, that handles app.asar updates.
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
@@ -305,6 +305,7 @@
 
 ## Others 
 
+- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [qiaolufei/KG-Editor](https://github.com/qiaolufei/KG-Editor) - 知识图谱编辑器(vue+G6+vuetify)
 - [zhpmatrix/nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review) - 复盘所有NLP比赛的TOP方案，只关注NLP比赛，持续更新中！
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
@@ -460,6 +461,7 @@
 
 ## Rust 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
@@ -479,6 +481,9 @@
 
 ## TypeScript 
 
+- [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [junknet/vscode-nimlsp](https://github.com/junknet/vscode-nimlsp) - vscode nim lsp plugin
@@ -500,7 +505,7 @@
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [openkraken/kraken](https://github.com/openkraken/kraken) - A high-performance, web standards-compliant rendering engine based on Flutter.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
-- [rxwater/dragit](https://github.com/rxwater/dragit) - Build front end without the tears, just drag it.不需要代码的可视化前端，基于React Mui构建。
+- [rxdrag/dragit](https://github.com/rxdrag/dragit) - Build front end without the tears, just drag it.不需要代码的可视化前端，基于React Mui构建。
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical framework for svelte applications in deno
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
