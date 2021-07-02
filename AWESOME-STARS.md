@@ -331,6 +331,7 @@
 
 ## PHP 
 
+- [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [5ime/video_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频...
 
 ## Prolog 
