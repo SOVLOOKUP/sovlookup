@@ -340,6 +340,8 @@
 
 ## Python 
 
+- [chenyuqin-dlut/nhentai-imgcollect](https://github.com/chenyuqin-dlut/nhentai-imgcollect) - :rocket: 使用PyQt5图形界面的Python多线程nhentai爬虫
+- [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -468,6 +470,8 @@
 
 ## Rust 
 
+- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
+- [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
