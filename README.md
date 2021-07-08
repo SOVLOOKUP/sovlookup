@@ -46,18 +46,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/yuedun">yuedun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fluffyrita">
-        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
-      </a>
-      <br />
-      <a href="https://github.com/fluffyrita">Rita XU</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hamidnn">
         <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
       </a>
       <br />
       <a href="https://github.com/hamidnn">hamidnn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fluffyrita">
+        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
+      </a>
+      <br />
+      <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
     <td align="center">
       <a href="https://github.com/jamshedalii">
