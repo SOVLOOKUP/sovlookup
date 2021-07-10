@@ -33,6 +33,7 @@
 
 ## C 
 
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 
@@ -159,6 +160,7 @@
 
 ## JavaScript 
 
+- [M4Yt/ProgListr.js](https://github.com/M4Yt/ProgListr.js) - A simple node.js library for listing installed programs.
 - [bencevans/screenshot-desktop](https://github.com/bencevans/screenshot-desktop) - 💻 Capture a screenshot of your local machine
 - [clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick) - 📦  媲美utools的开源工具箱，自由集成丰富插件，utools生态插件微改动即可无差异化使用。
 - [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
@@ -340,6 +342,7 @@
 
 ## Python 
 
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [mirumee/saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [chenyuqin-dlut/nhentai-imgcollect](https://github.com/chenyuqin-dlut/nhentai-imgcollect) - :rocket: 使用PyQt5图形界面的Python多线程nhentai爬虫
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
@@ -471,6 +474,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
