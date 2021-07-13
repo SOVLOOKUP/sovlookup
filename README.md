@@ -74,14 +74,28 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/joebudi">Joe</a>
     </td>
     <td align="center">
+      <a href="https://github.com/CavalloneChen">
+        <img src="https://avatars2.githubusercontent.com/u/28266566" width="100px;" alt="CavalloneChen"/>
+      </a>
+      <br />
+      <a href="https://github.com/CavalloneChen">CavalloneChen</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/DallasAutumn">
         <img src="https://avatars2.githubusercontent.com/u/34374626" width="100px;" alt="DallasAutumn"/>
       </a>
       <br />
       <a href="https://github.com/DallasAutumn">Qiuyang Duan</a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/yokymia">
+        <img src="https://avatars2.githubusercontent.com/u/49587758" width="100px;" alt="yokymia"/>
+      </a>
+      <br />
+      <a href="https://github.com/yokymia">yokymia</a>
+    </td>
     <td align="center">
       <a href="https://github.com/xiluowei0">
         <img src="https://avatars2.githubusercontent.com/u/66123059" width="100px;" alt="xiluowei0"/>
