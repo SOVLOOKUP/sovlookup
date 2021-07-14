@@ -507,6 +507,8 @@
 
 ## TypeScript 
 
+- [AlexTorresSk/custom-electron-titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
+- [antvis/algorithm](https://github.com/antvis/algorithm) - 常用的图算法 JS 实现，提供给 G6 及 Graphin 用于图分析场景使用。
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [inherd/uncode](https://github.com/inherd/uncode) - Uncode is a conceptual IDE designed for the cloud development, also a cloud-native low-code software development enviorment. Uncode 是一个面向云研发时代设计的下一代概念性 IDE。
 - [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
