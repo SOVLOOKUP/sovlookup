@@ -46,13 +46,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/yuedun">yuedun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hamidnn">
-        <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
-      </a>
-      <br />
-      <a href="https://github.com/hamidnn">hamidnn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fluffyrita">
         <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
       </a>
@@ -60,11 +53,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jamshedalii">
-        <img src="https://avatars2.githubusercontent.com/u/71660579" width="100px;" alt="jamshedalii"/>
+      <a href="https://github.com/hamidnn">
+        <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
       </a>
       <br />
-      <a href="https://github.com/jamshedalii">jamshedalii</a>
+      <a href="https://github.com/hamidnn">hamidnn</a>
     </td>
     <td align="center">
       <a href="https://github.com/joebudi">
@@ -72,6 +65,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/joebudi">Joe</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jamshedalii">
+        <img src="https://avatars2.githubusercontent.com/u/71660579" width="100px;" alt="jamshedalii"/>
+      </a>
+      <br />
+      <a href="https://github.com/jamshedalii">jamshedalii</a>
     </td>
     <td align="center">
       <a href="https://github.com/CavalloneChen">
@@ -109,6 +109,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/shadow-zed">shadow-zed</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/priyankaakre27">
+        <img src="https://avatars2.githubusercontent.com/u/86101398" width="100px;" alt="priyankaakre27"/>
+      </a>
+      <br />
+      <a href="https://github.com/priyankaakre27">Priyanka</a>
     </td>
     <td align="center">
       <a href="https://github.com/lj2000star">
