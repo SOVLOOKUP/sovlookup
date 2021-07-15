@@ -7,6 +7,7 @@
 I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on ⚡ computer science ⚡ and I am a bit mad 🗯️ when I code.
 
 - 🚀 I use:
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Golang](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=Go)
