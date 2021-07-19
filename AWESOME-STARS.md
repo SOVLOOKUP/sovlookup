@@ -122,7 +122,7 @@
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [eolinker/goku](https://github.com/eolinker/goku) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management. ⎈ 🖥 ☁️
 - [goflyfox/gmanager](https://github.com/goflyfox/gmanager) - 基于gf框架的管理平台，支持登录、认证、组织机构、用户、角色、菜单、日志
 - [CrazyRocks/goadmin](https://github.com/CrazyRocks/goadmin) - 全自动一键生成的golang admin,干活就是需要快
 - [goflyfox/gtoken](https://github.com/goflyfox/gtoken) - 基于gf框架的token插件，通过服务端验证方式实现token认证；
@@ -267,7 +267,7 @@
 ## Jupyter Notebook 
 
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程，在线阅读地址：https://datawhalechina.github.io/easy-rl/
-- [AI4Finance-LLC/FinRL](https://github.com/AI4Finance-LLC/FinRL) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
+- [AI4Finance-LLC/FinRL](https://github.com/AI4Finance-LLC/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
 - [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [zjunlp/deepke](https://github.com/zjunlp/deepke) - 基于深度学习的开源中文关系抽取框架
@@ -337,7 +337,7 @@
 ## PHP 
 
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [5ime/video_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场...
+- [5ime/video_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
 
 ## Prolog 
 
