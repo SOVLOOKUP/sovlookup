@@ -169,6 +169,8 @@
 
 ## JavaScript 
 
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [dfahlander/Dexie.js](https://github.com/dfahlander/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端监控系统，webfunny也是一款前端性能监控系统，无埋点监控前端日志，实时分析前端健康状态。webfunny is a lightweight front-end monitoring system and webfunny is also a front-end performance monitoring system. It monitors front-end logs and analyzes front-end health status in real time.
 - [RuntimeTools/appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
@@ -335,7 +337,7 @@
 
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
 - [MrAlex94/Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
-- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [qiaolufei/KG-Editor](https://github.com/qiaolufei/KG-Editor) - 知识图谱编辑器(vue+G6+vuetify)
 - [zhpmatrix/nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review) - 复盘所有NLP比赛的TOP方案，只关注NLP比赛，持续更新中！
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
