@@ -40,6 +40,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/baifengbai">Bai Feng</a>
     </td>
     <td align="center">
+      <a href="https://github.com/GT-ZhangAcer">
+        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
+      </a>
+      <br />
+      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/StevenJokess">
         <img src="https://avatars2.githubusercontent.com/u/71307974" width="100px;" alt="StevenJokess"/>
       </a>
@@ -61,12 +68,21 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/hamidnn">hamidnn</a>
     </td>
     <td align="center">
+      <a href="https://github.com/thomas-yanxin">
+        <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
+      </a>
+      <br />
+      <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fluffyrita">
         <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
       </a>
       <br />
       <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/joebudi">
         <img src="https://avatars2.githubusercontent.com/u/49767913" width="100px;" alt="joebudi"/>
@@ -81,8 +97,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/jamshedalii">jamshedalii</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/CavalloneChen">
         <img src="https://avatars2.githubusercontent.com/u/28266566" width="100px;" alt="CavalloneChen"/>
@@ -117,20 +131,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/shadow-zed">shadow-zed</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/priyankaakre27">
-        <img src="https://avatars2.githubusercontent.com/u/86101398" width="100px;" alt="priyankaakre27"/>
-      </a>
-      <br />
-      <a href="https://github.com/priyankaakre27">Priyanka</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lj2000star">
-        <img src="https://avatars2.githubusercontent.com/u/53227911" width="100px;" alt="lj2000star"/>
-      </a>
-      <br />
-      <a href="https://github.com/lj2000star">Jensis</a>
     </td>
   </tr>
 </table>
