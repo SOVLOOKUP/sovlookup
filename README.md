@@ -98,6 +98,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/jamshedalii">jamshedalii</a>
     </td>
     <td align="center">
+      <a href="https://github.com/taylortaurus">
+        <img src="https://avatars2.githubusercontent.com/u/7396215" width="100px;" alt="taylortaurus"/>
+      </a>
+      <br />
+      <a href="https://github.com/taylortaurus">taylortaurus</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CavalloneChen">
         <img src="https://avatars2.githubusercontent.com/u/28266566" width="100px;" alt="CavalloneChen"/>
       </a>
@@ -124,13 +131,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/xiluowei0">WUJI</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shadow-zed">
-        <img src="https://avatars2.githubusercontent.com/u/66454164" width="100px;" alt="shadow-zed"/>
-      </a>
-      <br />
-      <a href="https://github.com/shadow-zed">shadow-zed</a>
     </td>
   </tr>
 </table>
