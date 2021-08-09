@@ -75,20 +75,20 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fluffyrita">
-        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
-      </a>
-      <br />
-      <a href="https://github.com/fluffyrita">Rita XU</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/joebudi">
         <img src="https://avatars2.githubusercontent.com/u/49767913" width="100px;" alt="joebudi"/>
       </a>
       <br />
       <a href="https://github.com/joebudi">Joe</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fluffyrita">
+        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
+      </a>
+      <br />
+      <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
     <td align="center">
       <a href="https://github.com/jamshedalii">
