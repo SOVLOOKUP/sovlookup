@@ -380,6 +380,8 @@
 
 ## Python 
 
+- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - An NLP library with Awesome pre-trained Transformer models and easy-to-use interface,  supporting wide-range of NLP tasks from research to industrial applications.
 - [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle from videos and generating srt files.
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A unified toolkit for Deep Learning Based Document Image Analysis
 - [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具
@@ -657,6 +659,7 @@
 
 ## Vue 
 
+- [datawhalechina/whale-anno](https://github.com/datawhalechina/whale-anno) - Datawhale自研数据标注工具
 - [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [jwenjian/lucky-you](https://github.com/jwenjian/lucky-you) - A tiny, simple but useful cross platform app to do a lucky draw or make a rolling call
