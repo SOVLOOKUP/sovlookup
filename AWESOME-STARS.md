@@ -171,6 +171,10 @@
 
 ## JavaScript 
 
+- [qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor) - 基于vue+g6实现的知识图谱编辑器
+- [molamolaxxx/KGView](https://github.com/molamolaxxx/KGView) - 知识图谱可视化javascript库，基于d3.js，面向网页前端知识图谱展示
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [Tencent/omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
@@ -347,7 +351,7 @@
 - [karaxnim/karax](https://github.com/karaxnim/karax) - Karax. Single page applications for Nim.
 - [soasme/nim-markdown](https://github.com/soasme/nim-markdown) - A Beautiful Markdown Parser in the Nim World.
 - [dom96/ipsumgenera](https://github.com/dom96/ipsumgenera) - Static blog generator written in Nim
-- [planety/prologue](https://github.com/planety/prologue) - Prologue is an elegant web framework written in Nim.
+- [planety/prologue](https://github.com/planety/prologue) - Powerful and flexible web framework written in Nim
 - [treeform/fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
 
 ## Others 
