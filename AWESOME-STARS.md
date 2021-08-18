@@ -389,7 +389,7 @@
 ## Python 
 
 - [dongrixinyu/chinese_keyphrase_extractor](https://github.com/dongrixinyu/chinese_keyphrase_extractor) - An off-the-shelf tool for Chinese Keyphrase Extraction 一个快速从中文里抽取关键短语的工具，仅占35M内存
-- [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - AI拟声: 克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [nju-websoft/OpenEA](https://github.com/nju-websoft/OpenEA) - A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs, VLDB 2020
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
@@ -570,6 +570,7 @@
 
 ## TypeScript 
 
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [agreatfool/grpc_tools_node_protoc_ts](https://github.com/agreatfool/grpc_tools_node_protoc_ts) - Generate TypeScript d.ts definitions for generated js files from grpc_tools_node_protoc
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
