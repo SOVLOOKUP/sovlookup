@@ -73,10 +73,11 @@
 
 ## Go 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A lightweight distributed transaction management service, support xa tcc saga. go分布式事务管理器
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A lightweight distributed transaction management service, support xa tcc saga. go分布式事务管理器。
 - [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -559,6 +560,7 @@
 
 ## Svelte 
 
+- [bestguy/sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte
 - [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
 - [jamescarlyle/wikid](https://github.com/jamescarlyle/wikid) - Svelte-based IPFS-stored personal Wiki system
 - [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
