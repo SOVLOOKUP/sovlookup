@@ -33,6 +33,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/noahehall">
+        <img src="https://avatars2.githubusercontent.com/u/10324554" width="100px;" alt="noahehall"/>
+      </a>
+      <br />
+      <a href="https://github.com/noahehall">noah edward hall</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/baifengbai">
         <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
       </a>
@@ -74,6 +81,8 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/hamidnn">
         <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
@@ -81,8 +90,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/hamidnn">hamidnn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/joebudi">
         <img src="https://avatars2.githubusercontent.com/u/49767913" width="100px;" alt="joebudi"/>
@@ -124,13 +131,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/CavalloneChen">CavalloneChen</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DallasAutumn">
-        <img src="https://avatars2.githubusercontent.com/u/34374626" width="100px;" alt="DallasAutumn"/>
-      </a>
-      <br />
-      <a href="https://github.com/DallasAutumn">Qiuyang Duan</a>
     </td>
   </tr>
 </table>
