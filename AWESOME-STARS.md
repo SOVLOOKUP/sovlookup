@@ -89,7 +89,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source vector database powered by Faiss, NMSLIB and Annoy
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信（WeChat）、支付宝（AliPay）的Go版本SDK。【极简、易用的聚合支付SDK】
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
@@ -395,6 +395,7 @@
 
 ## Python 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [dongrixinyu/chinese_keyphrase_extractor](https://github.com/dongrixinyu/chinese_keyphrase_extractor) - An off-the-shelf tool for Chinese Keyphrase Extraction 一个快速从中文里抽取关键短语的工具，仅占35M内存
 - [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
