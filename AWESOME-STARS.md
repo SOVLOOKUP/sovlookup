@@ -520,7 +520,7 @@
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [encode/uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
 - [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
-- [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI
+- [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [holgi/fastapi-permissions](https://github.com/holgi/fastapi-permissions) - row level security for FastAPI framework
 - [identixone/fastapi_contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities on top of FastAPI
 - [MushroomMaula/fastapi_login](https://github.com/MushroomMaula/fastapi_login) - FastAPI-Login tries to provide similar functionality as Flask-Login does.
@@ -640,7 +640,7 @@
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
-- [bytedance/garfish](https://github.com/bytedance/garfish) - A powerful micro front-end framework 🚚
+- [modern-js-dev/garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework 🚚
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Write components in any way, use them everywhere.😘
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
