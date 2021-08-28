@@ -174,6 +174,12 @@
 
 ## JavaScript 
 
+- [datproject/dat-desktop](https://github.com/datproject/dat-desktop) - Peer to peer data syncronization
+- [datproject/sdk](https://github.com/datproject/sdk) - Write your own dat app!
+- [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [yjs/y-dat](https://github.com/yjs/y-dat) - Dat provider for Yjs
+- [yjs/y-webrtc](https://github.com/yjs/y-webrtc) - WebRTC Connector for Yjs
+- [Rajaniraiyn/raj-browser](https://github.com/Rajaniraiyn/raj-browser) - A UI and privacy focussed browser for the web from the web.
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [opencomponents/oc](https://github.com/opencomponents/oc) - OpenComponents, serverless in the front-end world for painless micro-frontends delivery
@@ -399,7 +405,7 @@
 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [dongrixinyu/chinese_keyphrase_extractor](https://github.com/dongrixinyu/chinese_keyphrase_extractor) - An off-the-shelf tool for Chinese Keyphrase Extraction 一个快速从中文里抽取关键短语的工具，仅占35M内存
-- [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [nju-websoft/OpenEA](https://github.com/nju-websoft/OpenEA) - A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs, VLDB 2020
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
@@ -565,6 +571,7 @@
 
 ## Shell 
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 
