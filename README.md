@@ -109,7 +109,7 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
         <img src="https://avatars2.githubusercontent.com/u/49587758" width="100px;" alt="yokymia"/>
       </a>
       <br />
-      <a href="https://github.com/yokymia">yokymia</a>
+      <a href="https://github.com/yokymia">Yokymia Roberts </a>
     </td>
     <td align="center">
       <a href="https://github.com/jamshedalii">
