@@ -81,6 +81,7 @@
 
 ## Go 
 
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -180,6 +181,8 @@
 
 ## JavaScript 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [badyun/AShare](https://github.com/badyun/AShare) - 一款阿里云盘多账户直链解析程序
 - [datproject/dat-desktop](https://github.com/datproject/dat-desktop) - Peer to peer data syncronization
 - [datproject/sdk](https://github.com/datproject/sdk) - Write your own dat app!
@@ -555,6 +558,7 @@
 
 ## Rust 
 
+- [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -589,6 +593,7 @@
 
 ## Svelte 
 
+- [happyborg/p2p-git-portal-poc](https://github.com/happyborg/p2p-git-portal-poc) - p2p git portal proof-of-concept using Svelte Golang/WASM (experimental)
 - [bestguy/sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte
 - [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
 - [jamescarlyle/wikid](https://github.com/jamescarlyle/wikid) - Svelte-based IPFS-stored personal Wiki system
@@ -601,6 +606,7 @@
 
 ## TypeScript 
 
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [agreatfool/grpc_tools_node_protoc_ts](https://github.com/agreatfool/grpc_tools_node_protoc_ts) - Generate TypeScript d.ts definitions for generated js files from grpc_tools_node_protoc
