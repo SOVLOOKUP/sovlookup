@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [catdad/electronmon](https://github.com/catdad/electronmon) - 🖥 run, watch, and restart electron apps using magic
 - [sindresorhus/electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads for your Electron app
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [cuiwang/DatasMark](https://github.com/cuiwang/DatasMark) - A NER tool
@@ -199,6 +200,7 @@
 - [Rajaniraiyn/raj-browser](https://github.com/Rajaniraiyn/raj-browser) - A UI and privacy focussed browser for the web from the web.
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
+- [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
 - [opencomponents/oc](https://github.com/opencomponents/oc) - OpenComponents, serverless in the front-end world for painless micro-frontends delivery
 - [qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor) - 基于vue+g6实现的知识图谱编辑器
 - [molamolaxxx/KGView](https://github.com/molamolaxxx/KGView) - 知识图谱可视化javascript库，基于d3.js，面向网页前端知识图谱展示
@@ -334,7 +336,7 @@
 
 - [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程，在线阅读地址：https://datawhalechina.github.io/easy-rl/
-- [AI4Finance-LLC/FinRL](https://github.com/AI4Finance-LLC/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
 - [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - 基于深度学习的开源中文知识图谱抽取框架
@@ -605,7 +607,6 @@
 
 - [happyborg/p2p-git-portal-poc](https://github.com/happyborg/p2p-git-portal-poc) - p2p git portal proof-of-concept using Svelte Golang/WASM (experimental)
 - [bestguy/sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte
-- [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
 - [jamescarlyle/wikid](https://github.com/jamescarlyle/wikid) - Svelte-based IPFS-stored personal Wiki system
 - [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
 - [kaisermann/svelte-loadable](https://github.com/kaisermann/svelte-loadable) - Dynamically load a svelte component
@@ -616,6 +617,9 @@
 
 ## TypeScript 
 
+- [jbreckmckye/electron-auth0-login](https://github.com/jbreckmckye/electron-auth0-login) - Helper widget for Auth0 authentication in Electron desktop apps
+- [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox) - A must necessary developers toolbox.
+- [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
@@ -687,7 +691,7 @@
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [Paciolan/remote-module-loader](https://github.com/Paciolan/remote-module-loader) - Loads a CommonJS module from a remote URL for the Browser or Node.js.
-- [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
+- [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [microsoft/etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
