@@ -569,6 +569,7 @@
 
 ## Rust 
 
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
