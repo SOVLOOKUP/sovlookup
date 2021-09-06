@@ -61,6 +61,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mpi3d">
+        <img src="https://avatars2.githubusercontent.com/u/26822551" width="100px;" alt="mpi3d"/>
+      </a>
+      <br />
+      <a href="https://github.com/mpi3d">Matthieu CHARETTE</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yuedun">
         <img src="https://avatars2.githubusercontent.com/u/7362116" width="100px;" alt="yuedun"/>
       </a>
@@ -74,6 +81,8 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/hamidnn">hamidnn</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/fodelf">
         <img src="https://avatars2.githubusercontent.com/u/20442029" width="100px;" alt="fodelf"/>
@@ -81,8 +90,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/fodelf">WuWenZhou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/thomas-yanxin">
         <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
@@ -124,13 +131,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/taylortaurus">taylortaurus</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CavalloneChen">
-        <img src="https://avatars2.githubusercontent.com/u/28266566" width="100px;" alt="CavalloneChen"/>
-      </a>
-      <br />
-      <a href="https://github.com/CavalloneChen">CavalloneChen</a>
     </td>
   </tr>
 </table>
