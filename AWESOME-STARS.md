@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
 - [ml87124909/MaliStore](https://github.com/ml87124909/MaliStore) - 简道云之家开发版，微信小程序商城。无需开发，无需设计，真正做到下载即用👏👏可以部署到自己的服务器，小程序端免费开源🆓这应该是目前开源最全最好的一套微信小程序商城了🎉🎉小程序端配置请参考文档说明👉https://www.yjyzj.cn/index/help  API接口文档请参考👉 https://www.yjyzj.cn/index/api
 - [catdad/electronmon](https://github.com/catdad/electronmon) - 🖥 run, watch, and restart electron apps using magic
 - [sindresorhus/electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads for your Electron app
@@ -571,6 +572,7 @@
 
 ## Rust 
 
+- [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
