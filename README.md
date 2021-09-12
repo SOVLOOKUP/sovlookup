@@ -112,18 +112,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zendbit">
-        <img src="https://avatars2.githubusercontent.com/u/2082256" width="100px;" alt="zendbit"/>
-      </a>
-      <br />
-      <a href="https://github.com/zendbit">Amru Rosyada</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yokymia">
         <img src="https://avatars2.githubusercontent.com/u/49587758" width="100px;" alt="yokymia"/>
       </a>
       <br />
       <a href="https://github.com/yokymia">Yokymia Roberts </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zendbit">
+        <img src="https://avatars2.githubusercontent.com/u/2082256" width="100px;" alt="zendbit"/>
+      </a>
+      <br />
+      <a href="https://github.com/zendbit">Amru Rosyada</a>
     </td>
     <td align="center">
       <a href="https://github.com/jamshedalii">
