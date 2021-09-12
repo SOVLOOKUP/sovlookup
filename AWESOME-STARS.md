@@ -575,6 +575,9 @@
 
 ## Rust 
 
+- [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Node.js, Python, Java, and Ruby
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
+- [Starlight-JS/starlight](https://github.com/Starlight-JS/starlight) - JS engine in Rust
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
@@ -628,6 +631,8 @@
 
 ## TypeScript 
 
+- [polkadot-js/wasm](https://github.com/polkadot-js/wasm) - A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions
+- [ohbug-org/ohbug-server](https://github.com/ohbug-org/ohbug-server) - The back end of the dashboard is implemented based on nestjs.
 - [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building TypeScript projects efficiently with rollup + esbuild
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
