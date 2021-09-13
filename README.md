@@ -12,7 +12,8 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Golang](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=Go)
   ![Nim](https://img.shields.io/badge/-Nim-yellow?style=plastic&logo=nim)
- 
+  ![Rust](https://img.shields.io/badge/-Rust-pink?style=plastic&logo=Rust)
+  
 - 💬 I speak:
   🇨🇳Chinese 🇬🇧English
 
@@ -22,7 +23,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
   😋Yummy food
 
 - 📖 I am learning:
-  ![Rust](https://img.shields.io/badge/-Rust-pink?style=plastic&logo=Rust)
   🇫🇷French
   
 ---
