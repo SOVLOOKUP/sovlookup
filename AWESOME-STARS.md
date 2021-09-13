@@ -328,6 +328,7 @@
 - [lx164/house](https://github.com/lx164/house) - 租房平台类微信小程序，基于Cloud Base（TCB）云开发，小程序端集成了管理后台。用户可以发布新房、二手房、租房等委托，中介机构审核发布、推荐，客户挑好房子后可以直接中介或者房源发布者。小程序带完整的管理员后台，使用云开发独特的身份鉴权方式对管理员身份进行验证。快速完成微信小程序前后端的搭建，后台完全使用微信小程序云开发，不依赖服务器，无需购买服务器即可使用。
 - [TommyLemon/APIAuto](https://github.com/TommyLemon/APIAuto) - ☔ 敏捷开发最强大易用的 HTTP 接口工具，机器学习零代码测试、生成代码与静态检查、生成文档与光标悬浮注释。☔ The most advanced tool for HTTP API. Testing with machine learning, generating codes and static analysis, generating comments and floating hints.
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [dream2023/f-render](https://github.com/dream2023/f-render) - f-render | 基于 ElementUI 的表单设计器
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
@@ -346,7 +347,6 @@
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [yixiu00001/LSTM-CRF-medical](https://github.com/yixiu00001/LSTM-CRF-medical) - 构建医疗实体识别的模型，包含词典和语料标注，基于python构建
 - [LakiLiu/Covid-19-Analysis](https://github.com/LakiLiu/Covid-19-Analysis) - 数据集依据与“新冠肺炎”相关的230个主题关键词进行数据采集，抓取了2020年1月1日—2020年2月20日期间共计100万条微博数据，并对其中10万条数据进行人工标注，标注分为三类，分别为：1（积极），0（中性）和-1（消极）
-- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 
 ## Lua 
@@ -575,6 +575,10 @@
 
 ## Rust 
 
+- [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
+- [mattgathu/duma](https://github.com/mattgathu/duma) - Simple file downloader written in Rust
+- [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
+- [gendx/lzma-rs](https://github.com/gendx/lzma-rs) - An LZMA decoder/encoder written in pure Rust
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Node.js, Python, Java, and Ruby
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
 - [Starlight-JS/starlight](https://github.com/Starlight-JS/starlight) - JS engine in Rust
@@ -631,6 +635,7 @@
 
 ## TypeScript 
 
+- [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [polkadot-js/wasm](https://github.com/polkadot-js/wasm) - A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions
 - [ohbug-org/ohbug-server](https://github.com/ohbug-org/ohbug-server) - The back end of the dashboard is implemented based on nestjs.
 - [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building TypeScript projects efficiently with rollup + esbuild
