@@ -33,6 +33,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/muwoo">
+        <img src="https://avatars2.githubusercontent.com/u/21073039" width="100px;" alt="muwoo"/>
+      </a>
+      <br />
+      <a href="https://github.com/muwoo">木偶</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/noahehall">
         <img src="https://avatars2.githubusercontent.com/u/10324554" width="100px;" alt="noahehall"/>
       </a>
@@ -74,6 +81,8 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/yuedun">yuedun</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/fodelf">
         <img src="https://avatars2.githubusercontent.com/u/20442029" width="100px;" alt="fodelf"/>
@@ -81,8 +90,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <br />
       <a href="https://github.com/fodelf">WuWenZhou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/hamidnn">
         <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
@@ -105,13 +112,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/joebudi">Joe</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fluffyrita">
-        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
-      </a>
-      <br />
-      <a href="https://github.com/fluffyrita">Rita XU</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yokymia">
         <img src="https://avatars2.githubusercontent.com/u/49587758" width="100px;" alt="yokymia"/>
       </a>
@@ -119,18 +119,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/yokymia">Yokymia Roberts </a>
     </td>
     <td align="center">
+      <a href="https://github.com/fluffyrita">
+        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
+      </a>
+      <br />
+      <a href="https://github.com/fluffyrita">Rita XU</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zendbit">
         <img src="https://avatars2.githubusercontent.com/u/2082256" width="100px;" alt="zendbit"/>
       </a>
       <br />
       <a href="https://github.com/zendbit">Amru Rosyada</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jamshedalii">
-        <img src="https://avatars2.githubusercontent.com/u/71660579" width="100px;" alt="jamshedalii"/>
-      </a>
-      <br />
-      <a href="https://github.com/jamshedalii">jamshedalii</a>
     </td>
   </tr>
 </table>
