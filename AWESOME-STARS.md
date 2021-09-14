@@ -233,7 +233,7 @@
 - [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames
 - [M4Yt/ProgListr.js](https://github.com/M4Yt/ProgListr.js) - A simple node.js library for listing installed programs.
 - [bencevans/screenshot-desktop](https://github.com/bencevans/screenshot-desktop) - 💻 Capture a screenshot of your local machine
-- [clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick) - 🔧  基于 electron 的开源工具箱，自由集成丰富插件。
+- [clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
@@ -450,6 +450,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [PaddlePaddle/PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo) - Comprehensive, latest, and deployable video deep learning algorithm, including video recognition, action localization, and temporal action detection tasks. It's a high-performance, light-weight codebase provides practical models for video understanding research and application
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
@@ -575,6 +576,8 @@
 
 ## Rust 
 
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - (WIP) Taking the pain away from file (de)compression
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [mattgathu/duma](https://github.com/mattgathu/duma) - Simple file downloader written in Rust
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
@@ -635,6 +638,8 @@
 
 ## TypeScript 
 
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [polkadot-js/wasm](https://github.com/polkadot-js/wasm) - A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions
 - [ohbug-org/ohbug-server](https://github.com/ohbug-org/ohbug-server) - The back end of the dashboard is implemented based on nestjs.
@@ -673,7 +678,6 @@
 - [junknet/vscode-nimlsp](https://github.com/junknet/vscode-nimlsp) - vscode nim lsp plugin
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
