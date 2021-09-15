@@ -87,7 +87,7 @@
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A lightweight distributed transaction management service, support xa tcc saga, and support multiple languages. go分布式事务管理器。
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. go分布式事务管理器。
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -182,6 +182,7 @@
 
 ## JavaScript 
 
+- [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [xudeming208/electron-capture](https://github.com/xudeming208/electron-capture) - 利用electron和nodejs开发的桌面截图工具，支持Windows、Mac、Linux，支持双屏幕
 - [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
 - [ml87124909/MaliStore](https://github.com/ml87124909/MaliStore) - 简道云之家开发版，微信小程序商城。无需开发，无需设计，真正做到下载即用👏👏可以部署到自己的服务器，小程序端免费开源🆓这应该是目前开源最全最好的一套微信小程序商城了🎉🎉小程序端配置请参考文档说明👉https://www.yjyzj.cn/index/help  API接口文档请参考👉 https://www.yjyzj.cn/index/api
@@ -576,6 +577,8 @@
 
 ## Rust 
 
+- [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
+- [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - (WIP) Taking the pain away from file (de)compression
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
@@ -638,6 +641,7 @@
 
 ## TypeScript 
 
+- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
