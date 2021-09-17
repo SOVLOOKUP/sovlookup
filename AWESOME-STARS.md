@@ -324,7 +324,6 @@
 - [linzowo/uniapp-todolist](https://github.com/linzowo/uniapp-todolist) - 采用uniapp框架开发的microsoft 风格 todolist
 - [ice-lab/icejs-todos-admin](https://github.com/ice-lab/icejs-todos-admin) - icejs todos
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [didi/gatekeeper](https://github.com/didi/gatekeeper) - A non-dependent, online configuration, GO-developed, API gateway
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里飞猪 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 - [yu-tou/antd-visual-editor](https://github.com/yu-tou/antd-visual-editor) - ant-design 组件库实时可视化编辑器，实时生成 react 代码
 - [lx164/house](https://github.com/lx164/house) - 租房平台类微信小程序，基于Cloud Base（TCB）云开发，小程序端集成了管理后台。用户可以发布新房、二手房、租房等委托，中介机构审核发布、推荐，客户挑好房子后可以直接中介或者房源发布者。小程序带完整的管理员后台，使用云开发独特的身份鉴权方式对管理员身份进行验证。快速完成微信小程序前后端的搭建，后台完全使用微信小程序云开发，不依赖服务器，无需购买服务器即可使用。
@@ -408,6 +407,7 @@
 - [ScxMes/Core-Nim-programming](https://github.com/ScxMes/Core-Nim-programming) - Nim 核心编程
 - [VPashkov/awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [NervJS/awesome-taro](https://github.com/NervJS/awesome-taro) - 多端统一开发框架 Taro 优秀学习资源汇总
+- [didi/gatekeeper](https://github.com/didi/gatekeeper) - A non-dependent, online configuration, GO-developed, API gateway
 - [imgcook/imgcook](https://github.com/imgcook/imgcook) - Generate pages from any sketch or images.
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 - [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
@@ -582,7 +582,7 @@
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) - (WIP) Taking the pain away from file (de)compression
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [mattgathu/duma](https://github.com/mattgathu/duma) - Simple file downloader written in Rust
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
