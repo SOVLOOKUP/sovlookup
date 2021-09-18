@@ -182,6 +182,7 @@
 
 ## JavaScript 
 
+- [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 - [antfu/esno](https://github.com/antfu/esno) - TypeScript / ESNext node runtime powered by esbuild
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [xudeming208/electron-capture](https://github.com/xudeming208/electron-capture) - 利用electron和nodejs开发的桌面截图工具，支持Windows、Mac、Linux，支持双屏幕
@@ -578,6 +579,12 @@
 
 ## Rust 
 
+- [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
+- [Psykopear/fuzzle](https://github.com/Psykopear/fuzzle) - Fast application launcher
+- [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
+- [Soft/run-or-raise](https://github.com/Soft/run-or-raise) - Utility for launching applications or focusing their windows
+- [zethra/poki-launcher](https://github.com/zethra/poki-launcher) - An application launcher for Linux
+- [bram209/qLaunch](https://github.com/bram209/qLaunch) - Quick app launcher for linux
 - [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
