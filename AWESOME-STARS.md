@@ -431,6 +431,8 @@
 
 ## Python 
 
+- [ownthink/KnowledgeGraph](https://github.com/ownthink/KnowledgeGraph) - 史上最大规模1.4亿知识图谱数据免费下载，知识图谱，通用知识图谱，融合了两千五百多万的实体，拥有亿级别的实体属性关系。
+- [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -513,7 +515,7 @@
 - [isnowfy/snownlp](https://github.com/isnowfy/snownlp) - Python library for processing Chinese text
 - [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.
 - [Kestrong/capture_reid](https://github.com/Kestrong/capture_reid) - 可基于摄像头实时监控或录制的视频或静态图片进行行人检测(lffd)/跟踪(deep sort)和行人重识别(reid)。
-- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly CMS
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [vipstone/faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
 - [THUMNLab/AutoGL](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
 - [pystiche/pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch
@@ -581,6 +583,7 @@
 
 ## Rust 
 
+- [AltF02/x11-rs](https://github.com/AltF02/x11-rs) - Rust bindings for X11 libraries
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [Psykopear/fuzzle](https://github.com/Psykopear/fuzzle) - Fast application launcher
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
