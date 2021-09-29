@@ -185,6 +185,7 @@
 
 ## JavaScript 
 
+- [nashaofu/screenshots](https://github.com/nashaofu/screenshots) - A screenshot plugin for electron
 - [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 - [oslabs-beta/dockure](https://github.com/oslabs-beta/dockure) - Simplifying the containerization process
 - [sindresorhus/file-icon](https://github.com/sindresorhus/file-icon) - Get the icon of a file or app as a PNG image (macOS)
@@ -594,6 +595,7 @@
 
 ## Rust 
 
+- [1Password/sys-locale](https://github.com/1Password/sys-locale) - A small and lightweight Rust library to obtain the active locale on the system.
 - [littledivy/autopilot-deno](https://github.com/littledivy/autopilot-deno) - :rocket: Cross-platform desktop automation module for Deno.
 - [AltF02/x11-rs](https://github.com/AltF02/x11-rs) - Rust bindings for X11 libraries
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -668,6 +670,8 @@
 
 ## TypeScript 
 
+- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
