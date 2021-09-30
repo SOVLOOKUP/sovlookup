@@ -595,6 +595,12 @@
 
 ## Rust 
 
+- [Zerthox/rasar](https://github.com/Zerthox/rasar) - Asar packager & extractor written in Rust.
+- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library.
+- [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust's async IO types
+- [ANSSI-FR/MLA](https://github.com/ANSSI-FR/MLA) - Multi Layer Archive - A pure rust encrypted and compressed archive file format
+- [OSSystems/compress-tools-rs](https://github.com/OSSystems/compress-tools-rs) - A Swiss Army Knife for handling compressed data in Rust
+- [svartalf/rust-battery](https://github.com/svartalf/rust-battery) - Rust crate providing cross-platform information about the notebook batteries.
 - [1Password/sys-locale](https://github.com/1Password/sys-locale) - A small and lightweight Rust library to obtain the active locale on the system.
 - [littledivy/autopilot-deno](https://github.com/littledivy/autopilot-deno) - :rocket: Cross-platform desktop automation module for Deno.
 - [AltF02/x11-rs](https://github.com/AltF02/x11-rs) - Rust bindings for X11 libraries
