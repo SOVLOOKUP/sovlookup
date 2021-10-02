@@ -185,6 +185,7 @@
 
 ## JavaScript 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [nashaofu/screenshots](https://github.com/nashaofu/screenshots) - A screenshot plugin for electron
 - [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 - [oslabs-beta/dockure](https://github.com/oslabs-beta/dockure) - Simplifying the containerization process
@@ -582,7 +583,7 @@
 - [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [mapyJJJ/SinaVlogin](https://github.com/mapyJJJ/SinaVlogin) - 新浪微博模拟登陆（selenium+Flask+redis）
 - [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
