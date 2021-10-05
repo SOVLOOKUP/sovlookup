@@ -185,6 +185,9 @@
 
 ## JavaScript 
 
+- [datproject/hyperdrive-http](https://github.com/datproject/hyperdrive-http) - HTTP request handler for Hyperdrive and Hypercore
+- [hypercore-protocol/hypertrie](https://github.com/hypercore-protocol/hypertrie) - Distributed single writer key/value store
+- [kappa-db/kappa-core](https://github.com/kappa-db/kappa-core) - Minimal peer-to-peer database, based on kappa architecture.
 - [hyperswarm/hyperswarm](https://github.com/hyperswarm/hyperswarm) - A distributed networking stack for connecting peers.
 - [hyperdivision/hyperupdate](https://github.com/hyperdivision/hyperupdate) - P2P Electron updater with binary diffing built in
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -358,7 +361,7 @@
 
 - [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程，在线阅读地址：https://datawhalechina.github.io/easy-rl/
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020 & ICAIF 2021. 🔥
 - [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - 基于深度学习的开源中文知识图谱抽取框架
@@ -598,6 +601,7 @@
 
 ## Rust 
 
+- [yjs/y-crdt](https://github.com/yjs/y-crdt) - Rust port of Yjs
 - [Zerthox/rasar](https://github.com/Zerthox/rasar) - Asar packager & extractor written in Rust.
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library.
 - [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust's async IO types
@@ -675,6 +679,7 @@
 
 ## TypeScript 
 
+- [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
