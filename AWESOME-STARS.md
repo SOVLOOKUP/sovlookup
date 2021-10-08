@@ -175,6 +175,7 @@
 
 ## Java 
 
+- [MiracleTanC/Neo4j-KGBuilder](https://github.com/MiracleTanC/Neo4j-KGBuilder) - Neo4j+springboot+vue+d3.js知识图谱构建和可视化
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
@@ -602,6 +603,8 @@
 
 ## Rust 
 
+- [bminixhofer/tractjs](https://github.com/bminixhofer/tractjs) - Run ONNX and TensorFlow inference in the browser.
+- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [yjs/y-crdt](https://github.com/yjs/y-crdt) - Rust port of Yjs
 - [Zerthox/rasar](https://github.com/Zerthox/rasar) - Asar packager & extractor written in Rust.
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library.
@@ -680,6 +683,7 @@
 
 ## TypeScript 
 
+- [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
