@@ -82,12 +82,12 @@
 
 ## Go 
 
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. go分布式事务管理器
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -186,6 +186,7 @@
 
 ## JavaScript 
 
+- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [Level/level-rocksdb](https://github.com/Level/level-rocksdb) - A convenience package bundling levelup and rocksdb.
@@ -687,6 +688,8 @@
 
 ## TypeScript 
 
+- [casbin/node-casbin](https://github.com/casbin/node-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser
+- [pubkey/jsonschema-key-compression](https://github.com/pubkey/jsonschema-key-compression) - Compress json-data based on its json-schema while still having valid json
 - [rubickCenter/rubick-core](https://github.com/rubickCenter/rubick-core) - rubick core API. Support cross-platform and plug-in loading capability
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
