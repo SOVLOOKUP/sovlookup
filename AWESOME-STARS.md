@@ -32,6 +32,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Svelte](#svelte)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -87,7 +88,7 @@
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. go分布式事务管理器
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -414,6 +415,7 @@
 
 ## Others 
 
+- [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [KTruong008/svelte-antd](https://github.com/KTruong008/svelte-antd) - Ant Design components for svelte
 - [r0eXpeR/Online_Tools](https://github.com/r0eXpeR/Online_Tools) - 一些在线的工具,情报资源
 - [OpenKG-ORG/OpenConcepts](https://github.com/OpenKG-ORG/OpenConcepts) - 中文概念图谱OpenConcepts
@@ -606,6 +608,8 @@
 
 ## Rust 
 
+- [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - A Rust library for creating global hotkeys, and emulating inputs.
+- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [nanoporetech/fast-ctc-decode](https://github.com/nanoporetech/fast-ctc-decode) - Blitzing Fast CTC Beam Search Decoder
 - [bminixhofer/tractjs](https://github.com/bminixhofer/tractjs) - Run ONNX and TensorFlow inference in the browser.
@@ -685,6 +689,10 @@
 - [sirixdb/sirix-svelte-frontend](https://github.com/sirixdb/sirix-svelte-frontend) - A GUI console for SirixDB, using Svelte/Sapper.
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
+
+## Swift 
+
+- [Clipy/Magnet](https://github.com/Clipy/Magnet) - Customize global hotkeys in macOS.
 
 ## TypeScript 
 
