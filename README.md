@@ -54,13 +54,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/baifengbai">Bai Feng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/GT-ZhangAcer">
-        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
-      </a>
-      <br />
-      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mpi3d">
         <img src="https://avatars2.githubusercontent.com/u/26822551" width="100px;" alt="mpi3d"/>
       </a>
@@ -73,6 +66,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/StevenJokess">蔡舒起</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GT-ZhangAcer">
+        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
+      </a>
+      <br />
+      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/yuedun">
