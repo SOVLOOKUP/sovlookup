@@ -51,6 +51,7 @@
 
 ## C++ 
 
+- [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [sentialx/extract-file-icon](https://github.com/sentialx/extract-file-icon) - Get associated file icon
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 - [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
@@ -82,6 +83,7 @@
 
 ## Go 
 
+- [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
@@ -186,6 +188,7 @@
 
 ## JavaScript 
 
+- [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
 - [JaneaSystems/nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
@@ -460,6 +463,7 @@
 
 ## Python 
 
+- [patr0nus/libnode](https://github.com/patr0nus/libnode) - Build Node.js as a static library
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [ownthink/KnowledgeGraph](https://github.com/ownthink/KnowledgeGraph) - 史上最大规模1.4亿知识图谱数据免费下载，知识图谱，通用知识图谱，融合了两千五百多万的实体，拥有亿级别的实体属性关系。
