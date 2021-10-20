@@ -141,7 +141,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [chanxuehong/wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
 - [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [didi/Gatekeeper](https://github.com/didi/Gatekeeper) - A plug-in / rapid development / high performance / golang gateway
+- [didi/GateKeeper](https://github.com/didi/GateKeeper) - A plug-in / Rapid development / High performance  golang gateway
 - [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
 - [zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo) - 基于GoFrame用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
