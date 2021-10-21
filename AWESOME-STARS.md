@@ -141,7 +141,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [chanxuehong/wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
 - [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [didi/GateKeeper](https://github.com/didi/GateKeeper) - A plug-in / Rapid development / High performance  golang gateway
+- [didi/GateKeeper](https://github.com/didi/GateKeeper) - A high-performance Golang gateway that supports rapid development and plug-inization
 - [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
 - [zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo) - 基于GoFrame用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
@@ -336,7 +336,7 @@
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -706,6 +706,9 @@
 
 ## TypeScript 
 
+- [horiuchi/dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file
+- [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
+- [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
