@@ -188,6 +188,8 @@
 
 ## JavaScript 
 
+- [hypercore-protocol/hypercore-next](https://github.com/hypercore-protocol/hypercore-next) - Hypercore 10 is an append only log with multi-writer primitives built in.
+- [hypercore-protocol/autobase](https://github.com/hypercore-protocol/autobase) - Autobase lets you write concise multiwriter data structures with Hypercore
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
@@ -288,7 +290,7 @@
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
-- [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies with Grid Trading
+- [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
 - [deepwel/Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator) - Annotator for Chinese Text Corpus (UNDER DEVELOPMENT) 中文文本标注工具
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [rxdrag/rxeditor](https://github.com/rxdrag/rxeditor) - HTML Visual Editor, based in Bootstrap. 基于Bootstrap实现的，HTML可视化编辑工具。
@@ -523,7 +525,7 @@
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [cytoscape/ipycytoscape](https://github.com/cytoscape/ipycytoscape) - A Cytoscape Jupyter widget
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - 基于深度学习的开源中文知识图谱抽取框架
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - DeepKE是一个支持低资源、长篇章的开源知识抽取工具，具备命名实体识别、关系抽取和属性抽取等功能。
 - [PaddlePaddle/PGL](https://github.com/PaddlePaddle/PGL) - Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [PyUnit/pyunit-address](https://github.com/PyUnit/pyunit-address) - 字符串地址查询,支持自定义地址词库,解析地址,地址识别,地址抽取,中文地址.
@@ -619,6 +621,9 @@
 
 ## Rust 
 
+- [driftluo/tentacle](https://github.com/driftluo/tentacle) - A multiplexed p2p network framework that supports custom protocols
+- [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
+- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - A Rust library for creating global hotkeys, and emulating inputs.
@@ -706,6 +711,8 @@
 
 ## TypeScript 
 
+- [fluencelabs/fluent-pad](https://github.com/fluencelabs/fluent-pad) - CRDT-based collaborative code and text editor built with Fluence stack
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [horiuchi/dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
