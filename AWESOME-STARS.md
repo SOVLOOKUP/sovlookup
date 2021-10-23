@@ -188,6 +188,8 @@
 
 ## JavaScript 
 
+- [npm/pacote](https://github.com/npm/pacote) - npm fetcher
+- [motorlatitude/Drop](https://github.com/motorlatitude/Drop) - Cross-Platform color-picker/eye dropper tool built using Electron
 - [hypercore-protocol/hypercore-next](https://github.com/hypercore-protocol/hypercore-next) - Hypercore 10 is an append only log with multi-writer primitives built in.
 - [hypercore-protocol/autobase](https://github.com/hypercore-protocol/autobase) - Autobase lets you write concise multiwriter data structures with Hypercore
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
@@ -711,6 +713,8 @@
 
 ## TypeScript 
 
+- [Q42/openapi-typescript-validator](https://github.com/Q42/openapi-typescript-validator) - Generate typescript with ajv validation based on openapi schemas
+- [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
 - [fluencelabs/fluent-pad](https://github.com/fluencelabs/fluent-pad) - CRDT-based collaborative code and text editor built with Fluence stack
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [horiuchi/dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file
