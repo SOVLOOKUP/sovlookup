@@ -37,6 +37,7 @@
 
 ## C 
 
+- [jerryscript-project/iotjs](https://github.com/jerryscript-project/iotjs) - Platform for Internet of Things with JavaScript http://www.iotjs.net
 - [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
@@ -188,6 +189,8 @@
 
 ## JavaScript 
 
+- [saghul/txiki.js](https://github.com/saghul/txiki.js) - The tiny JavaScript runtime built with QuickJS, libuv and ❤️
+- [yodaos-project/ShadowNode](https://github.com/yodaos-project/ShadowNode) - Use Node.js in your end devices(QQ: 796448809)
 - [npm/pacote](https://github.com/npm/pacote) - npm fetcher
 - [motorlatitude/Drop](https://github.com/motorlatitude/Drop) - Cross-Platform color-picker/eye dropper tool built using Electron
 - [hypercore-protocol/hypercore-next](https://github.com/hypercore-protocol/hypercore-next) - Hypercore 10 is an append only log with multi-writer primitives built in.
@@ -623,6 +626,9 @@
 
 ## Rust 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [HiRoFa/spidermonkey_runtime](https://github.com/HiRoFa/spidermonkey_runtime) - this is a rust wrapper for the spidermonkey javascript engine, it uses the mozjs project
+- [HiRoFa/GreenCopperRuntime](https://github.com/HiRoFa/GreenCopperRuntime) - Javascript runtime library built in rust which can be used with several JavaScript engines
 - [driftluo/tentacle](https://github.com/driftluo/tentacle) - A multiplexed p2p network framework that supports custom protocols
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
@@ -713,6 +719,7 @@
 
 ## TypeScript 
 
+- [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [Q42/openapi-typescript-validator](https://github.com/Q42/openapi-typescript-validator) - Generate typescript with ajv validation based on openapi schemas
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
 - [fluencelabs/fluent-pad](https://github.com/fluencelabs/fluent-pad) - CRDT-based collaborative code and text editor built with Fluence stack
@@ -783,7 +790,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
-- [drashland/deno-drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero 3rd party dependencies
+- [drashland/deno-drash](https://github.com/drashland/deno-drash) - A microframework for Deno's HTTP server with zero third-party dependencies
 - [alosaur/alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
