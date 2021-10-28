@@ -52,6 +52,7 @@
 
 ## C++ 
 
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2021 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [sentialx/extract-file-icon](https://github.com/sentialx/extract-file-icon) - Get associated file icon
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
@@ -560,7 +561,7 @@
 - [auto-flow/ultraopt](https://github.com/auto-flow/ultraopt) - Distributed Asynchronous Hyperparameter Optimization better than HyperOpt. 比HyperOpt更强的分布式异步超参优化库。
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [isnowfy/snownlp](https://github.com/isnowfy/snownlp) - Python library for processing Chinese text
-- [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.
+- [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.
 - [Kestrong/capture_reid](https://github.com/Kestrong/capture_reid) - 可基于摄像头实时监控或录制的视频或静态图片进行行人检测(lffd)/跟踪(deep sort)和行人重识别(reid)。
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [vipstone/faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
@@ -630,6 +631,7 @@
 
 ## Rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [voltpkg/volt](https://github.com/voltpkg/volt) - Fast, clean, lightweight, robust, and efficient package management.
