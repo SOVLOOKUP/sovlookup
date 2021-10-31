@@ -711,6 +711,7 @@
 
 ## Shell 
 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
