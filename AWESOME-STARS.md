@@ -192,6 +192,7 @@
 
 ## JavaScript 
 
+- [antfu/local-pkg](https://github.com/antfu/local-pkg) - Get information on local packages.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [boltpkg/bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management
@@ -711,6 +712,7 @@
 
 ## Shell 
 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -732,6 +734,8 @@
 
 ## TypeScript 
 
+- [apptools-lab/AppToolkit](https://github.com/apptools-lab/AppToolkit) - 🐘 The Frontend Developer Toolkit（前端开发工具箱）
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The open-source notification infrastructure for products.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
