@@ -9,6 +9,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Erlang](#erlang)
@@ -71,6 +72,10 @@
 ## CSS 
 
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
+
+## Clojure 
+
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
 ## CoffeeScript 
 
@@ -438,6 +443,7 @@
 
 ## Others 
 
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [KTruong008/svelte-antd](https://github.com/KTruong008/svelte-antd) - Ant Design components for svelte
@@ -734,6 +740,7 @@
 
 ## TypeScript 
 
+- [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [apptools-lab/AppToolkit](https://github.com/apptools-lab/AppToolkit) - 🐘 The Frontend Developer Toolkit（前端开发工具箱）
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The open-source notification infrastructure for products.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
