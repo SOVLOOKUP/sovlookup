@@ -197,6 +197,7 @@
 
 ## JavaScript 
 
+- [NyaomiDEV/Glasstron](https://github.com/NyaomiDEV/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
 - [antfu/local-pkg](https://github.com/antfu/local-pkg) - Get information on local packages.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -740,9 +741,10 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [apptools-lab/AppToolkit](https://github.com/apptools-lab/AppToolkit) - 🐘 The Frontend Developer Toolkit（前端开发工具箱）
-- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The open-source notification infrastructure for products.
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
@@ -883,7 +885,7 @@
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架），站点国内镜像：https://iceteam.gitee.io
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
 - [brick-design/brick-design](https://github.com/brick-design/brick-design) - 全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
