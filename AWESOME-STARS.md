@@ -53,6 +53,7 @@
 
 ## C++ 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2021 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
@@ -197,6 +198,7 @@
 
 ## JavaScript 
 
+- [YYJeffrey/july_client](https://github.com/YYJeffrey/july_client) - A WeChat Mini-Program for SaaS social platform - 七月社交小程序
 - [NyaomiDEV/Glasstron](https://github.com/NyaomiDEV/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
 - [antfu/local-pkg](https://github.com/antfu/local-pkg) - Get information on local packages.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -484,6 +486,7 @@
 
 ## Python 
 
+- [liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher) - Text Content Grapher based on keyinfo extraction by NLP method。输入一篇文档，将文档进行关键信息提取，进行结构化，并最终组织成图谱组织形式，形成对文章语义信息的图谱化展示。
 - [patr0nus/libnode](https://github.com/patr0nus/libnode) - Build Node.js as a static library
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
