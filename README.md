@@ -61,18 +61,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/mpi3d">Matthieu CHARETTE</a>
     </td>
     <td align="center">
-      <a href="https://github.com/StevenJokess">
-        <img src="https://avatars2.githubusercontent.com/u/71307974" width="100px;" alt="StevenJokess"/>
-      </a>
-      <br />
-      <a href="https://github.com/StevenJokess">蔡舒起</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GT-ZhangAcer">
         <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
       </a>
       <br />
       <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/StevenJokess">
+        <img src="https://avatars2.githubusercontent.com/u/71307974" width="100px;" alt="StevenJokess"/>
+      </a>
+      <br />
+      <a href="https://github.com/StevenJokess">蔡舒起</a>
     </td>
     <td align="center">
       <a href="https://github.com/yuedun">
@@ -83,13 +83,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/hamidnn">
-        <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
-      </a>
-      <br />
-      <a href="https://github.com/hamidnn">hamidnn</a>
-    </td>
     <td align="center">
       <a href="https://github.com/fodelf">
         <img src="https://avatars2.githubusercontent.com/u/20442029" width="100px;" alt="fodelf"/>
@@ -103,6 +96,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hamidnn">
+        <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
+      </a>
+      <br />
+      <a href="https://github.com/hamidnn">hamidnn</a>
     </td>
     <td align="center">
       <a href="https://github.com/yokymia">
