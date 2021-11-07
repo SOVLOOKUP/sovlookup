@@ -199,6 +199,8 @@
 
 ## JavaScript 
 
+- [websanova/vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
+- [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [YYJeffrey/july_client](https://github.com/YYJeffrey/july_client) - A WeChat Mini-Program for SaaS social platform - 七月社交小程序
@@ -219,7 +221,7 @@
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
 - [JaneaSystems/nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
-- [breejs/bree](https://github.com/breejs/bree) - :traffic_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v10+ and browsers, uses workers to spawn sandboxed processes, and supports async/await, retries, throttling, concurrency, and graceful shutdown.  Simple, fast, and lightweight. Made for @ForwardEmail and @ladjs.
+- [breejs/bree](https://github.com/breejs/bree) - :traffic_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v12.11.0+, uses worker threads to spawn sandboxed processes, and supports async/await, retries, throttling, concurrency, and cancelable promises (graceful shutdown).  Simple, fast, and lightweight.  Made for @ForwardEmail and @ladjs.
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
 - [sindresorhus/os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale
@@ -488,6 +490,7 @@
 
 ## Python 
 
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher) - Text Content Grapher based on keyinfo extraction by NLP method。输入一篇文档，将文档进行关键信息提取，进行结构化，并最终组织成图谱组织形式，形成对文章语义信息的图谱化展示。
 - [patr0nus/libnode](https://github.com/patr0nus/libnode) - Build Node.js as a static library
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。
@@ -646,6 +649,7 @@
 
 ## Rust 
 
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -746,6 +750,7 @@
 
 ## TypeScript 
 
+- [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
@@ -906,6 +911,7 @@
 
 ## Vue 
 
+- [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor) - 基于vue+g6实现的知识图谱编辑器
