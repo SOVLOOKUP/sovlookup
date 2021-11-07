@@ -140,11 +140,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 3 mins    ██████████████▒░░░░░░░░░░   56.96 % 
-JavaScript   1 hr 34 mins    ███████▒░░░░░░░░░░░░░░░░░   29.50 % 
-JSON         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Vue.js       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript   5 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   41.43 % 
+JSON         3 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.79 % 
+JavaScript   3 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Vue.js       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
 
