@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [automation-stack/node-machine-id](https://github.com/automation-stack/node-machine-id) - Unique machine (desktop) id (no admin privileges required)
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [websanova/vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
@@ -555,7 +556,7 @@
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [cytoscape/ipycytoscape](https://github.com/cytoscape/ipycytoscape) - A Cytoscape Jupyter widget
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - DeepKE是一个支持低资源、长篇章的开源知识抽取工具，具备命名实体识别、关系抽取和属性抽取等功能。
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Base Population（DeepKE是一个支持低资源、长篇章的开源知识抽取工具，具备命名实体识别、关系抽取和属性抽取等功能）
 - [PaddlePaddle/PGL](https://github.com/PaddlePaddle/PGL) - Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [PyUnit/pyunit-address](https://github.com/PyUnit/pyunit-address) - 字符串地址查询,支持自定义地址词库,解析地址,地址识别,地址抽取,中文地址.
