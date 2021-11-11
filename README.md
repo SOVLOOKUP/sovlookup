@@ -91,13 +91,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/WhiteFireFox">Zhihao Cao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hamidnn">
-        <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
-      </a>
-      <br />
-      <a href="https://github.com/hamidnn">hamidnn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fodelf">
         <img src="https://avatars2.githubusercontent.com/u/20442029" width="100px;" alt="fodelf"/>
       </a>
@@ -110,6 +103,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hamidnn">
+        <img src="https://avatars2.githubusercontent.com/u/84021980" width="100px;" alt="hamidnn"/>
+      </a>
+      <br />
+      <a href="https://github.com/hamidnn">hamidnn</a>
     </td>
     <td align="center">
       <a href="https://github.com/yokymia">
