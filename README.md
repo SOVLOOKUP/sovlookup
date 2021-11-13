@@ -75,20 +75,20 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yuedun">
-        <img src="https://avatars2.githubusercontent.com/u/7362116" width="100px;" alt="yuedun"/>
-      </a>
-      <br />
-      <a href="https://github.com/yuedun">yuedun</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/WhiteFireFox">
         <img src="https://avatars2.githubusercontent.com/u/57762833" width="100px;" alt="WhiteFireFox"/>
       </a>
       <br />
       <a href="https://github.com/WhiteFireFox">Zhihao Cao</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yuedun">
+        <img src="https://avatars2.githubusercontent.com/u/7362116" width="100px;" alt="yuedun"/>
+      </a>
+      <br />
+      <a href="https://github.com/yuedun">yuedun</a>
     </td>
     <td align="center">
       <a href="https://github.com/fodelf">
@@ -126,11 +126,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/joebudi">Joe</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zendbit">
-        <img src="https://avatars2.githubusercontent.com/u/2082256" width="100px;" alt="zendbit"/>
+      <a href="https://github.com/fluffyrita">
+        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
       </a>
       <br />
-      <a href="https://github.com/zendbit">Amru Rosyada</a>
+      <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
   </tr>
 </table>
