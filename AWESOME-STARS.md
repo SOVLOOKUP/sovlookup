@@ -822,7 +822,7 @@
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [polkadot-js/wasm](https://github.com/polkadot-js/wasm) - A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions
 - [ohbug-org/ohbug-server](https://github.com/ohbug-org/ohbug-server) - The back end of the dashboard is implemented based on nestjs.
-- [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building and Runnin TypeScript projects efficiently with rollup + esbuild
+- [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building and Running TypeScript projects efficiently with rollup + esbuild
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
