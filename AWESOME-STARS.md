@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
@@ -250,6 +251,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [Level/level-rocksdb](https://github.com/Level/level-rocksdb) - A convenience package bundling levelup and rocksdb.
+- [yjs/y-crdt](https://github.com/yjs/y-crdt) - Rust port of Yjs
 - [datproject/hyperdrive-http](https://github.com/datproject/hyperdrive-http) - HTTP request handler for Hyperdrive and Hypercore
 - [hypercore-protocol/hypertrie](https://github.com/hypercore-protocol/hypertrie) - Distributed single writer key/value store
 - [kappa-db/kappa-core](https://github.com/kappa-db/kappa-core) - Minimal peer-to-peer database, based on kappa architecture.
@@ -693,7 +695,6 @@
 - [nanoporetech/fast-ctc-decode](https://github.com/nanoporetech/fast-ctc-decode) - Blitzing Fast CTC Beam Search Decoder
 - [bminixhofer/tractjs](https://github.com/bminixhofer/tractjs) - Run ONNX and TensorFlow inference in the browser.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
-- [yjs/y-crdt](https://github.com/yjs/y-crdt) - Rust port of Yjs
 - [Zerthox/rasar](https://github.com/Zerthox/rasar) - Asar packager & extractor written in Rust.
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library.
 - [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust's async IO types
@@ -712,7 +713,7 @@
 - [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
-- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [mattgathu/duma](https://github.com/mattgathu/duma) - Simple file downloader written in Rust
@@ -784,7 +785,7 @@
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
-- [apptools-lab/AppToolkit](https://github.com/apptools-lab/AppToolkit) - 🐘 The Frontend Developer Toolkit（前端开发工具箱）
+- [apptools-lab/AppToolkit](https://github.com/apptools-lab/AppToolkit) - 🐘 The Front-end Env Toolkit（前端环境管理工具）
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
