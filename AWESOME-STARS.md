@@ -174,6 +174,7 @@
 
 ## HTML 
 
+- [chizhu/KGQA_HLM](https://github.com/chizhu/KGQA_HLM) - 基于知识图谱的《红楼梦》人物关系可视化及问答系统
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
@@ -204,6 +205,7 @@
 
 ## JavaScript 
 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
@@ -779,6 +781,7 @@
 
 ## TypeScript 
 
+- [darukjs/daruk](https://github.com/darukjs/daruk) - a node.js web framework based on typescript
 - [antvis/XFlow](https://github.com/antvis/XFlow) - 
 - [hyqaimx/graph-timeline](https://github.com/hyqaimx/graph-timeline) - 是一个用于图分析中分析节点的时间关系的组件
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
@@ -892,7 +895,7 @@
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [alibaba/pont](https://github.com/alibaba/pont) - 🌉数据服务层解决方案
-- [ykfe/imove](https://github.com/ykfe/imove) - Move your mouse, generate code from flow chart
+- [i5ting/imove](https://github.com/i5ting/imove) - Move your mouse, generate code from flow chart
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
