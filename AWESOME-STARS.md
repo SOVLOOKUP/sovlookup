@@ -832,7 +832,7 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
-- [polkadot-js/wasm](https://github.com/polkadot-js/wasm) - A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions
+- [polkadot-js/wasm](https://github.com/polkadot-js/wasm) - A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions on Polkadot and Substrate networks.
 - [ohbug-org/ohbug-server](https://github.com/ohbug-org/ohbug-server) - The back end of the dashboard is implemented based on nestjs.
 - [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building and Running TypeScript projects efficiently with rollup + esbuild
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
@@ -960,7 +960,7 @@
 - [qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor) - 基于vue+g6实现的知识图谱编辑器
 - [datawhalechina/whale-anno](https://github.com/datawhalechina/whale-anno) - Datawhale自研数据标注工具
 - [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js ❤️
 - [jwenjian/lucky-you](https://github.com/jwenjian/lucky-you) - A tiny, simple but useful cross platform app to do a lucky draw or make a rolling call
 - [a54552239/pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
 - [yesccx/ydoc](https://github.com/yesccx/ydoc) - 一个简单易用的文档管理工具，支持markdown写作，可本地部署。
