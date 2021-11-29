@@ -229,7 +229,7 @@
 - [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
-- [YYJeffrey/july_client](https://github.com/YYJeffrey/july_client) - A WeChat Mini-Program for SaaS social platform - 七月社交小程序
+- [YYJeffrey/july_client](https://github.com/YYJeffrey/july_client) - A WeChat mini program for SaaS social platform - 七月社交小程序
 - [NyaomiDEV/Glasstron](https://github.com/NyaomiDEV/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
 - [antfu/local-pkg](https://github.com/antfu/local-pkg) - Get information on local packages.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
