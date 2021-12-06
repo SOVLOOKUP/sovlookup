@@ -96,6 +96,7 @@
 
 ## Go 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -358,7 +359,7 @@
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [denofn/svelte](https://github.com/denofn/svelte) - Svelte compiler ported to Deno
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
-- [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
@@ -435,7 +436,7 @@
 ## Jupyter Notebook 
 
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程，在线阅读地址：https://datawhalechina.github.io/easy-rl/
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework.🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥
 - [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
@@ -794,6 +795,7 @@
 
 ## TypeScript 
 
+- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [iron-fish/ironfish](https://github.com/iron-fish/ironfish) - A novel cryptocurrency focused on privacy and accessibility.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
@@ -972,6 +974,7 @@
 
 ## Vue 
 
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
