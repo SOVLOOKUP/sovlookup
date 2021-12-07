@@ -35,6 +35,7 @@
   - [Svelte](#svelte)
   - [TypeScript](#typescript)
   - [Vue](#vue)
+  - [WebAssembly](#webassembly)
 
 ## C 
 
@@ -211,6 +212,7 @@
 
 ## JavaScript 
 
+- [pubkey/broadcast-channel](https://github.com/pubkey/broadcast-channel) - :satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels
 - [NectarJS/nectarjs](https://github.com/NectarJS/nectarjs) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -524,6 +526,8 @@
 
 ## Python 
 
+- [percent4/people_relation_extract](https://github.com/percent4/people_relation_extract) - 结合BERT+GRU+ATT模型，对自己收集的人物关系数据进行模型训练，用于人物关系抽取。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [cnschema/cnSchema](https://github.com/cnschema/cnSchema) - 开放中文知识图谱的schema
 - [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
@@ -795,6 +799,9 @@
 
 ## TypeScript 
 
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
+- [data-forge/data-forge-ts](https://github.com/data-forge/data-forge-ts) - The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
+- [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [iron-fish/ironfish](https://github.com/iron-fish/ironfish) - A novel cryptocurrency focused on privacy and accessibility.
@@ -903,7 +910,7 @@
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [openkraken/kraken](https://github.com/openkraken/kraken) - A high-performance, web standards-compliant rendering engine based on Flutter.
+- [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant rendering engine based on Flutter.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [rxdrag/dragit](https://github.com/rxdrag/dragit) - Build front end without the tears, just drag it.不需要代码的可视化前端，基于React Mui构建。
@@ -996,6 +1003,10 @@
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [silianpan/uniapp-admin](https://github.com/silianpan/uniapp-admin) - Muti-platform management system for uniapp, H5, Android, IOS, Min Program
 - [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
+
+## WebAssembly 
+
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 
 
 ## License
