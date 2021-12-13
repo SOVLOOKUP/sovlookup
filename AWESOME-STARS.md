@@ -70,7 +70,6 @@
 - [HuangFJ/pyltp](https://github.com/HuangFJ/pyltp) - LTP wrapper module for Python. Move to https://github.com/HIT-SCIR/pyltp
 - [km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 研读顶会论文，复现论文相关代码
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性
 - [baidu/openrasp](https://github.com/baidu/openrasp) - 🔥Open source RASP solution
 - [rai-project/go-tensorrt](https://github.com/rai-project/go-tensorrt) - Go binding to TensorRT C API to do inference with pre-trained model in Go
@@ -297,7 +296,6 @@
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [badyun/AShare](https://github.com/badyun/AShare) - 一款阿里云盘多账户直链解析程序
 - [datproject/dat-desktop](https://github.com/datproject/dat-desktop) - Peer to peer data syncronization
 - [datproject/sdk](https://github.com/datproject/sdk) - Write your own dat app!
@@ -409,6 +407,7 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [DataV-Team/DataV-React](https://github.com/DataV-Team/DataV-React) - React数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
@@ -679,7 +678,7 @@
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 ## Ruby 
@@ -688,6 +687,7 @@
 
 ## Rust 
 
+- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [editso/fuso](https://github.com/editso/fuso) - 一款快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is an extremely fast, secure and reliable real-time NoSQL database with automated snapshots and TLS
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -786,6 +786,7 @@
 
 ## Svelte 
 
+- [6eDesign/svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 - [happyborg/p2p-git-portal-poc](https://github.com/happyborg/p2p-git-portal-poc) - p2p git portal proof-of-concept using Svelte Golang/WASM (experimental)
 - [bestguy/sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte
 - [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
@@ -799,6 +800,7 @@
 
 ## TypeScript 
 
+- [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [raxjs/universal-api](https://github.com/raxjs/universal-api) - Universal apis for web, wechat-miniapp and alipay-miniapp.
 - [posva/pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
@@ -873,6 +875,7 @@
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
