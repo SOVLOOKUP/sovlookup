@@ -47,18 +47,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/noahehall">noah edward hall</a>
     </td>
     <td align="center">
-      <a href="https://github.com/baifengbai">
-        <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
-      </a>
-      <br />
-      <a href="https://github.com/baifengbai">Bai Feng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mpi3d">
         <img src="https://avatars2.githubusercontent.com/u/26822551" width="100px;" alt="mpi3d"/>
       </a>
       <br />
       <a href="https://github.com/mpi3d">Matthieu CHARETTE</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/baifengbai">
+        <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
+      </a>
+      <br />
+      <a href="https://github.com/baifengbai">Bai Feng</a>
     </td>
     <td align="center">
       <a href="https://github.com/StevenJokess">
