@@ -101,6 +101,7 @@
 
 ## Go 
 
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
@@ -204,7 +205,7 @@
 
 ## Java 
 
-- [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+- [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [linkedin/datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
 - [MiracleTanC/Neo4j-KGBuilder](https://github.com/MiracleTanC/Neo4j-KGBuilder) - Neo4j+springboot+vue+d3.js知识图谱构建和可视化
@@ -214,7 +215,7 @@
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris(Incubating) is an MPP-based interactive SQL data warehousing for reporting and analysis.
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
-- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现优秀中文项目，无语言障碍地、更高效地吸收优秀经验成果。
+- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，分离中文/英文、软件/资料项目，精准挖掘优秀中文项目，高效吸收优秀经验。               Brother project: 「GitHub English Top Charts」https://github.com/kon9chunkit/GitHub-English-Top-Charts
 
 ## JavaScript 
 
@@ -520,6 +521,7 @@
 
 ## PHP 
 
+- [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [5ime/video_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
 
@@ -697,6 +699,7 @@
 
 ## Rust 
 
+- [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [appaquet/exocore](https://github.com/appaquet/exocore) - A distributed private application framework
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
@@ -815,6 +818,8 @@
 
 ## TypeScript 
 
+- [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming Platform
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
@@ -833,7 +838,7 @@
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [iron-fish/ironfish](https://github.com/iron-fish/ironfish) - A novel cryptocurrency focused on privacy and accessibility.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [rubickCenter/rubick2](https://github.com/rubickCenter/rubick2) - rubick 2.0 框架
 - [functionland/borg](https://github.com/functionland/borg) - Client-server stack for Web3! Turn your Raspberry Pi to a NAS server in minutes and enjoy the freedom of decentralized Web with a superior user experience!
