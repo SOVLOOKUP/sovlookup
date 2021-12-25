@@ -535,7 +535,7 @@
 
 ## Python 
 
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - An Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [percent4/people_relation_extract](https://github.com/percent4/people_relation_extract) - 结合BERT+GRU+ATT模型，对自己收集的人物关系数据进行模型训练，用于人物关系抽取。
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
