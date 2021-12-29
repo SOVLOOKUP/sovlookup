@@ -309,9 +309,9 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [badyun/AShare](https://github.com/badyun/AShare) - 一款阿里云盘多账户直链解析程序
-- [datproject/dat-desktop](https://github.com/datproject/dat-desktop) - Peer to peer data syncronization
+- [dat-ecosystem-archive/dat-desktop](https://github.com/dat-ecosystem-archive/dat-desktop) - Peer to peer data syncronization [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [datproject/sdk](https://github.com/datproject/sdk) - Write your own dat app!
-- [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [yjs/y-dat](https://github.com/yjs/y-dat) - Dat provider for Yjs
 - [yjs/y-webrtc](https://github.com/yjs/y-webrtc) - WebRTC Connector for Yjs
 - [Rajaniraiyn/raj-browser](https://github.com/Rajaniraiyn/raj-browser) - A UI and privacy focussed browser for the web from the web.
@@ -536,6 +536,7 @@
 
 ## Python 
 
+- [78778443/QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [percent4/people_relation_extract](https://github.com/percent4/people_relation_extract) - 结合BERT+GRU+ATT模型，对自己收集的人物关系数据进行模型训练，用于人物关系抽取。
