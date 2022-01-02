@@ -172,7 +172,6 @@
 - [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
 - [didi/GateKeeper](https://github.com/didi/GateKeeper) - A high-performance Golang gateway that supports rapid development and plug-inization
 - [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
-- [zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo) - 基于GoFrame用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [eolinker/goku_lite](https://github.com/eolinker/goku_lite) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
@@ -222,6 +221,8 @@
 
 ## JavaScript 
 
+- [simov/grant](https://github.com/simov/grant) - OAuth Proxy
+- [strapi/strapi-template-corporate](https://github.com/strapi/strapi-template-corporate) - Template to create Strapi projects pre-configured for corporate sites
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [yuda-lyu/w-json-stream](https://github.com/yuda-lyu/w-json-stream) - A tool for JSON parse and stringify by stream and web worker.
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
@@ -447,6 +448,7 @@
 
 ## Jupyter Notebook 
 
+- [LJMichale/data-analysis](https://github.com/LJMichale/data-analysis) - 数据分析建模经验总结
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程，在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥
 - [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
@@ -706,6 +708,7 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
