@@ -499,6 +499,7 @@
 
 ## Others 
 
+- [AstraZeneca/awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) - A collection of research papers and software related to explainability in graph machine learning.
 - [Hanqaqa/PCB_Business_Card](https://github.com/Hanqaqa/PCB_Business_Card) - Elegant PCB Business Card made with Inkscape, Kicad and Svg2Shenzen.
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -541,6 +542,7 @@
 
 ## Python 
 
+- [blackholll/loonflow](https://github.com/blackholll/loonflow) - 基于django的工作流引擎,工单(a workflow engine base on django python)
 - [lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) - 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
 - [78778443/QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
@@ -709,6 +711,8 @@
 
 ## Rust 
 
+- [Michael-F-Bryan/include_dir](https://github.com/Michael-F-Bryan/include_dir) - The logical evolution of the include_str macro for embedding a directory tree into your binary.
+- [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
@@ -1036,7 +1040,7 @@
 - [qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor) - 基于vue+g6实现的知识图谱编辑器
 - [datawhalechina/whale-anno](https://github.com/datawhalechina/whale-anno) - Datawhale自研数据标注工具
 - [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [jwenjian/lucky-you](https://github.com/jwenjian/lucky-you) - A tiny, simple but useful cross platform app to do a lucky draw or make a rolling call
 - [a54552239/pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
 - [yesccx/ydoc](https://github.com/yesccx/ydoc) - 一个简单易用的文档管理工具，支持markdown写作，可本地部署。
