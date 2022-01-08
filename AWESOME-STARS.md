@@ -221,6 +221,7 @@
 
 ## JavaScript 
 
+- [withshepherd/faker.js](https://github.com/withshepherd/faker.js) - 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [strapi/strapi-template-corporate](https://github.com/strapi/strapi-template-corporate) - Template to create Strapi projects pre-configured for corporate sites
@@ -282,7 +283,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [Level/level-rocksdb](https://github.com/Level/level-rocksdb) - A convenience package bundling levelup and rocksdb.
-- [yjs/y-crdt](https://github.com/yjs/y-crdt) - Rust port of Yjs
+- [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
 - [dat-ecosystem-archive/hyperdrive-http](https://github.com/dat-ecosystem-archive/hyperdrive-http) - HTTP request handler for Hyperdrive and Hypercore [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [hypercore-protocol/hypertrie](https://github.com/hypercore-protocol/hypertrie) - Distributed single writer key/value store
 - [kappa-db/kappa-core](https://github.com/kappa-db/kappa-core) - Minimal peer-to-peer database, based on kappa architecture.
