@@ -222,6 +222,7 @@
 
 ## JavaScript 
 
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
@@ -320,7 +321,6 @@
 - [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [yjs/y-dat](https://github.com/yjs/y-dat) - Dat provider for Yjs
 - [yjs/y-webrtc](https://github.com/yjs/y-webrtc) - WebRTC Connector for Yjs
-- [Rajaniraiyn/raj-browser](https://github.com/Rajaniraiyn/raj-browser) - A UI and privacy focussed browser for the web from the web.
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [opencomponents/oc](https://github.com/opencomponents/oc) - OpenComponents, serverless in the front-end world for painless micro-frontends delivery
@@ -837,6 +837,8 @@
 
 ## TypeScript 
 
+- [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist) - A Vuex plugin to persist the store. (Fully Typescript enabled)
+- [MrXujiang/xijs](https://github.com/MrXujiang/xijs) - A business - oriented scene Js Library
 - [dash14/v-network-graph](https://github.com/dash14/v-network-graph) - An interactive network graph visualization component for Vue 3
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming Platform
@@ -974,7 +976,7 @@
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [adam-cowley/use-neo4j](https://github.com/adam-cowley/use-neo4j) - React Hooks for Neo4j
-- [midwayjs/hooks](https://github.com/midwayjs/hooks) - FullStack / Zero Api / Using "React Hooks" to develop the back-end / Vite
+- [midwayjs/hooks](https://github.com/midwayjs/hooks) - "Zero" Api / Type Safe / Fullstack Kit / Powerful Backend
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [alibaba/pont](https://github.com/alibaba/pont) - 🌉数据服务层解决方案
