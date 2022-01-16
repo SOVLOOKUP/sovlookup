@@ -548,6 +548,7 @@
 
 ## Python 
 
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [blackholll/loonflow](https://github.com/blackholll/loonflow) - 基于django的工作流引擎,工单(a workflow engine base on django python)
 - [lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) - 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
@@ -844,6 +845,8 @@
 
 ## TypeScript 
 
+- [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
+- [vuex-orm/vuex-orm-next](https://github.com/vuex-orm/vuex-orm-next) - The next iteration of Vuex ORM.
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist) - A Vuex plugin to persist the store. (Fully Typescript enabled)
