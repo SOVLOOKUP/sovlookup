@@ -33,6 +33,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Svelte](#svelte)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
@@ -860,6 +861,10 @@
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
+## Swift 
+
+- [appaquet/exomind](https://github.com/appaquet/exomind) - A personal knowledge management tool hosted on your own personal cloud
+
 ## TypeScript 
 
 - [Maronato/vue-toastification](https://github.com/Maronato/vue-toastification) - Vue notifications made easy!
@@ -888,7 +893,6 @@
 - [rubensworks/jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript
 - [unjs/unenv](https://github.com/unjs/unenv) - Framework-agnostic system for converting JavaScript code to be platform-agnostic and working in any environment including Browsers, Workers, Node.js, or pure JavaScript runtime.
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
-- [appaquet/exomind](https://github.com/appaquet/exomind) - A personal knowledge management tool hosted on your own personal cloud
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [raxjs/universal-api](https://github.com/raxjs/universal-api) - Universal apis for web, wechat-miniapp and alipay-miniapp.
@@ -900,7 +904,7 @@
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [iron-fish/ironfish](https://github.com/iron-fish/ironfish) - A novel cryptocurrency focused on privacy and accessibility.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [functionland/borg](https://github.com/functionland/borg) - Client-server stack for Web3! Turn your Raspberry Pi to a BAS server in minutes and enjoy the freedom of decentralized Web with a superior user experience!
 - [darukjs/daruk](https://github.com/darukjs/daruk) - a node.js web framework based on typescript
