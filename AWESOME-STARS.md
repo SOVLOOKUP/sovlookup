@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -37,6 +38,10 @@
   - [TypeScript](#typescript)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
+
+## Assembly 
+
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 
 ## C 
 
@@ -100,7 +105,7 @@
 
 ## Go 
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [IBAX-io/go-ibax](https://github.com/IBAX-io/go-ibax) - An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform
@@ -330,7 +335,7 @@
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [badyun/AShare](https://github.com/badyun/AShare) - 一款阿里云盘多账户直链解析程序
 - [dat-ecosystem-archive/dat-desktop](https://github.com/dat-ecosystem-archive/dat-desktop) - Peer to peer data syncronization [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
-- [datproject/sdk](https://github.com/datproject/sdk) - Write your own dat app!
+- [RangerMauve/hyper-sdk](https://github.com/RangerMauve/hyper-sdk) - Write your own dat app!
 - [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [yjs/y-dat](https://github.com/yjs/y-dat) - Dat provider for Yjs
 - [yjs/y-webrtc](https://github.com/yjs/y-webrtc) - WebRTC Connector for Yjs
@@ -612,7 +617,7 @@
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [tensorflow/decision-forests](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
-- [GentleCP/corpwechatbot](https://github.com/GentleCP/corpwechatbot) - 企业微信的python封装接口，开箱即用，一行代码实现消息推送
+- [GentleCP/corpwechatbot](https://github.com/GentleCP/corpwechatbot) - 企业微信的python封装接口，简易上手，开箱即用，一行代码实现消息推送。A more convenient python wrapper interface of corpwechat(wework, wecom) official API, use only one line of code to send your messages to your corpwechat(wework, wecom) .
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [duterscmy/ccks2019-ckbqa-4th-codes](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes) - 中文知识库问答代码，CCKS2019 CKBQA评测第四名解决方案
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -875,6 +880,8 @@
 
 ## TypeScript 
 
+- [Stun3R/strapi-sdk-js](https://github.com/Stun3R/strapi-sdk-js) - 📦 Javascript SDK for your Strapi API
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [bytedance/flow-builder](https://github.com/bytedance/flow-builder) - A highly customizable streaming flow builder.
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [mljar/mercury](https://github.com/mljar/mercury) - Mercury: easily convert Python notebook to web app and share with others
