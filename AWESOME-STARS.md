@@ -231,6 +231,7 @@
 
 ## JavaScript 
 
+- [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5
 - [posva/pinia-plugin-debounce](https://github.com/posva/pinia-plugin-debounce) - Config-based action debouncing made easy
 - [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -523,6 +524,7 @@
 
 ## Others 
 
+- [BDBC-KG-NLP/QA-Survey](https://github.com/BDBC-KG-NLP/QA-Survey) - 北航大数据高精尖中心研究张日崇团队对问答系统的总结。包括基于知识图谱的问答（KBQA），基于文本的问答系统（TextQA），基于表格的问答系统（TabletQA）和基于视觉的问答系统（VisualQA），每类系统分别对学术界和工业界进行总结。
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。
 - [AstraZeneca/awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) - A collection of research papers and software related to explainability in graph machine learning.
 - [Hanqaqa/PCB_Business_Card](https://github.com/Hanqaqa/PCB_Business_Card) - Elegant PCB Business Card made with Inkscape, Kicad and Svg2Shenzen.
@@ -885,6 +887,9 @@
 
 ## TypeScript 
 
+- [DarkC0der11/vue-skeletor](https://github.com/DarkC0der11/vue-skeletor) - Vue3 adaptive Skeleton Loader component.
+- [ustbhuangyi/vue3-lazy](https://github.com/ustbhuangyi/vue3-lazy) - Lazy load plugin for Vue 3.x
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 🍍 Configurable persistence and rehydration of Pinia stores.
 - [duxtland/framework](https://github.com/duxtland/framework) - 🦕 The Vue framework for Deno
 - [ZLY201/js-sdsl](https://github.com/ZLY201/js-sdsl) - A javascript standard data structure library which benchmark against C++ STL.
