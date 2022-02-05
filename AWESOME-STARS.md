@@ -34,7 +34,6 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Svelte](#svelte)
-  - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
@@ -271,7 +270,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
@@ -884,10 +883,6 @@
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
-## Swift 
-
-- [appaquet/exomind](https://github.com/appaquet/exomind) - A personal knowledge management tool hosted on your own personal cloud
-
 ## TypeScript 
 
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
@@ -932,6 +927,7 @@
 - [rubensworks/jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript
 - [unjs/unenv](https://github.com/unjs/unenv) - Framework-agnostic system for converting JavaScript code to be platform-agnostic and working in any environment including Browsers, Workers, Node.js, or pure JavaScript runtime.
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
+- [appaquet/exomind](https://github.com/appaquet/exomind) - A personal knowledge management tool hosted on your own personal cloud
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [raxjs/universal-api](https://github.com/raxjs/universal-api) - Universal apis for web, wechat-miniapp and alipay-miniapp.
