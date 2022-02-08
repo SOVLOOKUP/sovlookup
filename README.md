@@ -68,18 +68,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WhiteFireFox">
-        <img src="https://avatars2.githubusercontent.com/u/57762833" width="100px;" alt="WhiteFireFox"/>
-      </a>
-      <br />
-      <a href="https://github.com/WhiteFireFox">Zhihao Cao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thomas-yanxin">
         <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
       </a>
       <br />
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WhiteFireFox">
+        <img src="https://avatars2.githubusercontent.com/u/57762833" width="100px;" alt="WhiteFireFox"/>
+      </a>
+      <br />
+      <a href="https://github.com/WhiteFireFox">Zhihao Cao</a>
     </td>
   </tr>
   <tr>
