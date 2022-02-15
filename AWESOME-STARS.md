@@ -105,6 +105,7 @@
 
 ## Go 
 
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [IBAX-io/go-ibax](https://github.com/IBAX-io/go-ibax) - An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.
@@ -231,6 +232,7 @@
 
 ## JavaScript 
 
+- [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
 - [Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable) - 🍉  Table Component/ Data Grid / Data Table.Support Virtual Scroll,Column Fixed,Header Fixed,Header Grouping,Filter,Sort,Cell Ellipsis,Row Expand,Row Checkbox ...
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
@@ -364,7 +366,7 @@
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
-- [Tencent/omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
+- [Tencent/omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架框架
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [materializecss/materialize](https://github.com/materializecss/materialize) - Materialize, a CSS Framework based on Material Design
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -486,7 +488,7 @@
 ## Jupyter Notebook 
 
 - [LJMichale/data-analysis](https://github.com/LJMichale/data-analysis) - 数据分析建模经验总结
-- [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程，在线阅读地址：https://datawhalechina.github.io/easy-rl/
+- [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥
 - [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
@@ -760,6 +762,7 @@
 
 ## Rust 
 
+- [mechtronium/starlane](https://github.com/mechtronium/starlane) - Starlane is a Resource Mesh that enables micro services to create, find, watch and use various micro resources across the enterprise as well as message other micro services.  Starlane also provides mechanisms for deploying, executing and connecting client and server side WebAssembly actors known as Mechtrons.
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [facebookresearch/dachshund](https://github.com/facebookresearch/dachshund) - Dachshund is a graph mining library written in Rust. It provides high performance data structures for multiple kinds of graphs, from simple undirected graphs to typed hypergraphs. Dachshund also provides algorithms for common tasks for graph mining and analysis, ranging from shortest paths to graph spectral analysis.
@@ -897,6 +900,7 @@
 
 ## TypeScript 
 
+- [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
@@ -956,7 +960,7 @@
 - [iron-fish/ironfish](https://github.com/iron-fish/ironfish) - A novel cryptocurrency focused on privacy and accessibility.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [functionland/Fula](https://github.com/functionland/Fula) - Client-server stack for Web3! Turn your Raspberry Pi to a BAS server in minutes and enjoy the freedom of decentralized Web with a superior user experience!
+- [functionland/fula](https://github.com/functionland/fula) - Client-server stack for Web3! Turn your Raspberry Pi to a BAS server in minutes and enjoy the freedom of decentralized Web with a superior user experience!
 - [darukjs/daruk](https://github.com/darukjs/daruk) - a node.js web framework based on typescript
 - [antvis/XFlow](https://github.com/antvis/XFlow) - 
 - [hyqaimx/graph-timeline](https://github.com/hyqaimx/graph-timeline) - 是一个用于图分析中分析节点的时间关系的组件
@@ -1133,6 +1137,7 @@
 
 ## Vue 
 
+- [rhwilr/vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [lian-yue/vue-upload-component](https://github.com/lian-yue/vue-upload-component) - Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
 - [remcoplasmeyer/flowy-vue](https://github.com/remcoplasmeyer/flowy-vue) - Vue Flowy makes creating flowchart or hierarchy chart functionality an easy task. Build automation software, mind mapping tools, organisation charts, or simple programming platforms in minutes by implementing the library into your project.
