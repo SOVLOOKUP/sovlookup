@@ -128,7 +128,7 @@
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction manager. Support saga, tcc, xa, 2 phases messages.  跨语言分布式事务管理器
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages.  跨语言分布式事务管理器
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -219,6 +219,7 @@
 
 ## Java 
 
+- [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [linkedin/datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
@@ -1006,7 +1007,7 @@
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native platform APIs from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
