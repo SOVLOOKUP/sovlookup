@@ -336,7 +336,7 @@
 - [sindresorhus/file-icon](https://github.com/sindresorhus/file-icon) - Get the icon of a file or app as a PNG image (macOS)
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
-- [KELiON/cerebro-basic-apps](https://github.com/KELiON/cerebro-basic-apps) - Cerebro plugin for applications search and launch on windows and linux
+- [cerebroapp/cerebro-basic-apps](https://github.com/cerebroapp/cerebro-basic-apps) - Cerebro plugin for applications search and launch on windows and linux
 - [unjs/consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -638,7 +638,7 @@
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
-- [PaddlePaddle/PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo) - 基于模块化的设计，提供丰富的视频算法实现、产业级的视频算法优化、产业级的视频应用，包括安防、体育、互联网、媒体等行业的动作定位与识别、行为分析、智能封面、视频标注、视频打标签等视频理解与生成的算法应用。
+- [PaddlePaddle/PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo) - 基于模块化的设计，提供丰富的视频算法实现、产业级的视频算法优化与应用，包括安防、体育、互联网、媒体等行业的动作定位与识别、行为分析、智能封面、视频标注、视频打标签等，涵盖动作识别与视频分类、动作定位、动作检测、多模态文本视频检索等技术。
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [tensorflow/decision-forests](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
@@ -873,6 +873,7 @@
 
 ## Scala 
 
+- [grapheco/InteractiveGraph-neo4j](https://github.com/grapheco/InteractiveGraph-neo4j) - a graph server serves backend neo4j, virtosuo as an InteractiveGraph
 - [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
 
 ## Shell 
