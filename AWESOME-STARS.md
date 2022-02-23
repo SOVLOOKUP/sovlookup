@@ -130,7 +130,7 @@
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction solution that supports saga, tcc, xa, 2-phase message strategies, supports multiple languages.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message strategies.
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -236,6 +236,8 @@
 
 ## JavaScript 
 
+- [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless) - A plugin for Strapi Headless CMS that provides ability to sign-in/sign-up to an application by link had sent to email.
+- [alexzaganelli/strapi-plugin-email-designer](https://github.com/alexzaganelli/strapi-plugin-email-designer) - Design your own email templates w/ visual composer directly inside the Strapi admin panel and send composed emails programmatically from your controllers / services.
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。
@@ -402,7 +404,7 @@
 - [egoist/konan](https://github.com/egoist/konan) - find all require/import calls by walking the AST
 - [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) - A highly-opinionated base for building shareable Svelte 3 components
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
 - [browserify/detective](https://github.com/browserify/detective) - Find all calls to require() no matter how deeply nested using a proper walk of the AST
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
@@ -591,6 +593,7 @@
 
 ## Python 
 
+- [soultoolman/pyerz](https://github.com/soultoolman/pyerz) - 易软著Python库
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [malllabiisc/EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA) - ACL 2020: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
