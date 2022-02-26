@@ -933,7 +933,7 @@
 - [DarkC0der11/vue-skeletor](https://github.com/DarkC0der11/vue-skeletor) - Vue3 adaptive Skeleton Loader component.
 - [ustbhuangyi/vue3-lazy](https://github.com/ustbhuangyi/vue3-lazy) - Lazy load plugin for Vue 3.x
 - [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 🍍 Configurable persistence and rehydration of Pinia stores.
-- [duxtland/framework](https://github.com/duxtland/framework) - 🦕 The Vue framework for Deno
+- [duxtland/framework](https://github.com/duxtland/framework) - The Vue framework for Deno
 - [ZLY201/js-sdsl](https://github.com/ZLY201/js-sdsl) - A javascript standard data structure library which benchmark against C++ STL.
 - [Stun3R/strapi-sdk-js](https://github.com/Stun3R/strapi-sdk-js) - 📦 Javascript SDK for your Strapi API
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
