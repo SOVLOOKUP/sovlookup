@@ -139,13 +139,16 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   11 hrs 51 mins  ████████▒░░░░░░░░░░░░░░░░   33.86 % 
-Vue.js       9 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.33 % 
-JavaScript   8 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.93 % 
-JSON         2 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Markdown     50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JavaScript   7 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.16 %
+Vue.js       5 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+TypeScript   4 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+JSON         2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+YAML         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### :star2: Awesome stars
