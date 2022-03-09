@@ -235,7 +235,7 @@
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
@@ -411,6 +411,11 @@
 
 ## Python 
 
+- [ShenDezhou/CAIL](https://github.com/ShenDezhou/CAIL) - 中国法研杯-司法人工智能挑战赛(CAIL2018-2020)
+- [Hanlard/Transformer-based-pretrained-model-for-event-extraction](https://github.com/Hanlard/Transformer-based-pretrained-model-for-event-extraction) - 使用基于Transformer的预训练模型在ACE2005数据集上进行事件抽取任务
+- [jasoncao11/nlp-notebook](https://github.com/jasoncao11/nlp-notebook) - NLP 领域常见任务的实现，包括新词发现、以及基于pytorch的词向量、中文文本分类、实体识别、摘要文本生成、句子相似度判断等。
+- [zhengyima/kg-baseline-pytorch](https://github.com/zhengyima/kg-baseline-pytorch) - 2019百度的关系抽取比赛，使用Pytorch实现苏神的模型，F1在dev集可达到0.75，联合关系抽取，Joint Relation Extraction.
+- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - OpenMMLab Image and Video Editing Toolbox
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -602,7 +607,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
-- [voltpkg/volt](https://github.com/voltpkg/volt) - Fast, clean, lightweight, robust, and efficient package management.
+- [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [HiRoFa/GreenCopperRuntime](https://github.com/HiRoFa/GreenCopperRuntime) - Javascript runtime library built in rust which can be used with several JavaScript engines
