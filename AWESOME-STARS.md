@@ -411,6 +411,8 @@
 
 ## Python 
 
+- [SysCV/pcan](https://github.com/SysCV/pcan) - Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation, NeurIPS 2021 Spotlight
+- [yangyudong2020/PP-Tracking_GUi](https://github.com/yangyudong2020/PP-Tracking_GUi) - Object detection GUI based on PaddleDetection(基于PaddleDetection的目标检测GUI框架）
 - [ShenDezhou/CAIL](https://github.com/ShenDezhou/CAIL) - 中国法研杯-司法人工智能挑战赛(CAIL2018-2020)
 - [Hanlard/Transformer-based-pretrained-model-for-event-extraction](https://github.com/Hanlard/Transformer-based-pretrained-model-for-event-extraction) - 使用基于Transformer的预训练模型在ACE2005数据集上进行事件抽取任务
 - [jasoncao11/nlp-notebook](https://github.com/jasoncao11/nlp-notebook) - NLP 领域常见任务的实现，包括新词发现、以及基于pytorch的词向量、中文文本分类、实体识别、摘要文本生成、句子相似度判断等。
