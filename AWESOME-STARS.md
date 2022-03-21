@@ -281,7 +281,7 @@
 - [sindresorhus/os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [oslabs-beta/dockure](https://github.com/oslabs-beta/dockure) - Simplifying the containerization process
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
@@ -602,6 +602,7 @@
 
 ## Rust 
 
+- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -703,6 +704,7 @@
 
 ## TypeScript 
 
+- [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [OwnStoreOrg/ownstore-website](https://github.com/OwnStoreOrg/ownstore-website) - The official web app of OwnStore suite.
 - [sleeyax/asarmor](https://github.com/sleeyax/asarmor) - Protect asar archive files from extraction
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
