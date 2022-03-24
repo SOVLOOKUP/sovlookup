@@ -14,6 +14,7 @@
   - [Erlang](#erlang)
   - [Go](#go)
   - [Groovy](#groovy)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -168,6 +169,10 @@
 
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 
+## HCL 
+
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
+
 ## HTML 
 
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -204,7 +209,7 @@
 - [junchaoIU/CMRH-KG_DEV2.0_React](https://github.com/junchaoIU/CMRH-KG_DEV2.0_React) - 📚中国近代革命历史知识图谱数字图书馆系统前端 v2.0。🌈基于react+antd框架构建，利用echart实现 知识图谱可视化，包括知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等7大模块. Link：https://www.gzknowledge.cn
 - [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 - [ddnlink/ddn](https://github.com/ddnlink/ddn) - DDN, Data Delivery Network,  a next generation blockchain system
-- [noahlevenson/passerby](https://github.com/noahlevenson/passerby) - The location layer for the decentralized web: discover what's around you, no central authority required
+- [noahlevenson/passerby](https://github.com/noahlevenson/passerby) - Peer-to-peer location services for the decentralized web -- discover what's around you, no central authority required
 - [nguyenphuminh/JeChain](https://github.com/nguyenphuminh/JeChain) - Node for JeChain - an experimental smart contract blockchain network
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web
@@ -454,7 +459,6 @@
 - [malllabiisc/EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA) - ACL 2020: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [murray-z/text_analysis_tools](https://github.com/murray-z/text_analysis_tools) - 中文文本分析工具包（包括- 文本分类 - 文本聚类 - 文本相似性 - 关键词抽取 - 关键短语抽取 - 情感分析 - 文本纠错 - 文本摘要 - 主题关键词-同义词、近义词-事件三元组抽取）
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [Jacen789/relation-extraction](https://github.com/Jacen789/relation-extraction) - 中文关系抽取
 - [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT) - 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式
 - [buppt/ChineseNRE](https://github.com/buppt/ChineseNRE) - 中文实体关系抽取，pytorch，bilstm+attention
@@ -627,7 +631,7 @@
 - [appaquet/exocore](https://github.com/appaquet/exocore) - A distributed private application framework
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
-- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keysapces, tables, data types, authn/authz, snapshots and more to build powerful apps
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
@@ -711,6 +715,7 @@
 
 ## TypeScript 
 
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [senses-chat/operator](https://github.com/senses-chat/operator) - 先思智联 - 聊天机器人消息中间件 - Senses Chat Operator is a messaging middleware for chatbots.
 - [cellbang/malagu](https://github.com/cellbang/malagu) - Malagu is a Serverless First, componentized, platform-independent progressive application framework based on TypeScript.
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
