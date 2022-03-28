@@ -209,6 +209,7 @@
 
 ## JavaScript 
 
+- [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [junchaoIU/CMRH-KG_DEV2.0_React](https://github.com/junchaoIU/CMRH-KG_DEV2.0_React) - 📚中国近代革命历史知识图谱数字图书馆系统前端 v2.0。🌈基于react+antd框架构建，利用echart实现 知识图谱可视化，包括知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等7大模块. Link：https://www.gzknowledge.cn
 - [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
@@ -269,7 +270,7 @@
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites (OSINT)
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
