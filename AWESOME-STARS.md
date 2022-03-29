@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AutoHotkey](#autohotkey)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -37,6 +38,10 @@
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
+## AutoHotkey 
+
+- [AWeirDKiD/apex-colour-aim-ahk](https://github.com/AWeirDKiD/apex-colour-aim-ahk) - Colour Aimbot for Apex Legends - UNDETECTED
+
 ## C 
 
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
@@ -50,6 +55,7 @@
 
 ## C++ 
 
+- [rakuza2/SIMPLE-APEX-CHEAT](https://github.com/rakuza2/SIMPLE-APEX-CHEAT) - enjoy!!
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) - A RocksDB compatible KV storage engine with better performance
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
@@ -100,7 +106,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [dtm-labs/dtf](https://github.com/dtm-labs/dtf) - A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message strategies.
+- [dtm-labs/dtf](https://github.com/dtm-labs/dtf) - 大家好，dtm最终跟原公司谈下来了知识产权转让，现已恢复维护，请大家访问 https://github.com/dtm-labs/dtm 。中间给大家带来的不便，敬请谅解！
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [digitalocean/firebolt](https://github.com/digitalocean/firebolt) - Golang framework for streaming ETL, observability data pipeline, and event processing apps
@@ -411,6 +417,7 @@
 
 ## Others 
 
+- [goldjee/AL-YOLO-dataset](https://github.com/goldjee/AL-YOLO-dataset) - YOLO marked Apex Legends dataset
 - [rebase-network/who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
 - [BDBC-KG-NLP/QA-Survey](https://github.com/BDBC-KG-NLP/QA-Survey) - 北航大数据高精尖中心研究张日崇团队对问答系统的总结。包括基于知识图谱的问答（KBQA），基于文本的问答系统（TextQA），基于表格的问答系统（TabletQA）和基于视觉的问答系统（VisualQA），每类系统分别对学术界和工业界进行总结。
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
@@ -449,6 +456,8 @@
 
 ## Python 
 
+- [overtrack-gg/overtrack-cv](https://github.com/overtrack-gg/overtrack-cv) - Computer vision tracking for OverTrack.gg - Apex legends tracking and CV library
+- [XinRanZh/ProjectAim-ApexLegends](https://github.com/XinRanZh/ProjectAim-ApexLegends) - An efficient Apex Legends Aimbot based on YoloV5 real-time target detection
 - [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing and Parsing Package
 - [SysCV/pcan](https://github.com/SysCV/pcan) - Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation, NeurIPS 2021 Spotlight
 - [yangyudong2020/PP-Tracking_GUi](https://github.com/yangyudong2020/PP-Tracking_GUi) - Object detection GUI based on PaddleDetection(基于PaddleDetection的目标检测GUI框架）
