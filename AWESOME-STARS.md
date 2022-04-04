@@ -5,7 +5,6 @@
 
 ## Contents
 
-  - [AutoHotkey](#autohotkey)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -37,10 +36,6 @@
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vue](#vue)
-
-## AutoHotkey 
-
-- [AWeirDKiD/apex-colour-aim-ahk](https://github.com/AWeirDKiD/apex-colour-aim-ahk) - Colour Aimbot for Apex Legends - UNDETECTED
 
 ## C 
 
@@ -229,7 +224,7 @@
 - [fastify/avvio](https://github.com/fastify/avvio) - Asynchronous bootstrapping of Node applications
 - [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [xudeming208/electron-capture](https://github.com/xudeming208/electron-capture) - 利用electron和nodejs开发的桌面截图工具，支持Windows、Mac、Linux，支持双屏幕
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
