@@ -211,6 +211,7 @@
 
 ## JavaScript 
 
+- [UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram) - 给女朋友做的微信小程序！情侣自己的任务和商城系统！
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [junchaoIU/CMRH-KG_DEV2.0_React](https://github.com/junchaoIU/CMRH-KG_DEV2.0_React) - 📚中国近代革命历史知识图谱数字图书馆系统前端 v2.0。🌈基于react+antd框架构建，利用echart实现 知识图谱可视化，包括知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等7大模块. Link：https://www.gzknowledge.cn
@@ -621,7 +622,6 @@
 ## Rust 
 
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
-- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -732,6 +732,7 @@
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [senses-chat/operator](https://github.com/senses-chat/operator) - 先思智联 - 聊天机器人消息中间件 - Senses Chat Operator is a messaging middleware for chatbots.
 - [cellbang/malagu](https://github.com/cellbang/malagu) - Malagu is a Serverless First, componentized, platform-independent progressive application framework based on TypeScript.
+- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [OwnStoreOrg/ownstore-website](https://github.com/OwnStoreOrg/ownstore-website) - The official web app of OwnStore suite.
 - [sleeyax/asarmor](https://github.com/sleeyax/asarmor) - Protect asar archive files from extraction
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
