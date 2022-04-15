@@ -53,7 +53,7 @@
 - [rakuza2/SIMPLE-APEX-CHEAT](https://github.com/rakuza2/SIMPLE-APEX-CHEAT) - enjoy!!
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) - A RocksDB compatible KV storage engine with better performance
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR pipeline, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -183,6 +183,7 @@
 
 - [work7z/CodeGen](https://github.com/work7z/CodeGen) - CodeGen Offical Website: https://codegen.work7z.com
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [chizhu/KGQA_HLM](https://github.com/chizhu/KGQA_HLM) - 基于知识图谱的《红楼梦》人物关系可视化及问答系统
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
@@ -774,7 +775,6 @@
 - [IDuxFE/idux](https://github.com/IDuxFE/idux) - 🚀 A UI Component Library for Vue3.x
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [aeroheim/midori](https://github.com/aeroheim/midori) - library for animated image backgrounds
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
 - [MrXujiang/xijs](https://github.com/MrXujiang/xijs) - A business - oriented scene Js Library
