@@ -456,7 +456,7 @@
 
 - [overtrack-gg/overtrack-cv](https://github.com/overtrack-gg/overtrack-cv) - Computer vision tracking for OverTrack.gg - Apex legends tracking and CV library
 - [XinRanZh/ProjectAim-ApexLegends](https://github.com/XinRanZh/ProjectAim-ApexLegends) - An efficient Apex Legends Aimbot based on YoloV5 real-time target detection
-- [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing and Parsing Package
+- [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package
 - [SysCV/pcan](https://github.com/SysCV/pcan) - Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation, NeurIPS 2021 Spotlight
 - [yangyudong2020/PP-Tracking_GUi](https://github.com/yangyudong2020/PP-Tracking_GUi) - Object detection GUI based on PaddleDetection(基于PaddleDetection的目标检测GUI框架）
 - [ShenDezhou/CAIL](https://github.com/ShenDezhou/CAIL) - 中国法研杯-司法人工智能挑战赛(CAIL2018-2020)
@@ -536,7 +536,7 @@
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [cytoscape/ipycytoscape](https://github.com/cytoscape/ipycytoscape) - A Cytoscape Jupyter widget
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Base Population（DeepKE是一个由浙江大学知识图谱创新团队贡献的开源知识图谱抽取与构建工具，支持低资源、长篇章条件下抽取能力，具备命名实体识别、关系抽取和属性抽取等功能）
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Base Population（由浙江大学贡献的开源知识图谱抽取与构建工具）
 - [PaddlePaddle/PGL](https://github.com/PaddlePaddle/PGL) - Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [PyUnit/pyunit-address](https://github.com/PyUnit/pyunit-address) - 字符串地址查询,支持自定义地址词库,解析地址,地址识别,地址抽取,中文地址.
