@@ -626,6 +626,7 @@
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - 👄 The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
+- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -737,7 +738,6 @@
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [senses-chat/operator](https://github.com/senses-chat/operator) - 先思智联 - 聊天机器人消息中间件 - Senses Chat Operator is a messaging middleware for chatbots.
 - [cellbang/malagu](https://github.com/cellbang/malagu) - Malagu is a Serverless First, componentized, platform-independent progressive application framework based on TypeScript.
-- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [OwnStoreOrg/ownstore-website](https://github.com/OwnStoreOrg/ownstore-website) - The official web app of OwnStore suite.
 - [sleeyax/asarmor](https://github.com/sleeyax/asarmor) - Protect asar archive files from extraction
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
@@ -850,7 +850,7 @@
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [ohbug-org/ohbug](https://github.com/ohbug-org/ohbug) - An open source application information monitoring platform.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [AlexTorresSk/custom-electron-titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [antvis/algorithm](https://github.com/antvis/algorithm) - 常用的图算法 JS 实现，提供给 G6 及 Graphin 用于图分析场景使用。
@@ -912,7 +912,7 @@
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [antvis/Graphin](https://github.com/antvis/Graphin) - A React toolkit for graph visualization based on G6
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
+- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
