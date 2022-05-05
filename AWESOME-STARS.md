@@ -311,7 +311,6 @@
 - [ml87124909/MaliStore](https://github.com/ml87124909/MaliStore) - 简道云之家开发版，微信小程序商城。无需开发，无需设计，真正做到下载即用👏👏可以部署到自己的服务器，小程序端免费开源🆓这应该是目前开源最全最好的一套微信小程序商城了🎉🎉小程序端配置请参考文档说明👉https://www.yjyzj.cn/index/help  API接口文档请参考👉 https://www.yjyzj.cn/index/api
 - [catdad/electronmon](https://github.com/catdad/electronmon) - 🖥 run, watch, and restart electron apps using magic
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
-- [cuiwang/DatasMark](https://github.com/cuiwang/DatasMark) - A NER tool
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
@@ -451,7 +450,7 @@
 
 ## Prolog 
 
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a document graph
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a semantic document graph
 
 ## Python 
 
@@ -956,6 +955,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
+- [cuiwang/DatasMark](https://github.com/cuiwang/DatasMark) - A NER tool
 - [qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor) - 基于vue+g6实现的知识图谱编辑器
 - [datawhalechina/whale-anno](https://github.com/datawhalechina/whale-anno) - Datawhale自研数据标注工具
 - [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
