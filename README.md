@@ -141,10 +141,10 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 <!--START_SECTION:waka-->
 
 ```text
-Rust         3 hrs 31 mins   ████████████████████▓░░░░   82.05 %
-TOML         35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Rust         3 hrs 31 mins   █████████████████████░░░░   84.06 %
+TOML         32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
