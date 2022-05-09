@@ -114,7 +114,7 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - Yao A low code engine to create web services and dashboard.
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [IBAX-io/go-ibax](https://github.com/IBAX-io/go-ibax) - An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.
 - [labring/sealos](https://github.com/labring/sealos) - 以kubernetes为内核的云操作系统发行版，3min 一键高可用安装自定义kubernetes，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
@@ -208,7 +208,7 @@
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [MiracleTanC/Neo4j-KGBuilder](https://github.com/MiracleTanC/Neo4j-KGBuilder) - Neo4j+springboot+vue+d3.js知识图谱构建和可视化
-- [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
+- [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -402,6 +402,7 @@
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [yixiu00001/LSTM-CRF-medical](https://github.com/yixiu00001/LSTM-CRF-medical) - 构建医疗实体识别的模型，包含词典和语料标注，基于python构建
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [LakiLiu/Covid-19-Analysis](https://github.com/LakiLiu/Covid-19-Analysis) - 数据集依据与“新冠肺炎”相关的230个主题关键词进行数据采集，抓取了2020年1月1日—2020年2月20日期间共计100万条微博数据，并对其中10万条数据进行人工标注，标注分为三类，分别为：1（积极），0（中性）和-1（消极）
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 
@@ -450,7 +451,7 @@
 
 ## Prolog 
 
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a semantic document graph
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
 
 ## Python 
 
@@ -584,7 +585,6 @@
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
 - [offu/WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [PaddlePaddle/Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX) - ONNX Model Exporter for PaddlePaddle
 - [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
 - [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
@@ -686,7 +686,6 @@
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
-- [polkadot-js/wasm](https://github.com/polkadot-js/wasm) - A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions on Polkadot and Substrate networks.
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
@@ -848,6 +847,7 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
+- [polkadot-js/wasm](https://github.com/polkadot-js/wasm) - A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions on Polkadot and Substrate networks.
 - [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building and Running TypeScript projects efficiently with rollup + esbuild
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
