@@ -98,7 +98,7 @@
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network.
-- [c3os-io/c3os](https://github.com/c3os-io/c3os) - :penguin: :cyclone: Linux OS for Automated Decentralized Kubernetes clusters with k3s and libp2p/ipfs - bringing kubernetes to web3
+- [c3os-io/c3os](https://github.com/c3os-io/c3os) - :penguin: :cyclone: Linux Immutable OS for Automated (Decentralized) Kubernetes clusters with k3s
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [jasonLaw1015/GfEasy](https://github.com/jasonLaw1015/GfEasy) - 快速crud开发框架，甚至于一行代码不用敲；自动根据数据库表结构自动生成crud代码；低代码开发框架；至少减少百分90%工作量；可快速把现有系统转成GfEasy版本；后端使用GoFrame开发;后台前端使用 cool-admin-vue；后台使用自适应布局，手机、PC完美使用。
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
@@ -140,7 +140,7 @@
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [doorbash/pm2-web](https://github.com/doorbash/pm2-web) - Web based monitor for PM2
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
@@ -161,7 +161,7 @@
 - [fastwego/offiaccount](https://github.com/fastwego/offiaccount) - [微信公众号] A fast wechat offiaccount development sdk written in Golang
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) - Go version of P2P Database on IPFS
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
 - [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
@@ -248,10 +248,9 @@
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
 - [kirillmurashov/vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - Vue2 && Vue3 Component for resize and drag elements
 - [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5
-- [posva/pinia-plugin-debounce](https://github.com/posva/pinia-plugin-debounce) - Config-based action debouncing made easy
 - [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [stormseed/daykeep-calendar-quasar](https://github.com/stormseed/daykeep-calendar-quasar) - A full event display calendar for the Quasar framework that has multiple viewing formats.
@@ -778,6 +777,7 @@
 - [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 🍍 Configurable persistence and rehydration of Pinia stores.
+- [posva/pinia-plugin-debounce](https://github.com/posva/pinia-plugin-debounce) - Config-based action debouncing made easy
 - [ZLY201/js-sdsl](https://github.com/ZLY201/js-sdsl) - A javascript standard data structure library which benchmark against C++ STL.
 - [Stun3R/strapi-sdk-js](https://github.com/Stun3R/strapi-sdk-js) - 📦 Javascript SDK for your Strapi API
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
