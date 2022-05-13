@@ -218,7 +218,7 @@
 - [UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram) - 给女朋友做的微信小程序！情侣自己的任务和商城系统！
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
-- [junchaoIU/CMRH-KG_DEV2.0_React](https://github.com/junchaoIU/CMRH-KG_DEV2.0_React) - 📚中国近代革命历史知识图谱数字图书馆系统前端 v2.0。🌈基于react+antd框架构建，利用echart实现 知识图谱可视化，包括知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等7大模块. Link：https://www.gzknowledge.cn
+- [junchaoIU/CMRH-KG_DEV2.0_React](https://github.com/junchaoIU/CMRH-KG_DEV2.0_React) - 📚中国近代革命历史知识图谱数字图书馆系统前端 v2.0。🌈基于react+antd框架构建，利用echart实现 知识图谱可视化，包括知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等7大模块。
 - [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 - [ddnlink/ddn](https://github.com/ddnlink/ddn) - DDN, Data Delivery Network,  a next generation blockchain system
 - [noahlevenson/passerby](https://github.com/noahlevenson/passerby) - Peer-to-peer location services for the decentralized web -- discover what's around you, no central authority required
@@ -700,7 +700,7 @@
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone!
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 
@@ -879,7 +879,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
