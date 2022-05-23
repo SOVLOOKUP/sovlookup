@@ -126,11 +126,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/yokymia">Yokymia Roberts </a>
     </td>
     <td align="center">
-      <a href="https://github.com/daqi">
-        <img src="https://avatars2.githubusercontent.com/u/1715916" width="100px;" alt="daqi"/>
+      <a href="https://github.com/fluffyrita">
+        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
       </a>
       <br />
-      <a href="https://github.com/daqi">大齐</a>
+      <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
   </tr>
 </table>
