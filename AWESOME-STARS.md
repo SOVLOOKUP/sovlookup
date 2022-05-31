@@ -343,6 +343,7 @@
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [browserify/detective](https://github.com/browserify/detective) - Find all calls to require() no matter how deeply nested using a proper walk of the AST
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [yuedun/zhuque](https://github.com/yuedun/zhuque) - 使用go开发的简单高效的发布系统，支持pm2 deploy和scp两种发布方式。
@@ -880,7 +881,6 @@
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)
 - [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
@@ -965,7 +965,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [MiracleTanC/Neo4j-KGBuilder](https://github.com/MiracleTanC/Neo4j-KGBuilder) - Neo4j+springboot+vue+d3.js知识图谱构建和可视化
-- [cuiwang/DatasMark](https://github.com/cuiwang/DatasMark) - A NER tool
+- [cuiwang/MarkStudio](https://github.com/cuiwang/MarkStudio) - A NER tool
 - [qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor) - 基于vue+g6实现的知识图谱编辑器
 - [datawhalechina/whale-anno](https://github.com/datawhalechina/whale-anno) - Datawhale自研数据标注工具
 - [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
