@@ -118,7 +118,7 @@
 - [argoproj-labs/argo-dataflow](https://github.com/argoproj-labs/argo-dataflow) - Dataflow is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 - [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [YaoApp/yao](https://github.com/YaoApp/yao) - A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other us
+- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
