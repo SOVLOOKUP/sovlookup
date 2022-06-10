@@ -118,7 +118,7 @@
 - [argoproj-labs/argo-dataflow](https://github.com/argoproj-labs/argo-dataflow) - Dataflow is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 - [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many
+- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
@@ -648,7 +648,7 @@
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [facebookresearch/dachshund](https://github.com/facebookresearch/dachshund) - Dachshund is a graph mining library written in Rust. It provides high performance data structures for multiple kinds of graphs, from simple undirected graphs to typed hypergraphs. Dachshund also provi
 - [s1ck/graph](https://github.com/s1ck/graph) - A library of high-performant graph algorithms.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [fluencelabs/marine](https://github.com/fluencelabs/marine) - Marine runs multi-module WebAssembly applications with interface-types and shared-nothing linking scheme
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -877,7 +877,7 @@
 - [ohbug-org/ohbug](https://github.com/ohbug-org/ohbug) - An open source application information monitoring platform.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
 - [AlexTorresSk/custom-electron-titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [antvis/algorithm](https://github.com/antvis/algorithm) - 常用的图算法 JS 实现，提供给 G6 及 Graphin 用于图分析场景使用。
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
