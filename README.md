@@ -61,18 +61,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/StevenJokess">蔡舒起</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wangrongding">
-        <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
-      </a>
-      <br />
-      <a href="https://github.com/wangrongding">荣顶</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/baifengbai">
         <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
       </a>
       <br />
       <a href="https://github.com/baifengbai">Bai Feng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wangrongding">
+        <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
+      </a>
+      <br />
+      <a href="https://github.com/wangrongding">荣顶</a>
     </td>
     <td align="center">
       <a href="https://github.com/thomas-yanxin">
