@@ -141,11 +141,7 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 <!--START_SECTION:waka-->
 
 ```text
-TOML         44 mins         ████████████▒░░░░░░░░░░░░   49.26 %
-Bash         24 mins         ███████░░░░░░░░░░░░░░░░░░   27.42 %
-Python       18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
