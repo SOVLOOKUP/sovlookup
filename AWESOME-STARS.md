@@ -459,6 +459,7 @@
 
 ## Python 
 
+- [yeyupiaoling/PPASR](https://github.com/yeyupiaoling/PPASR) - 基于PaddlePaddle2实现端到端中文语音识别，从入门到实战，超简单的入门案例，超实用的企业项目。
 - [QPT-Family/QPT](https://github.com/QPT-Family/QPT) - [内测中]QPT - Python程序模块化封装工具（Py转EXE），快速将Python打包为EXE并添加CUDA、NoAVX等支持。
 - [openstack/stevedore](https://github.com/openstack/stevedore) - Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
 - [pytest-dev/pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
@@ -664,7 +665,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
-- [alexandre-ricciardi/one-graph](https://github.com/alexandre-ricciardi/one-graph) - OneGraph Database
+- [alexandre-ricciardi/zawgl](https://github.com/alexandre-ricciardi/zawgl) - Zawgl Database
 - [appaquet/exocore](https://github.com/appaquet/exocore) - A distributed private application framework
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, 
@@ -753,6 +754,7 @@
 
 ## TypeScript 
 
+- [FalkZ/doclea](https://github.com/FalkZ/doclea) - 
 - [authcompanion/authcompanion](https://github.com/authcompanion/authcompanion) - An effortless, token-based user management server - well suited for modern web projects.
 - [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug 是基于 appsmith 打造的更适合中国开发者的开源前端低代码项目。无需侵入客户架构，直接连接数据源（API、DB），无需学习任何第三方概念，使用基础 js 知识就可以快速生成多平台前端应用，包括 PC 端 web 应用、微信小程序等。【中国版Appsmith】
 - [marc2332/deno_installer](https://github.com/marc2332/deno_installer) - 📦 You can now create installers for your Deno 🦕 apps!
@@ -967,6 +969,7 @@
 
 ## Vue 
 
+- [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [ubisoft/mobydq](https://github.com/ubisoft/mobydq) - :whale: Tool to automate data quality checks on data pipelines
