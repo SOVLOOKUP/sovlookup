@@ -47,18 +47,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/noahehall">noah edward hall</a>
     </td>
     <td align="center">
-      <a href="https://github.com/GT-ZhangAcer">
-        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
-      </a>
-      <br />
-      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wangrongding">
         <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
       </a>
       <br />
       <a href="https://github.com/wangrongding">荣顶</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GT-ZhangAcer">
+        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
+      </a>
+      <br />
+      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/StevenJokess">
@@ -105,18 +105,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/yuedun">yuedun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yokymia">
-        <img src="https://avatars2.githubusercontent.com/u/49587758" width="100px;" alt="yokymia"/>
-      </a>
-      <br />
-      <a href="https://github.com/yokymia">Yokymia Roberts </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fodelf">
         <img src="https://avatars2.githubusercontent.com/u/20442029" width="100px;" alt="fodelf"/>
       </a>
       <br />
       <a href="https://github.com/fodelf">WuWenZhou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yokymia">
+        <img src="https://avatars2.githubusercontent.com/u/49587758" width="100px;" alt="yokymia"/>
+      </a>
+      <br />
+      <a href="https://github.com/yokymia">Yokymia Roberts </a>
     </td>
     <td align="center">
       <a href="https://github.com/hamidnn">
