@@ -298,6 +298,7 @@
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [automation-stack/node-machine-id](https://github.com/automation-stack/node-machine-id) - Unique machine (desktop) id (no admin privileges required)
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
 - [YYJeffrey/july_client](https://github.com/YYJeffrey/july_client) - A WeChat mini program for SaaS social platform - 七月社交小程序
 - [NyaomiDEV/Glasstron](https://github.com/NyaomiDEV/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
@@ -500,7 +501,7 @@
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) - 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
 - [78778443/QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [percent4/people_relation_extract](https://github.com/percent4/people_relation_extract) - 结合BERT+GRU+ATT模型，对自己收集的人物关系数据进行模型训练，用于人物关系抽取。
@@ -994,7 +995,6 @@
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [MiracleTanC/Neo4j-KGBuilder](https://github.com/MiracleTanC/Neo4j-KGBuilder) - Neo4j+springboot+vue+d3.js知识图谱构建和可视化
 - [cuiwang/MarkStudio](https://github.com/cuiwang/MarkStudio) - A NER tool
