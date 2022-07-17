@@ -114,7 +114,7 @@
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network.
-- [c3os-io/c3os](https://github.com/c3os-io/c3os) - :penguin: :cyclone: Linux Immutable OS for Automated (Decentralized) Kubernetes clusters with k3s, for homelab and beyond! Free and Built by community
+- [c3os-io/c3os](https://github.com/c3os-io/c3os) - :penguin: :cyclone: Immutable, Modern Linux Distro built to ease out Kubernetes clusters creation
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [jasonLaw1015/GfEasy](https://github.com/jasonLaw1015/GfEasy) - 快速crud开发框架，甚至于一行代码不用敲；自动根据数据库表结构自动生成crud代码；低代码开发框架；至少减少百分90%工作量；可快速把现有系统转成GfEasy版本；后端使用GoFrame开发;后台前端使用 cool-admin-vue；后台使用自适应布局，手机、PC完美使用。
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
@@ -766,6 +766,7 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [FalkZ/doclea](https://github.com/FalkZ/doclea) - 
 - [authcompanion/authcompanion](https://github.com/authcompanion/authcompanion) - An effortless, token-based user management server - well suited for modern web projects.
 - [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug 是基于 appsmith 打造的更适合中国开发者的开源前端低代码项目。无需侵入客户架构，直接连接数据源（API、DB），无需学习任何第三方概念，使用基础 js 知识就可以快速生成多平台前端应用，包括 PC 端 web 应用、微信小程序等。【中国版Appsmith】
@@ -980,6 +981,7 @@
 
 ## Vue 
 
+- [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
