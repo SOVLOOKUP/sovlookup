@@ -40,18 +40,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/muwoo">木偶</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wangrongding">
-        <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
-      </a>
-      <br />
-      <a href="https://github.com/wangrongding">荣顶</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/noahehall">
         <img src="https://avatars2.githubusercontent.com/u/10324554" width="100px;" alt="noahehall"/>
       </a>
       <br />
       <a href="https://github.com/noahehall">noah edward hall</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wangrongding">
+        <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
+      </a>
+      <br />
+      <a href="https://github.com/wangrongding">荣顶</a>
     </td>
     <td align="center">
       <a href="https://github.com/GT-ZhangAcer">
