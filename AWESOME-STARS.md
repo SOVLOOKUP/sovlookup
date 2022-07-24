@@ -762,6 +762,7 @@
 
 ## TypeScript 
 
+- [smartxworks/sunmao-ui](https://github.com/smartxworks/sunmao-ui) - A Framework for Developing Low-code Tool
 - [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [FalkZ/doclea](https://github.com/FalkZ/doclea) - 
@@ -793,7 +794,7 @@
 - [hyqaimx/graph-timeline](https://github.com/hyqaimx/graph-timeline) - 是一个用于图分析中分析节点的时间关系的组件
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite Starter Template
+- [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [ToucanToco/weaverbird](https://github.com/ToucanToco/weaverbird) - A visual data pipeline builder with various backends
 - [terascope/teraslice](https://github.com/terascope/teraslice) - Scalable data processing pipelines in JavaScript
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
