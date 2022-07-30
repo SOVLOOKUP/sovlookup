@@ -98,6 +98,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/joebudi">Joe</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mblackritter">
+        <img src="https://avatars2.githubusercontent.com/u/1057919" width="100px;" alt="mblackritter"/>
+      </a>
+      <br />
+      <a href="https://github.com/mblackritter">Michael Black Ritter</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yokymia">
         <img src="https://avatars2.githubusercontent.com/u/49587758" width="100px;" alt="yokymia"/>
       </a>
@@ -124,13 +131,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/hamidnn">hamidnn</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fluffyrita">
-        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
-      </a>
-      <br />
-      <a href="https://github.com/fluffyrita">Rita XU</a>
     </td>
   </tr>
 </table>
