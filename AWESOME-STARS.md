@@ -121,7 +121,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [dtm-labs/dtf](https://github.com/dtm-labs/dtf) - 大家好，dtm最终跟原公司谈下来了知识产权转让，现已恢复维护，请大家访问 https://github.com/dtm-labs/dtm 。中间给大家带来的不便，敬请谅解！
+- [yedf2/dtf](https://github.com/yedf2/dtf) - 大家好，dtm最终跟原公司谈下来了知识产权转让，现已恢复维护，请大家访问 https://github.com/dtm-labs/dtm 。中间给大家带来的不便，敬请谅解！
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [digitalocean/firebolt](https://github.com/digitalocean/firebolt) - Golang framework for streaming ETL, observability data pipeline, and event processing apps
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
@@ -199,7 +199,6 @@
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [chizhu/KGQA_HLM](https://github.com/chizhu/KGQA_HLM) - 基于知识图谱的《红楼梦》人物关系可视化及问答系统
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [ownthink/KG-View](https://github.com/ownthink/KG-View) - 知识图谱可视化展示
@@ -230,6 +229,7 @@
 
 ## JavaScript 
 
+- [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [e0ipso/plugnplay](https://github.com/e0ipso/plugnplay) - 🤖 Plugin system for reusable code in node.js
 - [UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram) - 给女朋友做的微信小程序！情侣自己的任务和商城系统！
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
@@ -290,6 +290,7 @@
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
@@ -769,6 +770,7 @@
 
 ## TypeScript 
 
+- [BetaHuhn/metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - 🏷️ A JavaScript library for scraping/parsing metadata from a web page.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
