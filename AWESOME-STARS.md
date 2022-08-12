@@ -704,7 +704,7 @@
 - [driftluo/tentacle](https://github.com/driftluo/tentacle) - A multiplexed p2p network framework that supports custom protocols
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - A Rust library for creating global hotkeys, and emulating inputs.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -963,7 +963,7 @@
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [microsoft/etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
@@ -995,7 +995,7 @@
 
 ## Vue 
 
-- [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design) - 一款简历设计生成器
+- [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design) - 一款开源简历设计生成器，多种免费模板选择，支持到处PDF、JSON数据。
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
