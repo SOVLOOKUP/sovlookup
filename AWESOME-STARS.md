@@ -772,10 +772,11 @@
 
 ## TypeScript 
 
+- [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [BetaHuhn/metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - 🏷️ A JavaScript library for scraping/parsing metadata from a web page.
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [smartxworks/sunmao-ui](https://github.com/smartxworks/sunmao-ui) - A Framework for Developing Low-code Tool
@@ -1018,7 +1019,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [MiracleTanC/Neo4j-KGBuilder](https://github.com/MiracleTanC/Neo4j-KGBuilder) - Neo4j+springboot+vue+d3.js知识图谱构建和可视化
-- [cuiwang/MarkStudio](https://github.com/cuiwang/MarkStudio) - A NER tool
+- [cuiwang/MarkStudio](https://github.com/cuiwang/MarkStudio) - 中文标注工具，支持NER、文本分类、关系标注、对话标注等。
 - [qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor) - 基于vue+g6实现的知识图谱编辑器
 - [datawhalechina/whale-anno](https://github.com/datawhalechina/whale-anno) - Datawhale自研数据标注工具
 - [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
