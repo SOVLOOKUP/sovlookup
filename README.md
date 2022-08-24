@@ -47,18 +47,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/muwoo">木偶</a>
     </td>
     <td align="center">
-      <a href="https://github.com/GT-ZhangAcer">
-        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
-      </a>
-      <br />
-      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wangrongding">
         <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
       </a>
       <br />
       <a href="https://github.com/wangrongding">荣顶</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GT-ZhangAcer">
+        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
+      </a>
+      <br />
+      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/noahehall">
@@ -119,18 +119,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/yokymia">Yokymia Roberts </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yuedun">
-        <img src="https://avatars2.githubusercontent.com/u/7362116" width="100px;" alt="yuedun"/>
-      </a>
-      <br />
-      <a href="https://github.com/yuedun">yuedun</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jaimemh">
         <img src="https://avatars2.githubusercontent.com/u/35988159" width="100px;" alt="jaimemh"/>
       </a>
       <br />
       <a href="https://github.com/jaimemh">Jaime Morgan Hitchcock</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yuedun">
+        <img src="https://avatars2.githubusercontent.com/u/7362116" width="100px;" alt="yuedun"/>
+      </a>
+      <br />
+      <a href="https://github.com/yuedun">yuedun</a>
     </td>
   </tr>
 </table>
