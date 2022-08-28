@@ -98,6 +98,13 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/WhiteFireFox">Zhihao Cao</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jaimemh">
+        <img src="https://avatars2.githubusercontent.com/u/35988159" width="100px;" alt="jaimemh"/>
+      </a>
+      <br />
+      <a href="https://github.com/jaimemh">Jaime Morgan Hitchcock</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/mblackritter">
         <img src="https://avatars2.githubusercontent.com/u/1057919" width="100px;" alt="mblackritter"/>
       </a>
@@ -117,13 +124,6 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       </a>
       <br />
       <a href="https://github.com/yokymia">Yokymia Roberts </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jaimemh">
-        <img src="https://avatars2.githubusercontent.com/u/35988159" width="100px;" alt="jaimemh"/>
-      </a>
-      <br />
-      <a href="https://github.com/jaimemh">Jaime Morgan Hitchcock</a>
     </td>
     <td align="center">
       <a href="https://github.com/yuedun">
