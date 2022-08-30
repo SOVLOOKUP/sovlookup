@@ -91,18 +91,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WhiteFireFox">
-        <img src="https://avatars2.githubusercontent.com/u/57762833" width="100px;" alt="WhiteFireFox"/>
-      </a>
-      <br />
-      <a href="https://github.com/WhiteFireFox">Zhihao Cao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jaimemh">
         <img src="https://avatars2.githubusercontent.com/u/35988159" width="100px;" alt="jaimemh"/>
       </a>
       <br />
       <a href="https://github.com/jaimemh">Jaime Morgan Hitchcock</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WhiteFireFox">
+        <img src="https://avatars2.githubusercontent.com/u/57762833" width="100px;" alt="WhiteFireFox"/>
+      </a>
+      <br />
+      <a href="https://github.com/WhiteFireFox">Zhihao Cao</a>
     </td>
     <td align="center">
       <a href="https://github.com/mblackritter">
