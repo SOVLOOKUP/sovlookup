@@ -102,6 +102,7 @@
 
 ## Go 
 
+- [qfdk/uranus](https://github.com/qfdk/uranus) - A nginx web manager UI
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
 - [ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go) - Backend for ThingsPanel.
 - [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。
@@ -234,6 +235,7 @@
 
 ## JavaScript 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [yioMe/nodejs_wx_aipay_api](https://github.com/yioMe/nodejs_wx_aipay_api) - 
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -670,7 +672,7 @@
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [emoon/dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
+- [RisingWaveLabs/risingwave](https://github.com/RisingWaveLabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - 👄 The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
