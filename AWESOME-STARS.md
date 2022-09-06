@@ -50,6 +50,7 @@
 
 ## C# # 
 
+- [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET6 Socket编程实现内网穿透，UDP,TCP打洞实现点对点直连，通过tcp转发，udp转发，http1.1代理，socks5代理，组网，实现访问内网web ，内网桌面，及其它TCP/UDP上层协议服务
 - [Crequency/KitX](https://github.com/Crequency/KitX) - An all-purpose toolbox app🎇, that allows you to manage yours plugins and inject your code into it.
 - [microsoft/SmartKG](https://github.com/microsoft/SmartKG) - This project accepts excel files as input which contains the description of a Knowledge Graph (Vertexes and Edges) and convert it into an in-memory Graph Store. This project implements APIs to search/
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
