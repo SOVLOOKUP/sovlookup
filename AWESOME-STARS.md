@@ -50,7 +50,7 @@
 
 ## C# # 
 
-- [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET6 Socket编程实现内网穿透，UDP,TCP打洞实现点对点直连，通过tcp转发，udp转发，http1.1代理，socks5代理，组网，实现访问内网web ，内网桌面，及其它TCP/UDP上层协议服务
+- [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET6 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [Crequency/KitX](https://github.com/Crequency/KitX) - An all-purpose toolbox app🎇, that allows you to manage yours plugins and inject your code into it.
 - [microsoft/SmartKG](https://github.com/microsoft/SmartKG) - This project accepts excel files as input which contains the description of a Knowledge Graph (Vertexes and Edges) and convert it into an in-memory Graph Store. This project implements APIs to search/
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
@@ -479,6 +479,7 @@
 
 ## Python 
 
+- [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [casual-silva/NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
