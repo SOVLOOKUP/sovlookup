@@ -1,0 +1,1123 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "title": "The root schema",
+    "description": "The root schema comprises the entire JSON document.",
+    "default": {},
+    "examples": [
+        {
+            "pages": [
+                {
+                    "path": "pages/component/index",
+                    "style": {
+                        "navigationBarTitleText": "组件"
+                    }
+                },
+                {
+                    "path": "pages/API/index",
+                    "style": {
+                        "navigationBarTitleText": "接口"
+                    }
+                },
+                {
+                    "path": "pages/component/view/index",
+                    "style": {
+                        "navigationBarTitleText": "view"
+                    }
+                }
+            ],
+            "condition": {
+                "current": 0,
+                "list": [
+                    {
+                        "name": "test",
+                        "path": "pages/component/view/index"
+                    }
+                ]
+            },
+            "globalStyle": {
+                "navigationBarTextStyle": "black",
+                "navigationBarTitleText": "演示",
+                "navigationBarBackgroundColor": "#F8F8F8",
+                "backgroundColor": "#F8F8F8",
+                "usingComponents": {
+                    "collapse-tree-item": "/components/collapse-tree-item"
+                },
+                "renderingMode": "seperated",
+                "pageOrientation": "portrait",
+                "rpxCalcMaxDeviceWidth": 960,
+                "rpxCalcBaseDeviceWidth": 375,
+                "rpxCalcIncludeWidth": 750
+            },
+            "tabBar": {
+                "color": "#7A7E83",
+                "selectedColor": "#3cc51f",
+                "borderStyle": "black",
+                "backgroundColor": "#ffffff",
+                "height": "50px",
+                "fontSize": "10px",
+                "iconWidth": "24px",
+                "spacing": "3px",
+                "list": [
+                    {
+                        "pagePath": "pages/component/index",
+                        "iconPath": "static/image/icon_component.png",
+                        "selectedIconPath": "static/image/icon_component_HL.png",
+                        "text": "组件"
+                    },
+                    {
+                        "pagePath": "pages/API/index",
+                        "iconPath": "static/image/icon_API.png",
+                        "selectedIconPath": "static/image/icon_API_HL.png",
+                        "text": "接口"
+                    }
+                ],
+                "midButton": {
+                    "width": "80px",
+                    "height": "50px",
+                    "text": "文字",
+                    "iconPath": "static/image/midButton_iconPath.png",
+                    "iconWidth": "24px",
+                    "backgroundImage": "static/image/midButton_backgroundImage.png"
+                }
+            },
+            "easycom": {
+                "autoscan": true,
+                "custom": {
+                    "^uni-(.*)": "@/components/uni-$1.vue"
+                }
+            },
+            "topWindow": {
+                "path": "responsive/top-window.vue",
+                "style": {
+                    "height": "44px"
+                }
+            },
+            "leftWindow": {
+                "path": "responsive/left-window.vue",
+                "style": {
+                    "width": "300px"
+                }
+            },
+            "rightWindow": {
+                "path": "responsive/right-window.vue",
+                "style": {
+                    "width": "300px"
+                },
+                "matchMedia": {
+                    "minWidth": 768
+                }
+            }
+        }
+    ],
+    "required": [
+        "pages",
+        "condition",
+        "globalStyle",
+        "tabBar"
+    ],
+    "properties": {
+        "pages": {
+            "$id": "#/properties/pages",
+            "type": "array",
+            "title": "设置页面路径及窗口表现",
+            "description": "-",
+            "default": [],
+            "examples": [
+                [
+                    {
+                        "path": "pages/component/index",
+                        "style": {
+                            "navigationBarTitleText": "组件"
+                        }
+                    },
+                    {
+                        "path": "pages/API/index",
+                        "style": {
+                            "navigationBarTitleText": "接口"
+                        }
+                    }
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/pages/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/pages/items/anyOf/0",
+                        "type": "object",
+                        "title": "The first anyOf schema",
+                        "description": "-",
+                        "default": {},
+                        "examples": [
+                            {
+                                "path": "pages/component/index",
+                                "style": {
+                                    "navigationBarTitleText": "组件"
+                                }
+                            }
+                        ],
+                        "required": [
+                            "path"
+                        ],
+                        "properties": {
+                            "path": {
+                                "$id": "#/properties/pages/items/anyOf/0/properties/path",
+                                "type": "string",
+                                "title": "The path schema",
+                                "description": "-",
+                                "default": "",
+                                "examples": [
+                                    "pages/component/index"
+                                ]
+                            },
+                            "style": {
+                                "$id": "#/properties/pages/items/anyOf/0/properties/style",
+                                "type": "object",
+                                "title": "The style schema",
+                                "description": "-",
+                                "default": {},
+                                "examples": [
+                                    {
+                                        "navigationBarTitleText": "组件"
+                                    }
+                                ],
+                                "required": [],
+                                "properties": {
+                                    "navigationBarTitleText": {
+                                        "$id": "#/properties/pages/items/anyOf/0/properties/style/properties/navigationBarTitleText",
+                                        "type": "string",
+                                        "title": "The navigationBarTitleText schema",
+                                        "description": "-",
+                                        "default": "",
+                                        "examples": [
+                                            "组件"
+                                        ]
+                                    },
+                                    "navigationBarBackgroundColor": {
+                                        "type": "string",
+                                        "title": "导航栏背景颜色（同状态栏背景色），如\"#000000\"",
+                                        "description": "-",
+                                        "default": "#000000"
+                                    },
+                                    "navigationBarTextStyle": {
+                                        "type": "string",
+                                        "enum": [
+                                            "black",
+                                            "white"
+                                        ],
+                                        "title": "导航栏标题颜色及状态栏前景颜色，仅支持 black/white",
+                                        "description": "-",
+                                        "default": "white"
+                                    },
+                                    "navigationStyle": {
+                                        "type": "string",
+                                        "enum": [
+                                            "default",
+                                            "custom"
+                                        ],
+                                        "title": "导航栏样式，仅支持 default/custom。custom即取消默认的原生导航栏，需看使用注意 https://uniapp.dcloud.io/collocation/pages?id=customnav",
+                                        "description": "平台差异:微信小程序 7.0+、百度小程序、H5、App（2.0.3+）",
+                                        "default": "custom"
+                                    },
+                                    "disableScroll": {
+                                        "type": "boolean",
+                                        "title": "设置为 true 则页面整体不能上下滚动（bounce效果）",
+                                        "description": "微信小程序（iOS）、百度小程序（iOS）",
+                                        "default": false
+                                    },
+                                    "backgroundColor": {
+                                        "type": "string",
+                                        "default": "#ffffff",
+                                        "title": "窗口的背景色",
+                                        "description": "微信小程序、百度小程序、字节跳动小程序"
+                                    },
+                                    "backgroundTextColor": {
+                                        "type": "string",
+                                        "default": "dark",
+                                        "enum": [
+                                            "dark",
+                                            "light"
+                                        ],
+                                        "title": "下拉Loading的样式，仅支持 dark/light",
+                                        "description": "-"
+                                    },
+                                    "enablePullDownRefresh": {
+                                        "type": "boolean",
+                                        "default": false,
+                                        "title": "是否开启下拉刷新，详见页面生命周期。onPullDownRefresh",
+                                        "description": "https://uniapp.dcloud.io/collocation/frame/lifecycle?id=%e9%a1%b5%e9%9d%a2%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f"
+                                    },
+                                    "onReachBottomDistance": {
+                                        "type": "number",
+                                        "default": 50,
+                                        "title": "页面上拉触底事件触发时距页面底部距离，单位只支持px，详见页面生命周期. onReachBottom",
+                                        "description": "https://uniapp.dcloud.io/collocation/frame/lifecycle?id=%e9%a1%b5%e9%9d%a2%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f"
+                                    },
+                                    "app-plus": {
+                                        "type": "object",
+                                        "title": "设置编译到 App 平台的特定样式",
+                                        "description": "App",
+                                        "properties": {
+                                            "background": {
+                                                "type": "string",
+                                                "default": "#ffffff",
+                                                "title": "窗体背景色",
+                                                "description": "无论vue页面还是nvue页面，在App上都有一个父级原生窗体，该窗体的背景色生效时间快于页面里的css生效时间"
+                                            },
+                                            "softinputMode": {
+                                                "title": "软键盘弹出模式，支持 adjustResize、adjustPan 两种模式",
+                                                "description": "-",
+                                                "default": "adjustPan",
+                                                "enum": [
+                                                    "adjustPan",
+                                                    "adjustResize"
+                                                ]
+                                            },
+                                            "scrollIndicator": {
+                                                "title": "滚动条显示策略，设置为 \"none\" 时不显示滚动条。",
+                                                "default": "none",
+                                                "type": "string",
+                                                "enum": [
+                                                    "none"
+                                                ]
+                                            }
+                                        }
+                                    }
+                                },
+                                "additionalProperties": true
+                            }
+                        },
+                        "additionalProperties": true
+                    }
+                ]
+            }
+        },
+        "condition": {
+            "$id": "#/properties/condition",
+            "type": "object",
+            "title": "启动模式配置",
+            "description": "-",
+            "default": {},
+            "examples": [
+                {
+                    "current": 0,
+                    "list": [
+                        {
+                            "name": "test",
+                            "path": "pages/component/view/index"
+                        }
+                    ]
+                }
+            ],
+            "required": [
+                "current",
+                "list"
+            ],
+            "properties": {
+                "current": {
+                    "$id": "#/properties/condition/properties/current",
+                    "type": "integer",
+                    "title": "当前激活的模式，list节点的索引值",
+                    "description": "-",
+                    "default": 0,
+                    "examples": [
+                        0
+                    ]
+                },
+                "list": {
+                    "$id": "#/properties/condition/properties/list",
+                    "type": "array",
+                    "title": "启动模式列表",
+                    "description": "-",
+                    "default": [],
+                    "examples": [
+                        [
+                            {
+                                "name": "test",
+                                "path": "pages/component/view/index"
+                            }
+                        ]
+                    ],
+                    "additionalItems": true,
+                    "items": {
+                        "$id": "#/properties/condition/properties/list/items",
+                        "anyOf": [
+                            {
+                                "$id": "#/properties/condition/properties/list/items/anyOf/0",
+                                "type": "object",
+                                "title": "The first anyOf schema",
+                                "description": "-",
+                                "default": {},
+                                "examples": [
+                                    {
+                                        "name": "test",
+                                        "path": "pages/component/view/index"
+                                    }
+                                ],
+                                "required": [
+                                    "name",
+                                    "path"
+                                ],
+                                "properties": {
+                                    "name": {
+                                        "$id": "#/properties/condition/properties/list/items/anyOf/0/properties/name",
+                                        "type": "string",
+                                        "title": "启动模式名称",
+                                        "description": "-",
+                                        "default": "",
+                                        "examples": [
+                                            "test"
+                                        ]
+                                    },
+                                    "path": {
+                                        "$id": "#/properties/condition/properties/list/items/anyOf/0/properties/path",
+                                        "type": "string",
+                                        "title": "启动页面路径",
+                                        "description": "-",
+                                        "default": "",
+                                        "examples": [
+                                            "pages/component/view/index"
+                                        ]
+                                    },
+                                    "query": {
+                                        "title": "启动参数,可在页面的 onLoad 函数里获得",
+                                        "description": "-",
+                                        "type": "string",
+                                        "default": ""
+                                    }
+                                },
+                                "additionalProperties": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "additionalProperties": true
+        },
+        "globalStyle": {
+            "$id": "#/properties/globalStyle",
+            "type": "object",
+            "title": "The globalStyle schema",
+            "description": "-",
+            "default": {},
+            "examples": [
+                {
+                    "navigationBarTextStyle": "black",
+                    "navigationBarTitleText": "演示",
+                    "navigationBarBackgroundColor": "#F8F8F8",
+                    "backgroundColor": "#F8F8F8",
+                    "usingComponents": {
+                        "collapse-tree-item": "/components/collapse-tree-item"
+                    },
+                    "renderingMode": "seperated",
+                    "pageOrientation": "portrait",
+                    "rpxCalcMaxDeviceWidth": 960,
+                    "rpxCalcBaseDeviceWidth": 375,
+                    "rpxCalcIncludeWidth": 750
+                }
+            ],
+            "required": [],
+            "properties": {
+                "navigationBarTextStyle": {
+                    "$id": "#/properties/globalStyle/properties/navigationBarTextStyle",
+                    "type": "string",
+                    "title": "The navigationBarTextStyle schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "black"
+                    ]
+                },
+                "navigationBarTitleText": {
+                    "$id": "#/properties/globalStyle/properties/navigationBarTitleText",
+                    "type": "string",
+                    "title": "The navigationBarTitleText schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "演示"
+                    ]
+                },
+                "navigationBarBackgroundColor": {
+                    "$id": "#/properties/globalStyle/properties/navigationBarBackgroundColor",
+                    "type": "string",
+                    "title": "The navigationBarBackgroundColor schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "#F8F8F8"
+                    ]
+                },
+                "backgroundColor": {
+                    "$id": "#/properties/globalStyle/properties/backgroundColor",
+                    "type": "string",
+                    "title": "The backgroundColor schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "#F8F8F8"
+                    ]
+                },
+                "usingComponents": {
+                    "$id": "#/properties/globalStyle/properties/usingComponents",
+                    "type": "object",
+                    "title": "The usingComponents schema",
+                    "description": "-",
+                    "default": {},
+                    "examples": [
+                        {
+                            "collapse-tree-item": "/components/collapse-tree-item"
+                        }
+                    ],
+                    "required": [],
+                    "patternProperties": {
+                        "": {
+                            "$id": "#/properties/globalStyle/properties/usingComponents/properties/collapse-tree-item",
+                            "type": "string",
+                            "title": "The collapse-tree-item schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "/components/collapse-tree-item"
+                            ]
+                        }
+                    },
+                    "additionalProperties": true
+                },
+                "renderingMode": {
+                    "$id": "#/properties/globalStyle/properties/renderingMode",
+                    "type": "string",
+                    "title": "The renderingMode schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "seperated"
+                    ]
+                },
+                "pageOrientation": {
+                    "$id": "#/properties/globalStyle/properties/pageOrientation",
+                    "type": "string",
+                    "title": "The pageOrientation schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "portrait"
+                    ]
+                },
+                "rpxCalcMaxDeviceWidth": {
+                    "$id": "#/properties/globalStyle/properties/rpxCalcMaxDeviceWidth",
+                    "type": "integer",
+                    "title": "The rpxCalcMaxDeviceWidth schema",
+                    "description": "-",
+                    "default": 0,
+                    "examples": [
+                        960
+                    ]
+                },
+                "rpxCalcBaseDeviceWidth": {
+                    "$id": "#/properties/globalStyle/properties/rpxCalcBaseDeviceWidth",
+                    "type": "integer",
+                    "title": "The rpxCalcBaseDeviceWidth schema",
+                    "description": "-",
+                    "default": 0,
+                    "examples": [
+                        375
+                    ]
+                },
+                "rpxCalcIncludeWidth": {
+                    "$id": "#/properties/globalStyle/properties/rpxCalcIncludeWidth",
+                    "type": "integer",
+                    "title": "The rpxCalcIncludeWidth schema",
+                    "description": "-",
+                    "default": 0,
+                    "examples": [
+                        750
+                    ]
+                }
+            },
+            "additionalProperties": true
+        },
+        "tabBar": {
+            "$id": "#/properties/tabBar",
+            "type": "object",
+            "title": "设置底部 tab 的表现",
+            "description": "-",
+            "default": {},
+            "examples": [
+                {
+                    "color": "#7A7E83",
+                    "selectedColor": "#3cc51f",
+                    "borderStyle": "black",
+                    "backgroundColor": "#ffffff",
+                    "height": "50px",
+                    "fontSize": "10px",
+                    "iconWidth": "24px",
+                    "spacing": "3px",
+                    "list": [
+                        {
+                            "pagePath": "pages/component/index",
+                            "iconPath": "static/image/icon_component.png",
+                            "selectedIconPath": "static/image/icon_component_HL.png",
+                            "text": "组件"
+                        },
+                        {
+                            "pagePath": "pages/API/index",
+                            "iconPath": "static/image/icon_API.png",
+                            "selectedIconPath": "static/image/icon_API_HL.png",
+                            "text": "接口"
+                        }
+                    ],
+                    "midButton": {
+                        "width": "80px",
+                        "height": "50px",
+                        "text": "文字",
+                        "iconPath": "static/image/midButton_iconPath.png",
+                        "iconWidth": "24px",
+                        "backgroundImage": "static/image/midButton_backgroundImage.png"
+                    }
+                }
+            ],
+            "required": [
+                "color",
+                "selectedColor",
+                "list"
+            ],
+            "properties": {
+                "color": {
+                    "$id": "#/properties/tabBar/properties/color",
+                    "type": "string",
+                    "title": "The color schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "#7A7E83"
+                    ]
+                },
+                "selectedColor": {
+                    "$id": "#/properties/tabBar/properties/selectedColor",
+                    "type": "string",
+                    "title": "The selectedColor schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "#3cc51f"
+                    ]
+                },
+                "borderStyle": {
+                    "$id": "#/properties/tabBar/properties/borderStyle",
+                    "type": "string",
+                    "title": "The borderStyle schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "black"
+                    ]
+                },
+                "backgroundColor": {
+                    "$id": "#/properties/tabBar/properties/backgroundColor",
+                    "type": "string",
+                    "title": "The backgroundColor schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "#ffffff"
+                    ]
+                },
+                "height": {
+                    "$id": "#/properties/tabBar/properties/height",
+                    "type": "string",
+                    "title": "The height schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "50px"
+                    ]
+                },
+                "fontSize": {
+                    "$id": "#/properties/tabBar/properties/fontSize",
+                    "type": "string",
+                    "title": "The fontSize schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "10px"
+                    ]
+                },
+                "iconWidth": {
+                    "$id": "#/properties/tabBar/properties/iconWidth",
+                    "type": "string",
+                    "title": "The iconWidth schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "24px"
+                    ]
+                },
+                "spacing": {
+                    "$id": "#/properties/tabBar/properties/spacing",
+                    "type": "string",
+                    "title": "The spacing schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "3px"
+                    ]
+                },
+                "list": {
+                    "$id": "#/properties/tabBar/properties/list",
+                    "type": "array",
+                    "title": "The list schema",
+                    "description": "-",
+                    "default": [],
+                    "examples": [
+                        [
+                            {
+                                "pagePath": "pages/component/index",
+                                "iconPath": "static/image/icon_component.png",
+                                "selectedIconPath": "static/image/icon_component_HL.png",
+                                "text": "组件"
+                            },
+                            {
+                                "pagePath": "pages/API/index",
+                                "iconPath": "static/image/icon_API.png",
+                                "selectedIconPath": "static/image/icon_API_HL.png",
+                                "text": "接口"
+                            }
+                        ]
+                    ],
+                    "additionalItems": true,
+                    "items": {
+                        "$id": "#/properties/tabBar/properties/list/items",
+                        "anyOf": [
+                            {
+                                "$id": "#/properties/tabBar/properties/list/items/anyOf/0",
+                                "type": "object",
+                                "title": "The first anyOf schema",
+                                "description": "-",
+                                "default": {},
+                                "examples": [
+                                    {
+                                        "pagePath": "pages/component/index",
+                                        "iconPath": "static/image/icon_component.png",
+                                        "selectedIconPath": "static/image/icon_component_HL.png",
+                                        "text": "组件"
+                                    }
+                                ],
+                                "required": [
+                                    "pagePath",
+                                    "iconPath",
+                                    "selectedIconPath",
+                                    "text"
+                                ],
+                                "properties": {
+                                    "pagePath": {
+                                        "$id": "#/properties/tabBar/properties/list/items/anyOf/0/properties/pagePath",
+                                        "type": "string",
+                                        "title": "The pagePath schema",
+                                        "description": "-",
+                                        "default": "",
+                                        "examples": [
+                                            "pages/component/index"
+                                        ]
+                                    },
+                                    "iconPath": {
+                                        "$id": "#/properties/tabBar/properties/list/items/anyOf/0/properties/iconPath",
+                                        "type": "string",
+                                        "title": "The iconPath schema",
+                                        "description": "-",
+                                        "default": "",
+                                        "examples": [
+                                            "static/image/icon_component.png"
+                                        ]
+                                    },
+                                    "selectedIconPath": {
+                                        "$id": "#/properties/tabBar/properties/list/items/anyOf/0/properties/selectedIconPath",
+                                        "type": "string",
+                                        "title": "The selectedIconPath schema",
+                                        "description": "-",
+                                        "default": "",
+                                        "examples": [
+                                            "static/image/icon_component_HL.png"
+                                        ]
+                                    },
+                                    "text": {
+                                        "$id": "#/properties/tabBar/properties/list/items/anyOf/0/properties/text",
+                                        "type": "string",
+                                        "title": "The text schema",
+                                        "description": "-",
+                                        "default": "",
+                                        "examples": [
+                                            "组件"
+                                        ]
+                                    }
+                                },
+                                "additionalProperties": true
+                            }
+                        ]
+                    }
+                },
+                "midButton": {
+                    "$id": "#/properties/tabBar/properties/midButton",
+                    "type": "object",
+                    "title": "The midButton schema",
+                    "description": "-",
+                    "default": {},
+                    "examples": [
+                        {
+                            "width": "80px",
+                            "height": "50px",
+                            "text": "文字",
+                            "iconPath": "static/image/midButton_iconPath.png",
+                            "iconWidth": "24px",
+                            "backgroundImage": "static/image/midButton_backgroundImage.png"
+                        }
+                    ],
+                    "required": [
+                        "width",
+                        "height",
+                        "text",
+                        "iconPath",
+                        "iconWidth",
+                        "backgroundImage"
+                    ],
+                    "properties": {
+                        "width": {
+                            "$id": "#/properties/tabBar/properties/midButton/properties/width",
+                            "type": "string",
+                            "title": "The width schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "80px"
+                            ]
+                        },
+                        "height": {
+                            "$id": "#/properties/tabBar/properties/midButton/properties/height",
+                            "type": "string",
+                            "title": "The height schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "50px"
+                            ]
+                        },
+                        "text": {
+                            "$id": "#/properties/tabBar/properties/midButton/properties/text",
+                            "type": "string",
+                            "title": "The text schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "文字"
+                            ]
+                        },
+                        "iconPath": {
+                            "$id": "#/properties/tabBar/properties/midButton/properties/iconPath",
+                            "type": "string",
+                            "title": "The iconPath schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "static/image/midButton_iconPath.png"
+                            ]
+                        },
+                        "iconWidth": {
+                            "$id": "#/properties/tabBar/properties/midButton/properties/iconWidth",
+                            "type": "string",
+                            "title": "The iconWidth schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "24px"
+                            ]
+                        },
+                        "backgroundImage": {
+                            "$id": "#/properties/tabBar/properties/midButton/properties/backgroundImage",
+                            "type": "string",
+                            "title": "The backgroundImage schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "static/image/midButton_backgroundImage.png"
+                            ]
+                        }
+                    },
+                    "additionalProperties": true
+                }
+            },
+            "additionalProperties": true
+        },
+        "easycom": {
+            "$id": "#/properties/easycom",
+            "type": "object",
+            "title": "组件自动引入规则",
+            "description": "-",
+            "default": {},
+            "examples": [
+                {
+                    "autoscan": true,
+                    "custom": {
+                        "^uni-(.*)": "@/components/uni-$1.vue"
+                    }
+                }
+            ],
+            "required": [],
+            "properties": {
+                "autoscan": {
+                    "$id": "#/properties/easycom/properties/autoscan",
+                    "type": "boolean",
+                    "title": "The autoscan schema",
+                    "description": "-",
+                    "default": false,
+                    "examples": [
+                        true
+                    ]
+                },
+                "custom": {
+                    "$id": "#/properties/easycom/properties/custom",
+                    "type": "object",
+                    "title": "The custom schema",
+                    "description": "-",
+                    "default": {},
+                    "examples": [
+                        {
+                            "^uni-(.*)": "@/components/uni-$1.vue"
+                        }
+                    ],
+                    "required": [
+                        "^uni-(.*)"
+                    ],
+                    "properties": {
+                        "^uni-(.*)": {
+                            "$id": "#/properties/easycom/properties/custom/properties/%5Euni-%28.%2A%29",
+                            "type": "string",
+                            "title": "The ^uni-(.*) schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "@/components/uni-$1.vue"
+                            ]
+                        }
+                    },
+                    "additionalProperties": true
+                }
+            },
+            "additionalProperties": true
+        },
+        "topWindow": {
+            "$id": "#/properties/topWindow",
+            "type": "object",
+            "title": "The topWindow schema",
+            "description": "-",
+            "default": {},
+            "examples": [
+                {
+                    "path": "responsive/top-window.vue",
+                    "style": {
+                        "height": "44px"
+                    }
+                }
+            ],
+            "required": [
+                "path",
+                "style"
+            ],
+            "properties": {
+                "path": {
+                    "$id": "#/properties/topWindow/properties/path",
+                    "type": "string",
+                    "title": "The path schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "responsive/top-window.vue"
+                    ]
+                },
+                "style": {
+                    "$id": "#/properties/topWindow/properties/style",
+                    "type": "object",
+                    "title": "The style schema",
+                    "description": "-",
+                    "default": {},
+                    "examples": [
+                        {
+                            "height": "44px"
+                        }
+                    ],
+                    "required": [
+                        "height"
+                    ],
+                    "properties": {
+                        "height": {
+                            "$id": "#/properties/topWindow/properties/style/properties/height",
+                            "type": "string",
+                            "title": "The height schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "44px"
+                            ]
+                        }
+                    },
+                    "additionalProperties": true
+                }
+            },
+            "additionalProperties": true
+        },
+        "leftWindow": {
+            "$id": "#/properties/leftWindow",
+            "type": "object",
+            "title": "The leftWindow schema",
+            "description": "-",
+            "default": {},
+            "examples": [
+                {
+                    "path": "responsive/left-window.vue",
+                    "style": {
+                        "width": "300px"
+                    }
+                }
+            ],
+            "required": [
+                "path",
+                "style"
+            ],
+            "properties": {
+                "path": {
+                    "$id": "#/properties/leftWindow/properties/path",
+                    "type": "string",
+                    "title": "The path schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "responsive/left-window.vue"
+                    ]
+                },
+                "style": {
+                    "$id": "#/properties/leftWindow/properties/style",
+                    "type": "object",
+                    "title": "The style schema",
+                    "description": "-",
+                    "default": {},
+                    "examples": [
+                        {
+                            "width": "300px"
+                        }
+                    ],
+                    "required": [
+                        "width"
+                    ],
+                    "properties": {
+                        "width": {
+                            "$id": "#/properties/leftWindow/properties/style/properties/width",
+                            "type": "string",
+                            "title": "The width schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "300px"
+                            ]
+                        }
+                    },
+                    "additionalProperties": true
+                }
+            },
+            "additionalProperties": true
+        },
+        "rightWindow": {
+            "$id": "#/properties/rightWindow",
+            "type": "object",
+            "title": "The rightWindow schema",
+            "description": "-",
+            "default": {},
+            "examples": [
+                {
+                    "path": "responsive/right-window.vue",
+                    "style": {
+                        "width": "300px"
+                    },
+                    "matchMedia": {
+                        "minWidth": 768
+                    }
+                }
+            ],
+            "required": [
+                "path",
+                "style",
+                "matchMedia"
+            ],
+            "properties": {
+                "path": {
+                    "$id": "#/properties/rightWindow/properties/path",
+                    "type": "string",
+                    "title": "The path schema",
+                    "description": "-",
+                    "default": "",
+                    "examples": [
+                        "responsive/right-window.vue"
+                    ]
+                },
+                "style": {
+                    "$id": "#/properties/rightWindow/properties/style",
+                    "type": "object",
+                    "title": "The style schema",
+                    "description": "-",
+                    "default": {},
+                    "examples": [
+                        {
+                            "width": "300px"
+                        }
+                    ],
+                    "required": [
+                        "width"
+                    ],
+                    "properties": {
+                        "width": {
+                            "$id": "#/properties/rightWindow/properties/style/properties/width",
+                            "type": "string",
+                            "title": "The width schema",
+                            "description": "-",
+                            "default": "",
+                            "examples": [
+                                "300px"
+                            ]
+                        }
+                    },
+                    "additionalProperties": true
+                },
+                "matchMedia": {
+                    "$id": "#/properties/rightWindow/properties/matchMedia",
+                    "type": "object",
+                    "title": "The matchMedia schema",
+                    "description": "-",
+                    "default": {},
+                    "examples": [
+                        {
+                            "minWidth": 768
+                        }
+                    ],
+                    "required": [
+                        "minWidth"
+                    ],
+                    "properties": {
+                        "minWidth": {
+                            "$id": "#/properties/rightWindow/properties/matchMedia/properties/minWidth",
+                            "type": "integer",
+                            "title": "The minWidth schema",
+                            "description": "-",
+                            "default": 0,
+                            "examples": [
+                                768
+                            ]
+                        }
+                    },
+                    "additionalProperties": true
+                }
+            },
+            "additionalProperties": true
+        }
+    },
+    "additionalProperties": true
+}
