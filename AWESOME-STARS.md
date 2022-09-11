@@ -236,6 +236,7 @@
 
 ## JavaScript 
 
+- [sec-an/Better-Auto-XXQG](https://github.com/sec-an/Better-Auto-XXQG) - 学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新
 - [alyssaxuu/motionity](https://github.com/alyssaxuu/motionity) - The web-based motion graphics editor for everyone 📽
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [yioMe/nodejs_wx_aipay_api](https://github.com/yioMe/nodejs_wx_aipay_api) - 
