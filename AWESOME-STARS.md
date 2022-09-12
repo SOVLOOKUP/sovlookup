@@ -224,7 +224,6 @@
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
-- [work7z/CodeGen](https://github.com/work7z/CodeGen) - CodeGen Offical Website: https://codegen.cc
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [rememberber/WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
@@ -245,6 +244,7 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [e0ipso/plugnplay](https://github.com/e0ipso/plugnplay) - 🤖 Plugin system for reusable code in node.js
 - [UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram) - 给女朋友做的微信小程序！情侣自己的任务和商城系统！
+- [work7z/CodeGen](https://github.com/work7z/CodeGen) - CodeGen Offical Website: https://codegen.cc
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [junchaoIU/CMRH-KG_DEV2.0_React](https://github.com/junchaoIU/CMRH-KG_DEV2.0_React) - 📚中国近代革命历史知识图谱数字图书馆系统前端 v2.0。🌈基于react+antd框架构建，利用echart实现 知识图谱可视化，包括知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等7大模块。
@@ -464,6 +464,7 @@
 
 ## PHP 
 
+- [Qsnh/meedu](https://github.com/Qsnh/meedu) - 教培系统、线上培训、知识付费解决方案。
 - [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
