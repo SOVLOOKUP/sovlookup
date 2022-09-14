@@ -105,18 +105,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/WhiteFireFox">Zhihao Cao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mblackritter">
-        <img src="https://avatars2.githubusercontent.com/u/1057919" width="100px;" alt="mblackritter"/>
-      </a>
-      <br />
-      <a href="https://github.com/mblackritter">Michael Black Ritter</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/joebudi">
         <img src="https://avatars2.githubusercontent.com/u/49767913" width="100px;" alt="joebudi"/>
       </a>
       <br />
       <a href="https://github.com/joebudi">Joe</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mblackritter">
+        <img src="https://avatars2.githubusercontent.com/u/1057919" width="100px;" alt="mblackritter"/>
+      </a>
+      <br />
+      <a href="https://github.com/mblackritter">Michael Black Ritter</a>
     </td>
     <td align="center">
       <a href="https://github.com/yokymia">
