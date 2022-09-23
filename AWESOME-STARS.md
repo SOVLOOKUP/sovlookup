@@ -147,7 +147,7 @@
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [IBAX-io/go-ibax](https://github.com/IBAX-io/go-ibax) - An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.
-- [labring/sealos](https://github.com/labring/sealos) - An exciting cloud operating system based on kubernetes, practice cloud native like win11.
+- [labring/sealos](https://github.com/labring/sealos) - An exciting cloud operating system based on kubernetes, one command to practice cloud native.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
@@ -239,6 +239,7 @@
 
 ## JavaScript 
 
+- [zengkan0703/text-watermark](https://github.com/zengkan0703/text-watermark) - 在文本中添加不可见的文字水印
 - [sec-an/Better-Auto-XXQG](https://github.com/sec-an/Better-Auto-XXQG) - 学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新
 - [alyssaxuu/motionity](https://github.com/alyssaxuu/motionity) - The web-based motion graphics editor for everyone 📽
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -1007,7 +1008,7 @@
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [antvis/Graphin](https://github.com/antvis/Graphin) - A React toolkit for graph visualization based on G6
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit forum.standardnotes.org or email help@standardnotes.com
+- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit https://forum.standardnotes.org or email help@standardnotes.com
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
