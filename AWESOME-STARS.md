@@ -123,7 +123,7 @@
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [jasonLaw1015/GfEasy](https://github.com/jasonLaw1015/GfEasy) - 快速crud开发框架，甚至于一行代码不用敲；自动根据数据库表结构自动生成crud代码；低代码开发框架；至少减少百分90%工作量；可快速把现有系统转成GfEasy版本；后端使用GoFrame开发;后台前端使用 cool-admin-vue；后台使用自适应布局，手机、PC完美使用。
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
