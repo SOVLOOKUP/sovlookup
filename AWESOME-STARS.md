@@ -81,6 +81,7 @@
 
 ## Clojure 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
 ## CoffeeScript 
@@ -141,6 +142,7 @@
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
 - [IBAX-io/go-ibax](https://github.com/IBAX-io/go-ibax) - An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.
 - [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -510,7 +512,6 @@
 - [malllabiisc/EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA) - ACL 2020: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [murray-z/text_analysis_tools](https://github.com/murray-z/text_analysis_tools) - 中文文本分析工具包（包括- 文本分类 - 文本聚类 - 文本相似性 - 关键词抽取 - 关键短语抽取 - 情感分析 - 文本纠错 - 文本摘要 - 主题关键词-同义词、近义词-事件三元组抽取）
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [Jacen789/relation-extraction](https://github.com/Jacen789/relation-extraction) - 中文关系抽取
 - [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT) - 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式
 - [buppt/ChineseNRE](https://github.com/buppt/ChineseNRE) - 中文实体关系抽取，pytorch，bilstm+attention
