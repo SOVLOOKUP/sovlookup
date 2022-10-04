@@ -784,6 +784,8 @@
 
 ## TypeScript 
 
+- [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
 - [lloydzhou/antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue) - the vue toolkit for graph analysis based on x6
 - [lloydzhou/graphin-vue](https://github.com/lloydzhou/graphin-vue) - The vue toolkit for graph analysis based on @antv/graphin
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
