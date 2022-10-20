@@ -504,7 +504,7 @@
 - [Hanlard/Transformer-based-pretrained-model-for-event-extraction](https://github.com/Hanlard/Transformer-based-pretrained-model-for-event-extraction) - 使用基于Transformer的预训练模型在ACE2005数据集上进行事件抽取任务
 - [jasoncao11/nlp-notebook](https://github.com/jasoncao11/nlp-notebook) - NLP 领域常见任务的实现，包括新词发现、以及基于pytorch的词向量、中文文本分类、实体识别、摘要文本生成、句子相似度判断、三元组抽取、预训练模型等。
 - [zhengyima/kg-baseline-pytorch](https://github.com/zhengyima/kg-baseline-pytorch) - 2019百度的关系抽取比赛，使用Pytorch实现苏神的模型，F1在dev集可达到0.75，联合关系抽取，Joint Relation Extraction.
-- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - MMEditing is a low-level vision toolbox based on PyTorch, supporting super-resolution, inpainting, matting, video interpolation, etc.
+- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - OpenMMLab Image and Video Processing, Editing and Synthesis Toolbox
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [soultoolman/pyerz](https://github.com/soultoolman/pyerz) - 易软著Python库
@@ -810,7 +810,7 @@
 - [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug 是基于 appsmith 打造的更适合中国开发者的开源前端低代码项目。无需侵入客户架构，直接连接数据源（API、DB），无需学习任何第三方概念，使用基础 js 知识就可以快速生成多平台前端应用，包括 PC 端 web 应用、微信小程序等。【中国版Appsmith】
 - [marc2332/deno_installer](https://github.com/marc2332/deno_installer) - 📦 You can now create installers for your Deno 🦕 apps!
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [Mayandev/classmate-map](https://github.com/Mayandev/classmate-map) - 🧭 一款设计精美、体验优良的地图信息展示小程序，一个更有意思的同学录，可以在小程序中查看班级同学的毕业去向以及地域分布，多联（蹭）系（饭）。
 - [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
