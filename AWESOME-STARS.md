@@ -104,6 +104,9 @@
 
 ## Go 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
+- [monkeyWie/gopeed](https://github.com/monkeyWie/gopeed) - High speed downloader that supports all platforms.
 - [qfdk/uranus](https://github.com/qfdk/uranus) - A nginx web manager UI
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 - [ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm
@@ -439,6 +442,7 @@
 
 ## Others 
 
+- [aardio/Ghips](https://github.com/aardio/Ghips) - GitHub 网速优化与修复工具
 - [goldjee/AL-YOLO-dataset](https://github.com/goldjee/AL-YOLO-dataset) - YOLO marked Apex Legends dataset
 - [rebase-network/who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
 - [BDBC-KG-NLP/QA-Survey-CN](https://github.com/BDBC-KG-NLP/QA-Survey-CN) - 北京航空航天大学大数据高精尖中心自然语言处理研究团队开展了智能问答的研究与应用总结。包括基于知识图谱的问答（KBQA），基于文本的问答系统（TextQA），基于表格的问答系统（TableQA）、基于视觉的问答系统（VisualQA）和机器阅读理解（MRC）等，每类任务分别对学术界和工业界进行了相关总结。
@@ -481,6 +485,8 @@
 
 ## Python 
 
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [mli/autocut](https://github.com/mli/autocut) - 
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [casual-silva/NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑
@@ -790,6 +796,7 @@
 
 ## TypeScript 
 
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)
 - [surrealdb-community/surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - 
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
@@ -844,7 +851,6 @@
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [alibaba/pipcook](https://github.com/alibaba/pipcook) - Machine learning platform for Web developers
-- [datayoga-io/datayoga](https://github.com/datayoga-io/datayoga) - A framework to build and generate modern ETL and ELT data pipelines
 - [Claviz/bellboy](https://github.com/Claviz/bellboy) - Highly performant JavaScript data stream ETL engine.
 - [brucx/mp-push-nestjs](https://github.com/brucx/mp-push-nestjs) - 微信公众号消息推送服务，类似“server酱”，提供Docker镜像部署
 - [playerony/indexeddb-fs](https://github.com/playerony/indexeddb-fs) - An "fs" kind of library dedicated to the browser.
