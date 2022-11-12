@@ -141,7 +141,7 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other      21 mins         █████████████░░░░░░░░░░░░   51.76 %
 ```
 
 <!--END_SECTION:waka-->
