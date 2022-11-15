@@ -317,7 +317,6 @@
 - [NyaomiDEV/Glasstron](https://github.com/NyaomiDEV/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [saghul/txiki.js](https://github.com/saghul/txiki.js) - A tiny JavaScript runtime
 - [motorlatitude/Drop](https://github.com/motorlatitude/Drop) - Cross-Platform color-picker/eye dropper tool built using Electron
 - [hypercore-protocol/autobase](https://github.com/hypercore-protocol/autobase) - Autobase lets you write concise multiwriter data structures with Hypercore
@@ -529,7 +528,7 @@
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) - 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
 - [78778443/QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL20
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [percent4/people_relation_extract](https://github.com/percent4/people_relation_extract) - 结合BERT+GRU+ATT模型，对自己收集的人物关系数据进行模型训练，用于人物关系抽取。
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
@@ -727,6 +726,7 @@
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [HiRoFa/GreenCopperRuntime](https://github.com/HiRoFa/GreenCopperRuntime) - Javascript runtime library built in rust which can be used with several JavaScript engines
 - [driftluo/tentacle](https://github.com/driftluo/tentacle) - A multiplexed p2p network framework that supports custom protocols
