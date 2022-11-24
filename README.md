@@ -141,10 +141,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 <!--START_SECTION:waka-->
 
 ```text
-Bash         1 hr 6 mins     ███████░░░░░░░░░░░░░░░░░░   27.58 %
-Docker       1 hr 4 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
-Text         37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-Other        27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Rust         1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+Bash         1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   19.88 %
+Docker       1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+Text         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Other        28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
 ```
 
 <!--END_SECTION:waka-->
