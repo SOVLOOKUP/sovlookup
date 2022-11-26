@@ -53,7 +53,7 @@
 
 ## C# # 
 
-- [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET6 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
+- [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [microsoft/SmartKG](https://github.com/microsoft/SmartKG) - This project accepts excel files as input which contains the description of a Knowledge Graph (Vertexes and Edges) and convert it into an in-memory Graph Store. This project implements APIs to search/
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [microsoft/GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine
@@ -92,6 +92,7 @@
 ## Dart 
 
 - [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share) - Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -380,7 +381,7 @@
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
 - [deepwel/Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator) - Annotator for Chinese Text Corpus (UNDER DEVELOPMENT) 中文文本标注工具
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
-- [rxdrag/rxeditor](https://github.com/rxdrag/rxeditor) - HTML Visual Editor, based in Bootstrap. 基于Bootstrap实现的，HTML可视化编辑工具。
+- [rxdrag/rxeditor](https://github.com/rxdrag/rxeditor) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -723,14 +724,13 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
-- [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
+- [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [HiRoFa/GreenCopperRuntime](https://github.com/HiRoFa/GreenCopperRuntime) - Javascript runtime library built in rust which can be used with several JavaScript engines
