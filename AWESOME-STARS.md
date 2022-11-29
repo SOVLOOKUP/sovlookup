@@ -124,7 +124,6 @@
 - [i4de/rulex](https://github.com/i4de/rulex) - 轻量级边缘物联网网关开发框架
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [33cn/chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
-- [johlanse/study_xxqg](https://github.com/johlanse/study_xxqg) - 自动化学习强国,每日稳定45分
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
 - [cnrancher/octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s
@@ -492,6 +491,7 @@
 
 ## Python 
 
+- [hchhtc123/PP-Tracking_GUi](https://github.com/hchhtc123/PP-Tracking_GUi) - 基于飞桨开源的实时跟踪系统PP-Tracking开发的可视化界面，覆盖车辆行人跟踪、多类别跟踪、流量统计等功能，适用于智慧交通、安防监控等场景。
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 The most advanced MLOps platform for multimodal AI on the cloud · Neural Search · Creative AI · Cloud Native
@@ -798,7 +798,6 @@
 - [kaisermann/svelte-loadable](https://github.com/kaisermann/svelte-loadable) - Dynamically load a svelte component
 - [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
 ## Swift 
@@ -1014,6 +1013,7 @@
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv) - ⚛️ Polished Gatsby theme for documentation site
