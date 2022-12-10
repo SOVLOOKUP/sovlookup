@@ -389,7 +389,7 @@
 - [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
 - [mrpandey/d3graphTheory](https://github.com/mrpandey/d3graphTheory) - :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
