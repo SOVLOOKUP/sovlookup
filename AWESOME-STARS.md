@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for low-latency geo-distributed system and realtime collaboration application, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology.
 - [libp2p/go-libp2p-gorpc](https://github.com/libp2p/go-libp2p-gorpc) - A simple RPC library for libp2p.
 - [plexsysio/go-msuite](https://github.com/plexsysio/go-msuite) - Modular microservices framework in golang
 - [santhosh-tekuri/jsonschema](https://github.com/santhosh-tekuri/jsonschema) - JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation using Go
