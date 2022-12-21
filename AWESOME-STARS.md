@@ -453,6 +453,7 @@
 
 ## Others 
 
+- [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper) - 学习强国 xxqg 助手 数独 sudoku
 - [aardio/Ghips](https://github.com/aardio/Ghips) - GitHub 网速优化与修复工具
 - [goldjee/AL-YOLO-dataset](https://github.com/goldjee/AL-YOLO-dataset) - YOLO marked Apex Legends dataset
 - [rebase-network/who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
@@ -496,6 +497,7 @@
 
 ## Python 
 
+- [readmagic/loveStudy](https://github.com/readmagic/loveStudy) - 爱学习,爱上进,不同于其他xxqg刷题软件的一款自动刷题工具。
 - [mizhexiaoxiao/WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) - 😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能
 - [hchhtc123/PP-Tracking_GUi](https://github.com/hchhtc123/PP-Tracking_GUi) - 基于飞桨开源的实时跟踪系统PP-Tracking开发的可视化界面，覆盖车辆行人跟踪、多类别跟踪、流量统计等功能，适用于智慧交通、安防监控等场景。
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -817,7 +819,7 @@
 
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next generation frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)
 - [surrealdb-community/surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - 
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
@@ -947,7 +949,7 @@
 - [casbin/node-casbin](https://github.com/casbin/node-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser
 - [pubkey/jsonschema-key-compression](https://github.com/pubkey/jsonschema-key-compression) - Compress json-data based on its json-schema while still having valid json
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
