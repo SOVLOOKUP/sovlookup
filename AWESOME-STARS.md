@@ -311,7 +311,7 @@
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
 - [pubkey/broadcast-channel](https://github.com/pubkey/broadcast-channel) - :satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
