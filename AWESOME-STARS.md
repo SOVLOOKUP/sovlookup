@@ -693,7 +693,7 @@
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [Aelto/surreal-simple-querybuilder](https://github.com/Aelto/surreal-simple-querybuilder) - A query-building & utility crate for SurrealDB and its SQL querying language that aims to be simple
-- [ParthJadhav/rust_search](https://github.com/ParthJadhav/rust_search) - Blazingly fast file search library built in Rust
+- [ParthJadhav/Rust_Search](https://github.com/ParthJadhav/Rust_Search) - Blazingly fast file search library built in Rust
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [erwanvivien/fast_qr](https://github.com/erwanvivien/fast_qr) - Ultra fast QRCode generation
