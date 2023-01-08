@@ -456,6 +456,7 @@
 
 ## Others 
 
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper) - 学习强国 xxqg 助手 数独 sudoku
 - [aardio/Ghips](https://github.com/aardio/Ghips) - GitHub 网速优化与修复工具
 - [goldjee/AL-YOLO-dataset](https://github.com/goldjee/AL-YOLO-dataset) - YOLO marked Apex Legends dataset
@@ -710,7 +711,7 @@
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [emoon/dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
