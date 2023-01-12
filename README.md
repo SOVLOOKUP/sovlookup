@@ -141,12 +141,12 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
 <!--START_SECTION:waka-->
 
 ```text
-Rust         4 hrs 58 mins   ███████████████▓░░░░░░░░░   62.79 %
-JavaScript   1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-TOML         59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-TypeScript   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Go           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Rust         4 hrs 58 mins   ███████████░░░░░░░░░░░░░░   43.76 %
+Go           3 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+JavaScript   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+TOML         59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+TypeScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
