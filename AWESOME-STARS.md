@@ -46,7 +46,7 @@
 ## C 
 
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [saghul/txiki.js](https://github.com/saghul/txiki.js) - A tiny JavaScript runtime
@@ -105,7 +105,7 @@
 
 ## Erlang 
 
-- [dgiot/dgiot](https://github.com/dgiot/dgiot) - Open source platform for IoT,30 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page
+- [dgiot/dgiot](https://github.com/dgiot/dgiot) - Open source platform for iot , 30 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Pa
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
 
 ## Go 
@@ -253,6 +253,7 @@
 
 ## JavaScript 
 
+- [nftblackmagic/web3cdn](https://github.com/nftblackmagic/web3cdn) - 
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [wcaptcha/wcaptcha-js](https://github.com/wcaptcha/wcaptcha-js) - wCaptcha javascript library
 - [zengkan0703/text-watermark](https://github.com/zengkan0703/text-watermark) - 在文本中添加不可见的文字水印
