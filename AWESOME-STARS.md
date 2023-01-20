@@ -504,6 +504,7 @@
 
 ## Python 
 
+- [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 - [readmagic/loveStudy](https://github.com/readmagic/loveStudy) - 爱学习,爱上进,不同于其他xxqg刷题软件的一款自动刷题工具。
 - [mizhexiaoxiao/WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) - 😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能
 - [hchhtc123/PP-Tracking_GUi](https://github.com/hchhtc123/PP-Tracking_GUi) - 基于飞桨开源的实时跟踪系统PP-Tracking开发的可视化界面，覆盖车辆行人跟踪、多类别跟踪、流量统计等功能，适用于智慧交通、安防监控等场景。
@@ -827,6 +828,8 @@
 
 ## TypeScript 
 
+- [openwebf/webf](https://github.com/openwebf/webf) - Build flutter apps with HTML/CSS and JavaScript.
+- [moonrailgun/codeck](https://github.com/moonrailgun/codeck) - 基于JS的可视化蓝图编程引擎
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
