@@ -829,6 +829,7 @@
 
 ## TypeScript 
 
+- [organicdesign/libp2p-rpc](https://github.com/organicdesign/libp2p-rpc) - An RPC module for Libp2p.
 - [openwebf/webf](https://github.com/openwebf/webf) - Build flutter apps with HTML/CSS and JavaScript.
 - [moonrailgun/codeck](https://github.com/moonrailgun/codeck) - 基于JS的可视化蓝图编程引擎
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
