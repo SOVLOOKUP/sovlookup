@@ -748,7 +748,7 @@
 - [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
@@ -829,6 +829,10 @@
 
 ## TypeScript 
 
+- [reconbot/streaming-iterables](https://github.com/reconbot/streaming-iterables) - A Swiss army knife for async iterables. Designed to replace your streams.
+- [superman2211/xobj](https://github.com/superman2211/xobj) - Decoding and encoding JavaScript/TypeScript objects to binary format.
+- [myrotvorets/buffer-stream](https://github.com/myrotvorets/buffer-stream) - Converts a Buffer into a Readable Stream
+- [rimbu-org/rimbu](https://github.com/rimbu-org/rimbu) - Rimbu is a TypeScript library focused on immutable, performant, and type-safe collections and other tools.
 - [organicdesign/libp2p-rpc](https://github.com/organicdesign/libp2p-rpc) - An RPC module for Libp2p.
 - [openwebf/webf](https://github.com/openwebf/webf) - Build flutter apps with HTML/CSS and JavaScript.
 - [moonrailgun/codeck](https://github.com/moonrailgun/codeck) - 基于JS的可视化蓝图编程引擎
