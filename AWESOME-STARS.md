@@ -830,6 +830,8 @@
 
 ## TypeScript 
 
+- [Codibre/fluent-iterable](https://github.com/Codibre/fluent-iterable) - An easy, optimized and powerful way to deal with Iterables, Async Iterables, Streams and Events
+- [Darkhogg/polyethylene](https://github.com/Darkhogg/polyethylene) - Functional programming for iterables and async iterables
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [reconbot/streaming-iterables](https://github.com/reconbot/streaming-iterables) - A Swiss army knife for async iterables. Designed to replace your streams.
 - [superman2211/xobj](https://github.com/superman2211/xobj) - Decoding and encoding JavaScript/TypeScript objects to binary format.
