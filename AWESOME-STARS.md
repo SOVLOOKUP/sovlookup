@@ -269,6 +269,7 @@
 - [e0ipso/plugnplay](https://github.com/e0ipso/plugnplay) - 🤖 Plugin system for reusable code in node.js
 - [UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram) - 给女朋友做的微信小程序！情侣自己的任务和商城系统！
 - [work7z/CodeGen](https://github.com/work7z/CodeGen) - CodeGen Offical Website: https://codegen.cc
+- [lingo3d/lingo3d](https://github.com/lingo3d/lingo3d) - Lingo3D is a web-first 3d game development library with React and Vue integration.
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [junchaoIU/CMRH-KG](https://github.com/junchaoIU/CMRH-KG) - 📚中国近代革命历史知识图谱系统 🌈提供了知识图谱可视化、知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等丰富而有效的中国近代革命历史知识服务。
@@ -694,6 +695,7 @@
 
 ## Rust 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
 - [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum communications SDK
 - [ClusterVMS/rtsp-to-webrtc](https://github.com/ClusterVMS/rtsp-to-webrtc) - Converts an IP camera RTSP stream to a WebRTC stream
@@ -831,6 +833,7 @@
 
 ## TypeScript 
 
+- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js. Fast, but not only fast.
 - [Codibre/fluent-iterable](https://github.com/Codibre/fluent-iterable) - An easy, optimized and powerful way to deal with Iterables, Async Iterables, Streams and Events
 - [Darkhogg/polyethylene](https://github.com/Darkhogg/polyethylene) - Functional programming for iterables and async iterables
@@ -879,7 +882,6 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [lunatic-solutions/as-lunatic](https://github.com/lunatic-solutions/as-lunatic) - This library contains higher level AssemblyScript wrappers for low level Lunatic syscalls.
 - [zmtlwzy/zmtlwzy-admin](https://github.com/zmtlwzy/zmtlwzy-admin) - A  original style admin template, based on Vue3、Vite、Naive UI、TypeScript、Unocss.
-- [lingo3d/lingo3d](https://github.com/lingo3d/lingo3d) - Lingo3D is a web-first 3d game development library with React and Vue integration.
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [senses-chat/operator](https://github.com/senses-chat/operator) - 先思智联 - 聊天机器人消息中间件 - Senses Chat Operator is a messaging middleware for chatbots.
 - [cellbang/malagu](https://github.com/cellbang/malagu) - Malagu is a Serverless First, componentized, platform-independent progressive application framework based on TypeScript.
