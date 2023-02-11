@@ -96,7 +96,7 @@
 
 ## Dart 
 
-- [monkeyWie/gopeed](https://github.com/monkeyWie/gopeed) - High speed downloader that supports all platforms.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share) - Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
@@ -833,6 +833,7 @@
 
 ## TypeScript 
 
+- [StarlaneStudios/cirql](https://github.com/StarlaneStudios/cirql) - 🔧 A flexible SurrealDB ORM & query builder with Zod powered validation 🏋️‍♂️
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
 - [Codibre/fluent-iterable](https://github.com/Codibre/fluent-iterable) - An easy, optimized and powerful way to deal with Iterables, Async Iterables, Streams and Events
