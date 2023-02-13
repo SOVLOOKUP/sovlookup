@@ -695,6 +695,7 @@
 
 ## Rust 
 
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
 - [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum communications SDK
@@ -833,6 +834,8 @@
 
 ## TypeScript 
 
+- [antvis/G6VP](https://github.com/antvis/G6VP) - G6 Visualization Platform ：A low-code graph analysis application building platform, and also a graph visual analysis product
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [StarlaneStudios/cirql](https://github.com/StarlaneStudios/cirql) - 🔧 A flexible SurrealDB ORM & query builder with Zod powered validation 🏋️‍♂️
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
@@ -870,7 +873,7 @@
 - [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [FalkZ/doclea](https://github.com/FalkZ/doclea) - 
-- [cloudtogo/cloudos](https://github.com/cloudtogo/cloudos) - 提供一站式云原生开发平台，为企业构建敏捷创新的应用研发环境，实现应用研发可视化和敏捷化、技术平台标准化，让传统应用研发人员快速实现云原生应用创新，加快企业数字化转型。 提供可视化操作界面，通过WEB页面完成架构设计、API管理、在线开发、API自动化测试、多云发布、多云应用调度、应用运维等云原生应用全生命周期管理。支撑传统应用迁移上云，助力传统应用研发团队高效完成云原生应用创新。
+- [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug 是 Appsmith 的中国化项目，是一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架，可以用来制作 web 应用、微信小程序。【中国版Appsmith】
 - [marc2332/deno_installer](https://github.com/marc2332/deno_installer) - 📦 You can now create installers for your Deno 🦕 apps!
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
