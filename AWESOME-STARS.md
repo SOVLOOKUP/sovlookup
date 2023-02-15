@@ -167,7 +167,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications. Demo: https://cloud.sealos.io
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
-- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -833,6 +833,7 @@
 
 ## TypeScript 
 
+- [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [antvis/G6VP](https://github.com/antvis/G6VP) - G6 Visualization Platform ：A low-code graph analysis application building platform, and also a graph visual analysis product
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [StarlaneStudios/cirql](https://github.com/StarlaneStudios/cirql) - 🔧 A flexible SurrealDB ORM & query builder with Zod powered validation 🏋️‍♂️
@@ -1088,7 +1089,7 @@
 
 ## Vue 
 
-- [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design) - 一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
+- [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
