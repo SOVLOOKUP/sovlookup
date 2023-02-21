@@ -61,6 +61,7 @@
 
 ## C++ 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -133,7 +134,7 @@
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [i4de/rulex](https://github.com/i4de/rulex) - 轻量级边缘物联网网关开发框架
-- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [33cn/chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
@@ -350,7 +351,7 @@
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [oslabs-beta/dockure](https://github.com/oslabs-beta/dockure) - Simplifying the containerization process
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
-- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
+- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -714,7 +715,7 @@
 - [chipsenkbeil/service-manager-rs](https://github.com/chipsenkbeil/service-manager-rs) - Provides adapters to communicate with various operating system service managers like launchd and systemd
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and repo management tool for the web ecosystem, written in Rust.
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
-- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a time-series database that aims to handle both time-series and analytic workloads efficiently.
+- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a cloud-native time-series database that aims to handle both time-series and analytic workloads efficiently.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
@@ -877,7 +878,7 @@
 - [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [FalkZ/doclea](https://github.com/FalkZ/doclea) - 
-- [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug 是 Appsmith 的中国化项目，是一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架，可以用来制作 web 应用、微信小程序。【中国版Appsmith】
+- [cloudtogo/cloudos](https://github.com/cloudtogo/cloudos) - 提供一站式云原生开发平台，为企业构建敏捷创新的应用研发环境，实现应用研发可视化和敏捷化、技术平台标准化，让传统应用研发人员快速实现云原生应用创新，加快企业数字化转型。 提供可视化操作界面，通过WEB页面完成架构设计、API管理、在线开发、API自动化测试、多云发布、多云应用调度、应用运维等云原生应用全生命周期管理。支撑传统应用迁移上云，助力传统应用研发团队高效完成云原生应用创新。
 - [marc2332/deno_installer](https://github.com/marc2332/deno_installer) - 📦 You can now create installers for your Deno 🦕 apps!
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
