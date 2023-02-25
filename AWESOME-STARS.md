@@ -505,6 +505,7 @@
 
 ## Python 
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [GAMEOMETRICS/VisualGraph-python](https://github.com/GAMEOMETRICS/VisualGraph-python) - 
 - [robertsdotpm/p2pd](https://github.com/robertsdotpm/p2pd) - Asynchronous P2P networking library and service
 - [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
@@ -646,7 +647,7 @@
 - [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
+- [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
