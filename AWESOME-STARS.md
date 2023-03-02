@@ -441,7 +441,7 @@
 - [LJMichale/data-analysis](https://github.com/LJMichale/data-analysis) - 数据分析建模经验总结
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥
-- [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛知识、代码、思路
+- [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据挖掘、计算机视觉、自然语言处理、推荐系统竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [yixiu00001/LSTM-CRF-medical](https://github.com/yixiu00001/LSTM-CRF-medical) - 构建医疗实体识别的模型，包含词典和语料标注，基于python构建
@@ -503,7 +503,7 @@
 
 ## PowerShell 
 
-- [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google镜像与S/V/C/QuanX网络链 ，行业研究报告的知识储备库
+- [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链，行业研究报告的知识储备库
 
 ## Prolog 
 
@@ -548,7 +548,7 @@
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [soultoolman/pyerz](https://github.com/soultoolman/pyerz) - 易软著Python库
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An emerging platform to help developers build #AI solutions
 - [malllabiisc/EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA) - ACL 2020: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [murray-z/text_analysis_tools](https://github.com/murray-z/text_analysis_tools) - 中文文本分析工具包（包括- 文本分类 - 文本聚类 - 文本相似性 - 关键词抽取 - 关键短语抽取 - 情感分析 - 文本纠错 - 文本摘要 - 主题关键词-同义词、近义词-事件三元组抽取）
@@ -1050,7 +1050,7 @@
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
-- [modern-js-dev/garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework 🚚
+- [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
