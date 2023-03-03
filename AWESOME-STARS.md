@@ -280,7 +280,7 @@
 - [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 - [ddnlink/ddn](https://github.com/ddnlink/ddn) - DDN, Data Delivery Network,  a next generation blockchain system
 - [noahlevenson/passerby](https://github.com/noahlevenson/passerby) - Peer-to-peer location services for the decentralized web -- discover what's around you, no central authority required
-- [nguyenphuminh/JeChain](https://github.com/nguyenphuminh/JeChain) - Node for JeChain - an experimental smart contract blockchain network
+- [nguyenphuminh/JeChain](https://github.com/nguyenphuminh/JeChain) - Node for JeChain - an experimental smart contract blockchain network and decentralized application platform
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web (Desktop version)
 - [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage) - ⁂ The simple file storage service for IPFS & Filecoin
