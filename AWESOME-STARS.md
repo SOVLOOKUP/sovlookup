@@ -440,7 +440,6 @@
 
 - [LJMichale/data-analysis](https://github.com/LJMichale/data-analysis) - 数据分析建模经验总结
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥
 - [datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline) - 数据挖掘、计算机视觉、自然语言处理、推荐系统竞赛知识、代码、思路
 - [YiAlpha/auto-law-review](https://github.com/YiAlpha/auto-law-review) - Automate the case review on legal case documents.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
@@ -505,7 +504,7 @@
 
 ## PowerShell 
 
-- [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 
 ## Prolog 
 
@@ -611,6 +610,7 @@
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。支持Windows，Linux下训练和预测，支持Nvidia Jetson开发板预测。
 - [dataabc/weibo-search](https://github.com/dataabc/weibo-search) - 获取微博搜索结果信息，搜索即可以是微博关键词搜索，也可以是微博话题搜索
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
@@ -844,6 +844,7 @@
 
 ## TypeScript 
 
+- [SOVLOOKUP/metapoint](https://github.com/SOVLOOKUP/metapoint) - ⚡Meta first and low-code. Peer-to-Peer typesafe APIs or Channels made easy.
 - [albingroen/prismabuilder.io](https://github.com/albingroen/prismabuilder.io) - Build your Prisma schema visually in this easy-to-use web based tool
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
