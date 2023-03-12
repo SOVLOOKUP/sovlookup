@@ -378,7 +378,7 @@
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [clbrge/svelte-web3](https://github.com/clbrge/svelte-web3) - web3.js library integration as a Svelte store
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端监控系统，webfunny也是一款前端性能监控系统，无埋点监控前端日志，实时分析前端健康状态。webfunny is a lightweight front-end monitoring system and webfunny is also a front-end performance monitoring system. It monitors front-
+- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 - [RuntimeTools/appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
@@ -512,6 +512,7 @@
 
 ## Python 
 
+- [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [GAMEOMETRICS/VisualGraph-python](https://github.com/GAMEOMETRICS/VisualGraph-python) - 
 - [robertsdotpm/p2pd](https://github.com/robertsdotpm/p2pd) - Asynchronous P2P networking library and service
@@ -703,6 +704,8 @@
 
 ## Rust 
 
+- [vclemenzi/yedin](https://github.com/vclemenzi/yedin) - Alternative to npm cli with superpowers
+- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently
 - [filecoin-station/zinnia](https://github.com/filecoin-station/zinnia) - Zinnia is a runtime for Filecoin Station modules. It provides a sandboxed environment to execute untrusted code on consumer-grade computers.
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
@@ -844,6 +847,7 @@
 
 ## TypeScript 
 
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Alternative application of discord and slack. Connect your workflow and 3rd part application with tailchat.
 - [SOVLOOKUP/metapoint](https://github.com/SOVLOOKUP/metapoint) - ⚡Meta first and low-code. Peer-to-Peer typesafe APIs or Channels made easy.
 - [albingroen/prismabuilder.io](https://github.com/albingroen/prismabuilder.io) - Build your Prisma schema visually in this easy-to-use web based tool
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
@@ -874,7 +878,7 @@
 - [lloydzhou/antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue) - the vue toolkit for graph analysis based on x6
 - [lloydzhou/graphin-vue](https://github.com/lloydzhou/graphin-vue) - The vue toolkit for graph analysis based on @antv/graphin
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [nuintun/qrcode](https://github.com/nuintun/qrcode) - A pure JavaScript QRCode encode and decode library.
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
