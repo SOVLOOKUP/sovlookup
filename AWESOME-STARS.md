@@ -871,7 +871,7 @@
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen frontend component library, it can be used in any framework or no framework.(下一代跨技术栈前端组件库 / 无框架组件库，技术栈无关)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen frontend component library, it can be used in any framework or no framework.(跨技术栈组件库，能用于任何前端框架。)
 - [surrealdb-community/surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - 
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
@@ -1108,6 +1108,7 @@
 
 ## Vue 
 
+- [0604hx/grid-form](https://github.com/0604hx/grid-form) - 🧩基于 GRID 布局的简单表单工具（包含可视化设计器、渲染器），默认组件库为 Naive UI
 - [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
