@@ -850,6 +850,7 @@
 
 ## TypeScript 
 
+- [loopholelabs/scale](https://github.com/loopholelabs/scale) - A High-Performance WebAssembly Function Runtime
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Alternative application of discord and slack. Connect your workflow and 3rd part application with tailchat.
 - [SOVLOOKUP/metapoint](https://github.com/SOVLOOKUP/metapoint) - ⚡Meta first and low-code. Peer-to-Peer typesafe APIs or Channels made easy.
 - [albingroen/prismabuilder.io](https://github.com/albingroen/prismabuilder.io) - Build your Prisma schema visually in this easy-to-use web based tool
