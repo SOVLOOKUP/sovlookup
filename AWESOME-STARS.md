@@ -112,6 +112,9 @@
 
 ## Go 
 
+- [semrush/zenrpc](https://github.com/semrush/zenrpc) - JSON-RPC 2.0 Server Implementation with SMD support written in Go (go generate)
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for low-latency geo-distributed system and realtime collaboration application, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology.
@@ -256,6 +259,7 @@
 
 ## JavaScript 
 
+- [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
 - [filecoin-station/desktop](https://github.com/filecoin-station/desktop) - Station is a visionary desktop app that connects your computer’s idle resources to the Filecoin network and rewards you with FIL. Taking part is simple, just launch the app and start earning.
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
@@ -707,6 +711,7 @@
 
 ## Rust 
 
+- [harlanc/jsonrpc2-rs](https://github.com/harlanc/jsonrpc2-rs) - A JSON-RPC 2.0 client/server library in rust.
 - [vclemenzi/yedin](https://github.com/vclemenzi/yedin) - Alternative to npm cli with superpowers
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: Access data freely, painlessly, and efficiently.
 - [filecoin-station/zinnia](https://github.com/filecoin-station/zinnia) - Zinnia is a runtime for Filecoin Station modules. It provides a sandboxed environment to execute untrusted code on consumer-grade computers.
@@ -850,6 +855,8 @@
 
 ## TypeScript 
 
+- [radarsu/rpc-websocket-client](https://github.com/radarsu/rpc-websocket-client) - Fast and simple JSON-RPC 2.0 WebSocket Client implementation in TypeScript. Allows bi-directional communication with async await Promises 🐼
+- [sinclairzx81/sidewinder](https://github.com/sinclairzx81/sidewinder) - Type Safe Micro Services for Node
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A High-Performance WebAssembly Function Runtime
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Alternative application of discord and slack. Connect your workflow and 3rd part application with tailchat.
 - [SOVLOOKUP/metapoint](https://github.com/SOVLOOKUP/metapoint) - ⚡Meta first and low-code. Peer-to-Peer typesafe APIs or Channels made easy.
@@ -861,7 +868,7 @@
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [StarlaneStudios/cirql](https://github.com/StarlaneStudios/cirql) - 🔧 A flexible SurrealDB ORM & query builder with Zod powered validation 🏋️‍♂️
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [Codibre/fluent-iterable](https://github.com/Codibre/fluent-iterable) - An easy, optimized and powerful way to deal with Iterables, Async Iterables, Streams and Events
 - [Darkhogg/polyethylene](https://github.com/Darkhogg/polyethylene) - easy manipulation of iterables and async itrerables
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
