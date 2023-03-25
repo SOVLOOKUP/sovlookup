@@ -517,6 +517,7 @@
 
 ## Python 
 
+- [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on PyQt5
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
@@ -711,6 +712,7 @@
 
 ## Rust 
 
+- [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
 - [harlanc/jsonrpc2-rs](https://github.com/harlanc/jsonrpc2-rs) - A JSON-RPC 2.0 client/server library in rust.
 - [vclemenzi/yedin](https://github.com/vclemenzi/yedin) - Alternative to npm cli with superpowers
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: Access data freely, painlessly, and efficiently.
