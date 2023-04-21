@@ -105,18 +105,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/noahehall">noah edward hall</a>
     </td>
     <td align="center">
-      <a href="https://github.com/baifengbai">
-        <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
-      </a>
-      <br />
-      <a href="https://github.com/baifengbai">Bai Feng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thomas-yanxin">
         <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
       </a>
       <br />
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/baifengbai">
+        <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
+      </a>
+      <br />
+      <a href="https://github.com/baifengbai">Bai Feng</a>
     </td>
     <td align="center">
       <a href="https://github.com/jaimemh">
