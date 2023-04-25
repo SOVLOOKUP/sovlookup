@@ -104,7 +104,7 @@
 ## Dockerfile 
 
 - [baywolf-studios/caddy-cloudflare-docker](https://github.com/baywolf-studios/caddy-cloudflare-docker) - Source for the unofficial Caddy Cloudflare v2 Docker Image
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 
 ## Erlang 
 
@@ -128,7 +128,7 @@
 - [plexsysio/go-msuite](https://github.com/plexsysio/go-msuite) - Modular microservices framework in golang
 - [santhosh-tekuri/jsonschema](https://github.com/santhosh-tekuri/jsonschema) - JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation using Go
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
-- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，
+- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils(600+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [pkujhd/goloader](https://github.com/pkujhd/goloader) - load and run golang code at runtime.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
@@ -571,7 +571,7 @@
 - [Hanlard/Transformer-based-pretrained-model-for-event-extraction](https://github.com/Hanlard/Transformer-based-pretrained-model-for-event-extraction) - 使用基于Transformer的预训练模型在ACE2005数据集上进行事件抽取任务
 - [jasoncao11/nlp-notebook](https://github.com/jasoncao11/nlp-notebook) - NLP 领域常见任务的实现，包括新词发现、以及基于pytorch的词向量、中文文本分类、实体识别、摘要文本生成、句子相似度判断、三元组抽取、预训练模型等。
 - [zhengyima/kg-baseline-pytorch](https://github.com/zhengyima/kg-baseline-pytorch) - 2019百度的关系抽取比赛，使用Pytorch实现苏神的模型，F1在dev集可达到0.75，联合关系抽取，Joint Relation Extraction.
-- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - OpenMMLab Image and Video Restoration, Editing and Generation Toolbox
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [soultoolman/pyerz](https://github.com/soultoolman/pyerz) - 易软著Python库
@@ -734,7 +734,7 @@
 - [harlanc/jsonrpc2-rs](https://github.com/harlanc/jsonrpc2-rs) - A JSON-RPC 2.0 client/server library in rust.
 - [vclemenzi/yedin](https://github.com/vclemenzi/yedin) - Alternative to npm cli with superpowers
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
-- [filecoin-station/zinnia](https://github.com/filecoin-station/zinnia) - Zinnia is a runtime for Filecoin Station modules. It provides a sandboxed environment to execute untrusted code on consumer-grade computers.
+- [filecoin-station/zinnia](https://github.com/filecoin-station/zinnia) - Runtime for worker nodes executing modules in a resource-limited sandbox
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
