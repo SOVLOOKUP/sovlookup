@@ -1050,7 +1050,7 @@
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
