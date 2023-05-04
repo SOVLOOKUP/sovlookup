@@ -91,18 +91,18 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/StevenJokess">
-        <img src="https://avatars2.githubusercontent.com/u/71307974" width="100px;" alt="StevenJokess"/>
-      </a>
-      <br />
-      <a href="https://github.com/StevenJokess">蔡舒起</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thomas-yanxin">
         <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
       </a>
       <br />
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/StevenJokess">
+        <img src="https://avatars2.githubusercontent.com/u/71307974" width="100px;" alt="StevenJokess"/>
+      </a>
+      <br />
+      <a href="https://github.com/StevenJokess">蔡舒起</a>
     </td>
     <td align="center">
       <a href="https://github.com/noahehall">
