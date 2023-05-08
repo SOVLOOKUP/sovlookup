@@ -315,7 +315,7 @@
 - [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless) - A plugin for Strapi Headless CMS that provides ability to sign-in/sign-up to an application by link had sent to email.
 - [alexzaganelli/strapi-plugin-email-designer](https://github.com/alexzaganelli/strapi-plugin-email-designer) - Design your own email templates w/ visual composer directly inside the Strapi admin panel and send composed emails programmatically from your controllers / services.
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
-- [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用
+- [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
 - [Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable) - A  powerful data table based on vuejs. You can use  it as data grid、Microsoft Excel or Google sheets. It supports virtual scroll、cell edit etc.
