@@ -113,7 +113,7 @@
 
 ## Go 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for in
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. LocalAI is a RESTful API for ggml comp
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 - [eko/authz](https://github.com/eko/authz) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - An open source application authorization and access control service built for developers and product teams.
@@ -329,7 +329,7 @@
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [CloudKits/miniprogram-foodmap](https://github.com/CloudKits/miniprogram-foodmap) - 微信小程序 · 美食地图模板
-- [meilisearch/strapi-plugin-meilisearch](https://github.com/meilisearch/strapi-plugin-meilisearch) - A strapi plugin to add your collections to meilisearch
+- [meilisearch/strapi-plugin-meilisearch](https://github.com/meilisearch/strapi-plugin-meilisearch) - A strapi plugin to add your collections to Meilisearch
 - [patrixr/strapi-middleware-cache](https://github.com/patrixr/strapi-middleware-cache) - :electric_plug:  A cache middleware for https://strapi.io
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
@@ -916,7 +916,7 @@
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components. Powered by quark.
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components. Powered by quark.(浏览器原生组件库，可跨各种技术栈使用)
 - [surrealdb-community/surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - 
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
