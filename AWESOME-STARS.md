@@ -23,7 +23,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Less](#less)
-- [Markdown](#markdown)
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
@@ -62,6 +61,7 @@
 
 ## C++ 
 
+- [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -113,7 +113,7 @@
 
 ## Go 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API for ggml compatible models: llama.c
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llam
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 - [eko/authz](https://github.com/eko/authz) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - An open source application authorization and access control service built for developers and product teams.
@@ -269,6 +269,7 @@
 ## JavaScript 
 
 - [TheNorthMemory/wechatpay-axios-plugin](https://github.com/TheNorthMemory/wechatpay-axios-plugin) - 微信支付 WeChatPay OpenAPI v2&v3' SDK，以命令行方式与接口交互，play the openapi requests over command line
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [yahoo/fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
@@ -465,10 +466,6 @@
 
 - [the-haus/surrealdb-nextjs-boilerplate](https://github.com/the-haus/surrealdb-nextjs-boilerplate) - Surrealdb NextJS Boilerplate
 
-## Markdown 
-
-- [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
-
 ## Nim 
 
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
@@ -529,8 +526,8 @@
 
 ## Python 
 
+- [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)
 - [thomas-yanxin/LangChain-ChatGLM-Webui](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -683,6 +680,7 @@
 - [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -731,6 +729,7 @@
 
 ## Rust 
 
+- [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
