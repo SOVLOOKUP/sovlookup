@@ -683,7 +683,7 @@
 - [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、国立台湾大学、国立新加坡大学、中国内陆与香港重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -769,7 +769,7 @@
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [emoon/dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
@@ -883,6 +883,7 @@
 
 ## TypeScript 
 
+- [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - 🚦Provide autocompletion for routes paths, names and params in Nuxt apps
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）
 - [c121914yu/FastGPT](https://github.com/c121914yu/FastGPT) - A platform that uses the OpenAI API to quickly build an AI knowledge base, supporting many-to-many relationships.
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
