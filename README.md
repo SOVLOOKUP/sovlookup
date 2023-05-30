@@ -65,7 +65,7 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
         <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
       </a>
       <br />
-      <a href="https://github.com/wangrongding">荣顶</a>
+      <a href="https://github.com/wangrongding">Rongding.Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/linonetwo">
