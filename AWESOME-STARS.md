@@ -121,7 +121,7 @@
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 - [eko/authz](https://github.com/eko/authz) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
-- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - An open source application authorization and access control service built for developers and product teams.
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service for defining, querying, and auditing application authorization models and access rules.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [jaevor/go-nanoid](https://github.com/jaevor/go-nanoid) - Nano ID for Go
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -272,6 +272,8 @@
 
 ## JavaScript 
 
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [hellof2e/quark](https://github.com/hellof2e/quark) - Low-cost, cross-stack and framework-free: reimagining the next generation of front-end components! Based on Web Components.低成本构建你的跨技术栈/原生组件。低成本、跨技术栈与无框架：重新构想下一代前端组件！
 - [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年06月04日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
 - [JianGuoBaoBao/wx_gzh](https://github.com/JianGuoBaoBao/wx_gzh) - 微信公众号 nood.js实现方式
 - [w-hehe/hmyk](https://github.com/w-hehe/hmyk) - 红盟云卡 卡密商城 自动发卡商城平台 虚拟商品出售。独立版开源，使用ThinkPHP开发，持续更新！可转售可二开可套牌可商用
@@ -692,7 +694,7 @@
 - [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、软件程序各类镜像，国立台湾大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -893,6 +895,8 @@
 
 ## TypeScript 
 
+- [wobsoriano/trpc-nuxt-subscriptions-demo](https://github.com/wobsoriano/trpc-nuxt-subscriptions-demo) - tRPC Nuxt + Websocket/Subscriptions Demo
+- [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [mablay/rpc-async](https://github.com/mablay/rpc-async) - Augments async communication with RPC functionality (ws, udpSocket, ipc, ...)
 - [udamir/wsapix](https://github.com/udamir/wsapix) - Next generation Websocket framework for nodejs
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
@@ -1168,6 +1172,7 @@
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [standardnotes/app](https://github.com/standardnotes/app) - End-to-end encrypted notes app. Write fearlessly. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
