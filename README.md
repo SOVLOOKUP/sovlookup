@@ -126,11 +126,11 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/jaimemh">Jaime Morgan Hitchcock</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ShaoQiBNU">
-        <img src="https://avatars2.githubusercontent.com/u/37075909" width="100px;" alt="ShaoQiBNU"/>
+      <a href="https://github.com/chenbimo">
+        <img src="https://avatars2.githubusercontent.com/u/33003566" width="100px;" alt="chenbimo"/>
       </a>
       <br />
-      <a href="https://github.com/ShaoQiBNU">ShaoQiBNU</a>
+      <a href="https://github.com/chenbimo">陈随易</a>
     </td>
   </tr>
 </table>
