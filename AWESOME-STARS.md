@@ -969,14 +969,14 @@
 - [nuintun/qrcode](https://github.com/nuintun/qrcode) - A pure JavaScript QRCode encode and decode library.
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [BetaHuhn/metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - 🏷️ A JavaScript library for scraping/parsing metadata from a web page.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [smartxworks/sunmao-ui](https://github.com/smartxworks/sunmao-ui) - A Framework for Developing Low-code Tool
-- [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+- [labring/laf](https://github.com/labring/laf) - 🤖 Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. ChatGPT generates functi
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [FalkZ/doclea](https://github.com/FalkZ/doclea) - 
 - [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug是Appsmith 的中国化项目，基于Appsmith做了整体性能优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架
