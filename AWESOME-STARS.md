@@ -304,7 +304,7 @@
 - [work7z/CodeGen](https://github.com/work7z/CodeGen) - CodeGen Offical Website: https://codegen.cc
 - [lingo3d/lingo3d](https://github.com/lingo3d/lingo3d) - Lingo3D is a web-first 3d game development library with React and Vue integration.
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [junchaoIU/CMRH-KG](https://github.com/junchaoIU/CMRH-KG) - 📚中国近代革命历史知识图谱系统 🌈提供了知识图谱可视化、知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等丰富而有效的中国近代革命历史知识服务。
 - [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 - [ddnlink/ddn](https://github.com/ddnlink/ddn) - DDN, Data Delivery Network,  a next generation blockchain system
@@ -904,6 +904,10 @@
 
 ## TypeScript 
 
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [textbus/textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，同时也可以作为一个开箱即用的富文本编辑器，拥有非常好的扩展性和可定制性，是构建复杂富文本的不二之选！
+- [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
+- [ZerNico/nuxt-logto](https://github.com/ZerNico/nuxt-logto) - Logto auth module for Nuxt 3
 - [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox and nope.
 - [kibertoad/toad-scheduler](https://github.com/kibertoad/toad-scheduler) - In-memory Node.js and browser job scheduler
@@ -960,7 +964,7 @@
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components. Powered by quark.(浏览器原生组件库，无框架组件库，可跨各种技术栈使用。底层基于Quarkc构建)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components. Powered by Quarkc.(浏览器原生组件库，无框架组件库，可跨各种技术栈使用。底层基于Quarkc构建)
 - [surrealdb-community/surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - 
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
