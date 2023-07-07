@@ -259,7 +259,7 @@
 ## Java 
 
 - [coderabbit214/bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
@@ -275,7 +275,7 @@
 
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.（低成本、无框架、跨技术栈，构建你的跨技术栈/原生组件。组件可运行于任何前端框架！）
+- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size. Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.（低成本、无框架、跨技术栈，构建你的跨技术栈/原生组件。组件可运行于任何前端框架！）
 - [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年06月04日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
 - [JianGuoBaoBao/wx_gzh](https://github.com/JianGuoBaoBao/wx_gzh) - 微信公众号 nood.js实现方式
 - [w-hehe/hmyk](https://github.com/w-hehe/hmyk) - 红盟云卡 卡密商城 自动发卡商城平台 虚拟商品出售。独立版开源，使用ThinkPHP开发，持续更新！可转售可二开可套牌可商用
@@ -574,7 +574,7 @@
 - [hchhtc123/PP-Tracking_GUi](https://github.com/hchhtc123/PP-Tracking_GUi) - 基于飞桨开源的实时跟踪系统PP-Tracking开发的可视化界面，覆盖车辆行人跟踪、多类别跟踪、流量统计等功能，适用于智慧交通、安防监控等场景。
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [casual-silva/NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
