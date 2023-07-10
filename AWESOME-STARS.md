@@ -249,7 +249,7 @@
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [ownthink/KG-View](https://github.com/ownthink/KG-View) - 知识图谱可视化展示
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
-- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - [NOT ACTIVELY MAINTAINED] Card-style Hugo theme designed for bloggers
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 
 ## Haskell 
@@ -275,7 +275,7 @@
 
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size. Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.（低成本、无框架、跨技术栈，构建你的跨技术栈/原生组件。组件可运行于任何前端框架！）
+- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size. Write components once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（低成本、无框架、跨技术栈，构建你的跨技术栈/原生组件。组件可运行于任何前端框架！）
 - [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年06月04日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
 - [JianGuoBaoBao/wx_gzh](https://github.com/JianGuoBaoBao/wx_gzh) - 微信公众号 nood.js实现方式
 - [w-hehe/hmyk](https://github.com/w-hehe/hmyk) - 红盟云卡 卡密商城 自动发卡商城平台 虚拟商品出售。独立版开源，使用ThinkPHP开发，持续更新！可转售可二开可套牌可商用
