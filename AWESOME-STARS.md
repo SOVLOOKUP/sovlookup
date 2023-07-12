@@ -123,7 +123,7 @@
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 - [eko/authz](https://github.com/eko/authz) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
-- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service for defining, querying, and auditing application authorization models and access rules.
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [jaevor/go-nanoid](https://github.com/jaevor/go-nanoid) - Nano ID for Go
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -465,6 +465,7 @@
 
 ## Jupyter Notebook 
 
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [lj-michale/data-analysis](https://github.com/lj-michale/data-analysis) - 数据分析建模经验总结
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥
@@ -596,7 +597,6 @@
 - [Hanlard/Transformer-based-pretrained-model-for-event-extraction](https://github.com/Hanlard/Transformer-based-pretrained-model-for-event-extraction) - 使用基于Transformer的预训练模型在ACE2005数据集上进行事件抽取任务
 - [jasoncao11/nlp-notebook](https://github.com/jasoncao11/nlp-notebook) - NLP 领域常见任务的实现，包括新词发现、以及基于pytorch的词向量、中文文本分类、实体识别、摘要文本生成、句子相似度判断、三元组抽取、预训练模型等。
 - [zhengyima/kg-baseline-pytorch](https://github.com/zhengyima/kg-baseline-pytorch) - 2019百度的关系抽取比赛，使用Pytorch实现苏神的模型，F1在dev集可达到0.75，联合关系抽取，Joint Relation Extraction.
-- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [soultoolman/pyerz](https://github.com/soultoolman/pyerz) - 易软著Python库
@@ -921,7 +921,7 @@
 - [volverjs/form-vue](https://github.com/volverjs/form-vue) - Vue 3 forms made simple with @volverjs/ui-vue and Zod.
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [wobsoriano/trpc-nuxt-subscriptions-demo](https://github.com/wobsoriano/trpc-nuxt-subscriptions-demo) - tRPC Nuxt + Websocket/Subscriptions Demo
-- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size. Write components once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（低成本、无框架、跨技术栈，构建你的跨技术栈/原生组件。组件可运行于任何前端框架！）
+- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️   Fast 4Kb size! Write once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（低成本、无框架、跨技术栈，构建你的跨技术栈/原生组件或应用。可运行于任何前端框架！）
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [mablay/rpc-async](https://github.com/mablay/rpc-async) - Augments async communication with RPC functionality (ws, udpSocket, ipc, ...)
 - [udamir/wsapix](https://github.com/udamir/wsapix) - Next generation Websocket framework for nodejs
@@ -972,14 +972,14 @@
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components.(跨端/跨框架的原生 UI 组件库，即插即用。)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(跨端/跨框架的原生 UI 组件库，即插即用。)
 - [surrealdb-community/surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - 
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
 - [lloydzhou/antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue) - the vue toolkit for graph analysis based on x6
 - [lloydzhou/graphin-vue](https://github.com/lloydzhou/graphin-vue) - The vue toolkit for graph analysis based on @antv/graphin
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [nuintun/qrcode](https://github.com/nuintun/qrcode) - A pure JavaScript QRCode encode and decode library.
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
@@ -990,7 +990,7 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [smartxworks/sunmao-ui](https://github.com/smartxworks/sunmao-ui) - A Framework for Developing Low-code Tool
-- [labring/laf](https://github.com/labring/laf) - 🤖 Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. ChatGPT generates functi
+- [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [FalkZ/doclea](https://github.com/FalkZ/doclea) - 
 - [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug是Appsmith 的中国化项目，基于Appsmith做了整体性能优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架
