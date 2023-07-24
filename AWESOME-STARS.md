@@ -755,6 +755,7 @@
 
 ## Ruby 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
 ## Rust 
