@@ -88,7 +88,7 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
         <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
       </a>
       <br />
-      <a href="https://github.com/thomas-yanxin">薛栋</a>
+      <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
     </td>
     <td align="center">
       <a href="https://github.com/GT-ZhangAcer">
