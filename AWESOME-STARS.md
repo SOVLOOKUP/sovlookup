@@ -1056,6 +1056,7 @@
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表单/表格解决方案
 - [Maronato/vue-toastification](https://github.com/Maronato/vue-toastification) - Vue notifications made easy!
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - A Vue3.x UI components lib for TDesign.
 - [IDuxFE/idux](https://github.com/IDuxFE/idux) - 🚀 A UI Component Library for Vue3.x
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
@@ -1235,7 +1236,6 @@
 - [remcoplasmeyer/flowy-vue](https://github.com/remcoplasmeyer/flowy-vue) - Vue Flowy makes creating flowchart or hierarchy chart functionality an easy task. Build automation software, mind mapping tools, organisation charts, or simple programming platforms in minutes by impl
 - [open-source-labs/OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework.
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [altai-ui/qui-max](https://github.com/altai-ui/qui-max) - A Vue 3.x Neumorphic design system for Web. Written in TypeScript with Composition API 🔥
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
