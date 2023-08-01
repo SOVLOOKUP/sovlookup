@@ -102,6 +102,7 @@
 
 ## Dart 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [openwebf/webf](https://github.com/openwebf/webf) - Build flutter apps with HTML/CSS and JavaScript.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share) - Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
@@ -915,7 +916,6 @@
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [WeBankFinTech/KoalaForm](https://github.com/WeBankFinTech/KoalaForm) - 中后台前端低代码表单
 - [Saul-Mirone/prosemirror-adapter](https://github.com/Saul-Mirone/prosemirror-adapter) - Universal adapter to create prosemirror nodeview from modern UI frameworks.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files.  ----------------  x-c
 - [xdan/jodit](https://github.com/xdan/jodit) - Jodit - Best WYSIWYG Editor for You
@@ -929,7 +929,7 @@
 - [volverjs/form-vue](https://github.com/volverjs/form-vue) - Vue 3 forms made simple with @volverjs/ui-vue and Zod.
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [wobsoriano/trpc-nuxt-subscriptions-demo](https://github.com/wobsoriano/trpc-nuxt-subscriptions-demo) - tRPC Nuxt + Websocket/Subscriptions Demo
-- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size! Write once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（构建你的跨技术栈，浏览器原生组件，可运行于任何前端框架！）
+- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size! JSX + Web Components. Write once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（构建你的跨技术栈 / 浏览器原生组件，可运行于任何前端框架！）
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [mablay/rpc-async](https://github.com/mablay/rpc-async) - Augments async communication with RPC functionality (ws, udpSocket, ipc, ...)
 - [udamir/wsapix](https://github.com/udamir/wsapix) - Next generation Websocket framework for nodejs
