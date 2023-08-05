@@ -914,6 +914,7 @@
 
 ## TypeScript 
 
+- [daltonmenezes/interprocess](https://github.com/daltonmenezes/interprocess) - 💬 A scalable and type-safe Electron IPC management tool with enhanced DX
 - [Ninzore/bilibili-captain](https://github.com/Ninzore/bilibili-captain) - 简易B站API调用（控制类）
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [WeBankFinTech/KoalaForm](https://github.com/WeBankFinTech/KoalaForm) - 中后台前端低代码表单
@@ -965,7 +966,7 @@
 - [filecoin-station/desktop](https://github.com/filecoin-station/desktop) - Station is a visionary desktop app that connects your computer’s idle resources to the Filecoin network and rewards you with FIL. Taking part is simple, just launch the app and start earning.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine written in TypeScript.
 - [antvis/G6VP](https://github.com/antvis/G6VP) - G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [StarlaneStudios/cirql](https://github.com/StarlaneStudios/cirql) - 🔧 A flexible SurrealDB ORM & query builder with Zod powered validation 🏋️‍♂️
@@ -1170,7 +1171,7 @@
 - [midwayjs/hooks](https://github.com/midwayjs/hooks) - "Zero" Api / Type Safe / Fullstack Kit / Powerful Backend
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [i5ting/imove](https://github.com/i5ting/imove) - INACTIVE: Move your mouse, generate code from flow chart
-- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
+- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
