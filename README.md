@@ -75,20 +75,20 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
       <a href="https://github.com/linonetwo">lin onetwo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wuchunfu">
-        <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
-      </a>
-      <br />
-      <a href="https://github.com/wuchunfu">ChunFuWu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/thomas-yanxin">
         <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
       </a>
       <br />
       <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wuchunfu">
+        <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
+      </a>
+      <br />
+      <a href="https://github.com/wuchunfu">ChunFuWu</a>
     </td>
     <td align="center">
       <a href="https://github.com/chenbimo">
