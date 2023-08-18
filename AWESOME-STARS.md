@@ -66,7 +66,7 @@
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [DefTruth/rvm-toolkit](https://github.com/DefTruth/rvm-toolkit) - 🔥RobustVideoMatting with ONNXRuntime/MNN/NCNN/TNN
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
+- [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Where local-first and P2P are first class features.
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -783,7 +783,7 @@
 - [ClusterVMS/rtsp-to-webrtc](https://github.com/ClusterVMS/rtsp-to-webrtc) - Converts an IP camera RTSP stream to a WebRTC stream
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
-- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [Aelto/surreal-simple-querybuilder](https://github.com/Aelto/surreal-simple-querybuilder) - A query-building & utility crate for SurrealDB and its SQL querying language that aims to be simple
 - [ParthJadhav/Rust_Search](https://github.com/ParthJadhav/Rust_Search) - Blazingly fast file search library built in Rust
@@ -848,7 +848,7 @@
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
-- [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - A Rust library for creating global hotkeys, and emulating inputs.
+- [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and simulating inputs
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [bminixhofer/tractjs](https://github.com/bminixhofer/tractjs) - Run ONNX and TensorFlow inference in the browser.
