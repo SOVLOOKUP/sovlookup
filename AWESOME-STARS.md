@@ -64,7 +64,7 @@
 ## C++ 
 
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
-- [DefTruth/rvm-toolkit](https://github.com/DefTruth/rvm-toolkit) - 🔥RobustVideoMatting with ONNXRuntime/MNN/NCNN/TNN
+- [DefTruth/RVM-Inference-Toolkit](https://github.com/DefTruth/RVM-Inference-Toolkit) - 🔥Robust Video Matting C++ Inference with ONNXRuntime、MNN、NCNN and TNN.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
@@ -103,6 +103,7 @@
 
 ## Dart 
 
+- [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [openwebf/webf](https://github.com/openwebf/webf) - Build flutter apps with HTML/CSS and JavaScript.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
