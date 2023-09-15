@@ -67,7 +67,6 @@
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [DefTruth/RVM-Inference-Toolkit](https://github.com/DefTruth/RVM-Inference-Toolkit) - 🔥Robust Video Matting C++ inference toolkit with ONNXRuntime、MNN、NCNN and TNN, via lite.ai.toolkit.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-- [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -298,6 +297,7 @@
 - [yahoo/fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
+- [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [feint123/dtools](https://github.com/feint123/dtools) - 基于tauri实现的工具集合应用，支持插件安装
 - [nftblackmagic/web3cdn](https://github.com/nftblackmagic/web3cdn) - 
@@ -946,7 +946,7 @@
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
-- [pilcrowOnPaper/lucia](https://github.com/pilcrowOnPaper/lucia) - Authentication, simple and clean
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - 🚦Provide autocompletion for routes paths, names and params in Nuxt apps
