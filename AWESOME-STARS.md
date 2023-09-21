@@ -23,7 +23,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Less](#less)
-- [MDX](#mdx)
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
@@ -123,7 +122,7 @@
 
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 - [eko/authz](https://github.com/eko/authz) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.
@@ -133,7 +132,7 @@
 - [semrush/zenrpc](https://github.com/semrush/zenrpc) - JSON-RPC 2.0 Server Implementation with SMD support written in Go (go generate)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [loopholelabs/scale](https://github.com/loopholelabs/scale) - A High-Performance WebAssembly Function Runtime
+- [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Software Edge Infra
@@ -207,6 +206,7 @@
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [doorbash/pm2-web](https://github.com/doorbash/pm2-web) - Web based monitor for PM2
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
@@ -489,10 +489,6 @@
 
 - [the-haus/surrealdb-nextjs-boilerplate](https://github.com/the-haus/surrealdb-nextjs-boilerplate) - Surrealdb NextJS Boilerplate
 
-## MDX 
-
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-
 ## Nim 
 
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
@@ -582,7 +578,7 @@
 - [hchhtc123/PP-Tracking_GUi](https://github.com/hchhtc123/PP-Tracking_GUi) - 基于飞桨开源的实时跟踪系统PP-Tracking开发的可视化界面，覆盖车辆行人跟踪、多类别跟踪、流量统计等功能，适用于智慧交通、安防监控等场景。
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
+- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [casual-silva/NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
@@ -926,7 +922,7 @@
 - [WeBankFinTech/KoalaForm](https://github.com/WeBankFinTech/KoalaForm) - 中后台前端低代码表单
 - [Saul-Mirone/prosemirror-adapter](https://github.com/Saul-Mirone/prosemirror-adapter) - Universal adapter to create prosemirror nodeview from modern UI frameworks.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
 - [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files.  ----------------  x-c
 - [xdan/jodit](https://github.com/xdan/jodit) - Jodit - Best WYSIWYG Editor for You
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
