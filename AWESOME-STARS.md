@@ -915,6 +915,7 @@
 
 ## TypeScript 
 
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [plexidev/quick.db](https://github.com/plexidev/quick.db) - An easy, open-source, Node.js database designed for complete beginners getting into the concept of coding.
 - [daltonmenezes/interprocess](https://github.com/daltonmenezes/interprocess) - 💬 A scalable and type-safe Electron IPC management tool with enhanced DX
 - [Ninzore/bilibili-captain](https://github.com/Ninzore/bilibili-captain) - 简易B站API调用（控制类）
