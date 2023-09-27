@@ -63,10 +63,13 @@
 
 ## C++ 
 
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
+- [dacap/clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [primihub/primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [DefTruth/RVM-Inference-Toolkit](https://github.com/DefTruth/RVM-Inference-Toolkit) - 🔥Robust Video Matting C++ inference toolkit with ONNXRuntime、MNN、NCNN and TNN, via lite.ai.toolkit.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
+- [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -302,7 +305,6 @@
 - [yahoo/fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
-- [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [feint123/dtools](https://github.com/feint123/dtools) - 基于tauri实现的工具集合应用，支持插件安装
 - [nftblackmagic/web3cdn](https://github.com/nftblackmagic/web3cdn) - 
@@ -767,6 +769,7 @@
 
 ## Rust 
 
+- [DoumanAsh/clipboard-master](https://github.com/DoumanAsh/clipboard-master) - Clipboard monitoring utility
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS or Python applications.
 - [horvbalint/surreal-ts](https://github.com/horvbalint/surreal-ts) - A simple to use typescript type definition generator for SurrealDB
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
@@ -907,7 +910,7 @@
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
 - [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
 - [jamescarlyle/wikid](https://github.com/jamescarlyle/wikid) - Svelte-based IPFS-stored personal Wiki system
-- [matfantinel/matfantinel.github.io](https://github.com/matfantinel/matfantinel.github.io) - Personal website and blog made with SvelteKit
+- [matfantinel/fantinel.dev](https://github.com/matfantinel/fantinel.dev) - Personal website and blog made with SvelteKit
 - [sandrina-p/portfolio_v3](https://github.com/sandrina-p/portfolio_v3) - My current personal website
 - [6eDesign/svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
