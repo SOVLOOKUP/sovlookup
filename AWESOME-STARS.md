@@ -73,7 +73,6 @@
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) - A RocksDB compatible KV storage engine with better performance
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -511,6 +510,7 @@
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper) - 学习强国 助手 xxqg 刷分 数独 sudoku
 - [aardio/Ghips](https://github.com/aardio/Ghips) - GitHub 网速优化与修复工具
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [goldjee/AL-YOLO-dataset](https://github.com/goldjee/AL-YOLO-dataset) - YOLO marked Apex Legends dataset
 - [rebase-network/who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
 - [BDBC-KG-NLP/QA-Survey-CN](https://github.com/BDBC-KG-NLP/QA-Survey-CN) - 北京航空航天大学大数据高精尖中心自然语言处理研究团队开展了智能问答的研究与应用总结。包括基于知识图谱的问答（KBQA），基于文本的问答系统（TextQA），基于表格的问答系统（TableQA）、基于视觉的问答系统（VisualQA）和机器阅读理解（MRC）等，每类任务分别对学术界和工业界进行了相关总结。
@@ -1120,7 +1120,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [apptools-lab/AppToolkit](https://github.com/apptools-lab/AppToolkit) - 🐘 The Front-end Env Toolkit（前端环境管理工具）
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [Q42/openapi-typescript-validator](https://github.com/Q42/openapi-typescript-validator) - Generate typescript with ajv validation based on openapi schemas
