@@ -4,14 +4,13 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sovlookup&theme=dark&show_icons=true">
 
-I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on ⚡ computer science ⚡ and I am a bit mad 🗯️ when I code.
+I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am a bit mad 🗯️ when I code.
 
 - 🚀 I use:
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Golang](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=Go)
-  ![Nim](https://img.shields.io/badge/-Nim-yellow?style=plastic&logo=nim)
   ![Rust](https://img.shields.io/badge/-Rust-pink?style=plastic&logo=Rust)
   
 - 💬 I speak:
@@ -23,7 +22,7 @@ I'm Y**u** B**ei**, now majoring in ⚖️ law ⚖️, I have huge attraction on
   😋Yummy food
 
 - 📖 I am learning:
-  🇫🇷French
+  
   
 ---
   
