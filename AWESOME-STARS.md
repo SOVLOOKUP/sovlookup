@@ -90,7 +90,7 @@
 ## CSS 
 
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
-- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
+- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 
@@ -1026,7 +1026,7 @@
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [FalkZ/doclea](https://github.com/FalkZ/doclea) - 
-- [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug是Appsmith 的中国化项目，基于Appsmith做了整体性能优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架
+- [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug 是 Appsmith 的中国化项目。基于Appsmith做了整体性能的优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的前后端一体低代码，项目逻辑主要是在前端的解释器和设计器上
 - [marc2332/deno_installer](https://github.com/marc2332/deno_installer) - 📦 You can now create installers for your Deno 🦕 apps!
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -1202,7 +1202,7 @@
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-- [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
 - [RienNeVaPlus/type-arango](https://github.com/RienNeVaPlus/type-arango) - 🥑 TypeArango manages ArangoDB collections, documents, relations and routes by taking advantage of TypeScript typings.
 - [neo4j-contrib/neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
