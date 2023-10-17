@@ -284,6 +284,7 @@
 
 ## JavaScript 
 
+- [zyqwst/json-schema-editor-vue](https://github.com/zyqwst/json-schema-editor-vue) - A json-schema editor of high efficient and easy-to-use, base on Vue
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -407,7 +408,7 @@
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [molamolaxxx/KGView](https://github.com/molamolaxxx/KGView) - 知识图谱可视化javascript库，基于d3.js，面向网页前端知识图谱展示
@@ -770,6 +771,8 @@
 
 ## Rust 
 
+- [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+- [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
 - [xbrize/brize_auth](https://github.com/xbrize/brize_auth) - Authentication service wrapping SurrealDB
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [DoumanAsh/clipboard-master](https://github.com/DoumanAsh/clipboard-master) - Clipboard monitoring utility
@@ -972,7 +975,7 @@
 - [klover2/wechatpay-node-v3-ts](https://github.com/klover2/wechatpay-node-v3-ts) - 微信支付v3
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
@@ -1189,7 +1192,7 @@
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant, high-performance rendering engine based on Flutter.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
-- [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计
+- [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [midwayjs/hooks](https://github.com/midwayjs/hooks) - "Zero" Api / Type Safe / Fullstack Kit / Powerful Backend
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
@@ -1247,6 +1250,7 @@
 
 ## Vue 
 
+- [zlog-fun/vue-json-schema-editor-visual-p](https://github.com/zlog-fun/vue-json-schema-editor-visual-p) - vue-json-schema-editor-visual-p
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
