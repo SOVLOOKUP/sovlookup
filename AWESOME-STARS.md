@@ -47,6 +47,7 @@
 
 ## C 
 
+- [toyobayashi/emnapi](https://github.com/toyobayashi/emnapi) - Node-API implementation for Emscripten, wasi-sdk, clang wasm32 and napi-rs
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
@@ -69,6 +70,7 @@
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [DefTruth/RVM-Inference-Toolkit](https://github.com/DefTruth/RVM-Inference-Toolkit) - 🔥Robust Video Matting C++ inference toolkit with ONNXRuntime、MNN、NCNN and TNN, via lite.ai.toolkit.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
+- [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -308,7 +310,6 @@
 - [yahoo/fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
-- [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [feint123/dtools](https://github.com/feint123/dtools) - 基于tauri实现的工具集合应用，支持插件安装
 - [nftblackmagic/web3cdn](https://github.com/nftblackmagic/web3cdn) - 
