@@ -24,6 +24,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Less](#less)
+- [MDX](#mdx)
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
@@ -499,6 +500,10 @@
 ## Less 
 
 - [the-haus/surrealdb-nextjs-boilerplate](https://github.com/the-haus/surrealdb-nextjs-boilerplate) - Surrealdb NextJS Boilerplate
+
+## MDX 
+
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 
 ## Nim 
 
@@ -1118,7 +1123,6 @@
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [iron-fish/ironfish](https://github.com/iron-fish/ironfish) - A novel cryptocurrency focused on privacy and accessibility.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [antvis/XFlow](https://github.com/antvis/XFlow) - 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
