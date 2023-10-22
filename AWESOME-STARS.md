@@ -779,6 +779,7 @@
 
 ## Rust 
 
+- [oscartbeaumont/specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
@@ -801,7 +802,7 @@
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
-- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint encryption for messaging and file-sharing SDK
+- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint-to-endpoint encryption for messaging and file-sharing SDK
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [ClusterVMS/rtsp-to-webrtc](https://github.com/ClusterVMS/rtsp-to-webrtc) - Converts an IP camera RTSP stream to a WebRTC stream
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -1211,7 +1212,7 @@
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [RienNeVaPlus/type-arango](https://github.com/RienNeVaPlus/type-arango) - 🥑 TypeArango manages ArangoDB collections, documents, relations and routes by taking advantage of TypeScript typings.
