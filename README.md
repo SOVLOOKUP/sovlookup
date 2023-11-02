@@ -97,18 +97,18 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/chenbimo">陈随易</a>
     </td>
     <td align="center">
-      <a href="https://github.com/GT-ZhangAcer">
-        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
-      </a>
-      <br />
-      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/StevenJokess">
         <img src="https://avatars2.githubusercontent.com/u/71307974" width="100px;" alt="StevenJokess"/>
       </a>
       <br />
       <a href="https://github.com/StevenJokess">蔡舒起</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GT-ZhangAcer">
+        <img src="https://avatars2.githubusercontent.com/u/46156734" width="100px;" alt="GT-ZhangAcer"/>
+      </a>
+      <br />
+      <a href="https://github.com/GT-ZhangAcer">GT-Zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/noahehall">
