@@ -937,6 +937,7 @@
 
 ## TypeScript 
 
+- [wobsoriano/nuxt3-socket.io](https://github.com/wobsoriano/nuxt3-socket.io) - Nuxt 3 and Socket.io integration.
 - [MBearo/ernie-bot-js](https://github.com/MBearo/ernie-bot-js) - ernie bot js api
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
