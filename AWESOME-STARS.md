@@ -779,7 +779,7 @@
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
-- [xbrize/brize_auth](https://github.com/xbrize/brize_auth) - Authentication service wrapping SurrealDB
+- [xbrize/brize_auth](https://github.com/xbrize/brize_auth) - Authentication service supporting MySql, SurrealDB, and Redis
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [DoumanAsh/clipboard-master](https://github.com/DoumanAsh/clipboard-master) - Clipboard monitoring utility
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS or Python applications.
