@@ -701,7 +701,7 @@
 - [baidu/Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.
 - [baidu/DDParser](https://github.com/baidu/DDParser) - 百度开源的依存句法分析系统
 - [liuhuanyong/LawCrimeMining](https://github.com/liuhuanyong/LawCrimeMining) - Law Crime Mining Based on Corpus build and content analysis by NLP methods. 基于领域语料库构建与NLP方法的裁判文书与犯罪案例文本挖掘项目
-- [padeoe/cail2019](https://github.com/padeoe/cail2019) - 法研杯2019相似案例匹配第二名解决方案（附数据集和文档）,CAIL2020/2021司法考试赛道冠军团队
+- [padeoe/cail2019](https://github.com/padeoe/cail2019) - 法研杯2019相似案例匹配第二名解决方案（附数据集和文档）,CAIL2020/2021司法考试赛道冠军队伍
 - [17680329677/Forestry_LAW](https://github.com/17680329677/Forestry_LAW) - 基于知识图谱的林业法律法规问答
 - [liuhuanyong/CrimeKgAssitant](https://github.com/liuhuanyong/CrimeKgAssitant) - Crime assistant including crime type prediction and crime consult service based on nlp methods and crime kg,罪名法务智能项目,内容包括856项罪名知识图谱, 基于280万罪名训练库的罪名预测,基于20W法务问答对的13类问题分类与法律资讯问答功能.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
