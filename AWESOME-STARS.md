@@ -444,7 +444,6 @@
 - [deepwel/Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator) - Annotator for Chinese Text Corpus (UNDER DEVELOPMENT) 中文文本标注工具
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
 - [mrpandey/d3graphTheory](https://github.com/mrpandey/d3graphTheory) - :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:
@@ -813,7 +812,7 @@
 - [chipsenkbeil/service-manager-rs](https://github.com/chipsenkbeil/service-manager-rs) - Provides adapters to communicate with various operating system service managers like launchd and systemd
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
-- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, cloud native time-series database.
+- [CeresDB/horaedb](https://github.com/CeresDB/horaedb) - HoraeDB is a high-performance, distributed, cloud native time-series database.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
@@ -1201,6 +1200,7 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [midwayjs/hooks](https://github.com/midwayjs/hooks) - "Zero" Api / Type Safe / Fullstack Kit / Powerful Backend
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [i5ting/imove](https://github.com/i5ting/imove) - INACTIVE: Move your mouse, generate code from flow chart
