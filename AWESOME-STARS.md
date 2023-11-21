@@ -72,7 +72,6 @@
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [fails-components/webtransport](https://github.com/fails-components/webtransport) - Http/3 webtransport support for node
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -436,7 +435,6 @@
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [browserify/detective](https://github.com/browserify/detective) - Find all calls to require() no matter how deeply nested using a proper walk of the AST
-- [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [yuedun/zhuque](https://github.com/yuedun/zhuque) - 使用go开发的简单高效的发布系统，支持pm2 deploy和scp两种发布方式。
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings
@@ -527,6 +525,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [OpenKG-ORG/OpenConcepts](https://github.com/OpenKG-ORG/OpenConcepts) - 中文概念图谱OpenConcepts
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+- [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [zhpmatrix/nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review) - 复盘所有NLP比赛的TOP方案，只关注NLP比赛，持续更新中！
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [phodal/lowcode](https://github.com/phodal/lowcode) - Low-code platform design rule
@@ -796,6 +795,7 @@
 - [vclemenzi/yedin](https://github.com/vclemenzi/yedin) - Alternative to npm cli with superpowers
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [filecoin-station/zinnia](https://github.com/filecoin-station/zinnia) - Runtime for worker nodes executing modules in a resource-limited sandbox
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
 - [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint-to-endpoint encryption for messaging and file-sharing SDK
@@ -827,7 +827,7 @@
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [dashpay/platform](https://github.com/dashpay/platform) - L2 solution for seriously fast decentralized applications for the Dash network
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for ZK Applications
@@ -937,6 +937,7 @@
 
 ## TypeScript 
 
+- [xarenas107/nuxt-socket.io](https://github.com/xarenas107/nuxt-socket.io) - Nux module for socket.io
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [wobsoriano/nuxt3-socket.io](https://github.com/wobsoriano/nuxt3-socket.io) - Nuxt 3 and Socket.io integration.
 - [MBearo/ernie-bot-js](https://github.com/MBearo/ernie-bot-js) - ernie bot js api
@@ -963,7 +964,7 @@
 - [volverjs/form-vue](https://github.com/volverjs/form-vue) - Vue 3 forms made simple with @volverjs/ui-vue and Zod.
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [wobsoriano/trpc-nuxt-subscriptions-demo](https://github.com/wobsoriano/trpc-nuxt-subscriptions-demo) - tRPC Nuxt + Websocket/Subscriptions Demo
-- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size!  Web Components with JSX. （Quarkc，Web 组件框架）
+- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size!  Web Components with JSX. （Quarkc，Web 组件框架。用于构建跨技术栈组件！）
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [mablay/rpc-async](https://github.com/mablay/rpc-async) - Augments async communication with RPC functionality (ws, udpSocket, ipc, ...)
 - [udamir/wsapix](https://github.com/udamir/wsapix) - Next generation Websocket framework for nodejs
@@ -1025,7 +1026,7 @@
 - [nuintun/qrcode](https://github.com/nuintun/qrcode) - A pure JavaScript QRCode encode and decode library.
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [BetaHuhn/metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - 🏷️ A JavaScript library for scraping/parsing metadata from a web page.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
