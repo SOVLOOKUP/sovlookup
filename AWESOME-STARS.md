@@ -974,7 +974,7 @@
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
-- [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - 🚦Provide autocompletion for routes paths, names and params in Nuxt apps
+- [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - 🚦Provide autocompletion and typecheck to Nuxt router
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
@@ -1005,7 +1005,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [codibre/fluent-iterable](https://github.com/codibre/fluent-iterable) - An easy, optimized and powerful way to deal with Iterables, Async Iterables, Streams and Events
 - [Darkhogg/polyethylene](https://github.com/Darkhogg/polyethylene) - easy manipulation of iterables and async itrerables
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [reconbot/streaming-iterables](https://github.com/reconbot/streaming-iterables) - A Swiss army knife for async iterables. Designed to replace your streams.
 - [superman2211/xobj](https://github.com/superman2211/xobj) - Decoding and encoding JavaScript/TypeScript objects to binary format.
 - [myrotvorets/buffer-stream](https://github.com/myrotvorets/buffer-stream) - Converts a Buffer into a Readable Stream
@@ -1125,7 +1125,7 @@
 - [iron-fish/ironfish](https://github.com/iron-fish/ironfish) - A novel cryptocurrency focused on privacy and accessibility.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [antvis/XFlow](https://github.com/antvis/XFlow) - 
+- [antvis/XFlow](https://github.com/antvis/XFlow) - React component for building interactive diagrams.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
