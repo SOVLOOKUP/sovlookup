@@ -562,6 +562,7 @@
 
 ## Python 
 
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [onetwo1/pinduoduo](https://github.com/onetwo1/pinduoduo) - pdd (拼多多) 爬虫 js 解密 anti_content 参数解密及全站抓取代码思路实现
 - [neukg/TechGPT](https://github.com/neukg/TechGPT) - TechGPT: Technology-Oriented Generative Pretrained Transformer
