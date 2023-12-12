@@ -358,7 +358,7 @@
 - [kirillmurashov/vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - Vue2 && Vue3 Component for resize and drag elements
 - [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5
 - [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
-- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [stormseed/daykeep-calendar-quasar](https://github.com/stormseed/daykeep-calendar-quasar) - A full event display calendar for the Quasar framework that has multiple viewing formats.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
