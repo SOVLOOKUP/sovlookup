@@ -338,7 +338,6 @@
 - [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage) - ⁂ The simple file storage service for IPFS & Filecoin
 - [fastify/avvio](https://github.com/fastify/avvio) - Asynchronous bootstrapping of Node applications
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [xudeming208/electron-capture](https://github.com/xudeming208/electron-capture) - 利用electron和nodejs开发的桌面截图工具，支持Windows、Mac、Linux，支持双屏幕
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -807,7 +806,7 @@
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
-- [Aelto/surreal-simple-querybuilder](https://github.com/Aelto/surreal-simple-querybuilder) - A query-building & utility crate for SurrealDB and its SQL querying language that aims to be simple
+- [Aelto/surreal-simple-querybuilder](https://github.com/Aelto/surreal-simple-querybuilder) - A query-building & utility crate for SurrealDB and its SQL querying language that aims to be simple to use
 - [ParthJadhav/Rust_Search](https://github.com/ParthJadhav/Rust_Search) - Blazingly fast file search library built in Rust
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
@@ -939,6 +938,8 @@
 
 ## TypeScript 
 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [xarenas107/nuxt-socket.io](https://github.com/xarenas107/nuxt-socket.io) - Nux module for socket.io
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [wobsoriano/nuxt3-socket.io](https://github.com/wobsoriano/nuxt3-socket.io) - Nuxt 3 and Socket.io integration.
@@ -966,7 +967,7 @@
 - [volverjs/form-vue](https://github.com/volverjs/form-vue) - Vue 3 forms made simple with @volverjs/ui-vue and Zod.
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [wobsoriano/trpc-nuxt-subscriptions-demo](https://github.com/wobsoriano/trpc-nuxt-subscriptions-demo) - tRPC Nuxt + Websocket/Subscriptions Demo
-- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size!  Web Components with JSX. （Quarkc，Web 组件框架。用于构建跨技术栈组件！）
+- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size!  Web Components with JSX. （Quarkc，Web 组件框架。用于构建跨技术栈组件 / 无框架组件）
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [mablay/rpc-async](https://github.com/mablay/rpc-async) - Augments async communication with RPC functionality (ws, udpSocket, ipc, ...)
 - [udamir/wsapix](https://github.com/udamir/wsapix) - Next generation Websocket framework for nodejs
@@ -1001,7 +1002,7 @@
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
 - [antvis/G6VP](https://github.com/antvis/G6VP) - G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build customized Admin Panel for your App and Website. Supports multi-person collaboration. Significantly reduce development time
 - [StarlaneStudios/cirql](https://github.com/StarlaneStudios/cirql) - 🔧 A flexible SurrealDB ORM & query builder with Zod powered validation 🏋️‍♂️
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
@@ -1059,6 +1060,7 @@
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [OwnStoreOrg/ownstore-website](https://github.com/OwnStoreOrg/ownstore-website) - The official web app of OwnStore suite.
 - [sleeyax/asarmor](https://github.com/sleeyax/asarmor) - Protect asar archive files from extraction
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [hyqaimx/graph-timeline](https://github.com/hyqaimx/graph-timeline) - 是一个用于图分析中分析节点的时间关系的组件
