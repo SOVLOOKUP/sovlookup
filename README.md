@@ -83,18 +83,18 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/wuchunfu">
-        <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
-      </a>
-      <br />
-      <a href="https://github.com/wuchunfu">ChunFuWu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/chenbimo">
         <img src="https://avatars2.githubusercontent.com/u/33003566" width="100px;" alt="chenbimo"/>
       </a>
       <br />
       <a href="https://github.com/chenbimo">陈随易</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wuchunfu">
+        <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
+      </a>
+      <br />
+      <a href="https://github.com/wuchunfu">ChunFuWu</a>
     </td>
     <td align="center">
       <a href="https://github.com/StevenJokess">
