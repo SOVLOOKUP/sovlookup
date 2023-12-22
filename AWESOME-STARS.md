@@ -617,7 +617,7 @@
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [soultoolman/pyerz](https://github.com/soultoolman/pyerz) - 易软著Python库
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB's AI SQL Server connects AI models to real time data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Build AI 🤖 using SQL
 - [malllabiisc/EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA) - ACL 2020: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [murray-z/text_analysis_tools](https://github.com/murray-z/text_analysis_tools) - 中文文本分析工具包（包括- 文本分类 - 文本聚类 - 文本相似性 - 关键词抽取 - 关键短语抽取 - 情感分析 - 文本纠错 - 文本摘要 - 主题关键词-同义词、近义词-事件三元组抽取）
@@ -1084,6 +1084,7 @@
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [erxes/erxes](https://github.com/erxes/erxes) - The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
 - [VirtusLab-Open-Source/strapi-plugin-comments](https://github.com/VirtusLab-Open-Source/strapi-plugin-comments) - A plugin for Strapi Headless CMS that provides end to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
@@ -1279,7 +1280,6 @@
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [ubisoft/mobydq](https://github.com/ubisoft/mobydq) - :whale: Tool to automate data quality checks on data pipelines
 - [rhwilr/vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [lian-yue/vue-upload-component](https://github.com/lian-yue/vue-upload-component) - Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
 - [remcoplasmeyer/flowy-vue](https://github.com/remcoplasmeyer/flowy-vue) - Vue Flowy makes creating flowchart or hierarchy chart functionality an easy task. Build automation software, mind mapping tools, organisation charts, or simple programming platforms in minutes by impl
 - [open-source-labs/OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
