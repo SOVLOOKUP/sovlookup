@@ -74,20 +74,20 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/linonetwo">lin onetwo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thomas-yanxin">
-        <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
-      </a>
-      <br />
-      <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/chenbimo">
         <img src="https://avatars2.githubusercontent.com/u/33003566" width="100px;" alt="chenbimo"/>
       </a>
       <br />
       <a href="https://github.com/chenbimo">陈随易</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/thomas-yanxin">
+        <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
+      </a>
+      <br />
+      <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
     </td>
     <td align="center">
       <a href="https://github.com/wuchunfu">
