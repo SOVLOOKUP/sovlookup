@@ -777,7 +777,7 @@
 ## Rust 
 
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app.
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features
 - [BiagioFesta/wtransport](https://github.com/BiagioFesta/wtransport) - Async-friendly WebTransport implementation in Rust
 - [oscartbeaumont/specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
