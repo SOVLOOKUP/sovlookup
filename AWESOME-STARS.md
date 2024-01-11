@@ -777,6 +777,9 @@
 
 ## Rust 
 
+- [rodrimati1992/abi_stable_crates](https://github.com/rodrimati1992/abi_stable_crates) - Rust-to-Rust ffi,ffi-safe equivalents of std types,and creating libraries loaded at startup.
+- [ZettaScaleLabs/stabby](https://github.com/ZettaScaleLabs/stabby) - A Stable ABI for Rust with compact sum-types
+- [outfoxxed/dyntable](https://github.com/outfoxxed/dyntable) - Idiomatic and FFI Safe dyn traits in Rust
 - [geofmureithi/plugy](https://github.com/geofmureithi/plugy) - plugy empowers you to construct agnostic dynamic plugin systems using Rust and WebAssembly.
 - [MatsDK/TauRPC](https://github.com/MatsDK/TauRPC) - Typesafe IPC layer for Tauri applications
 - [oscartbeaumont/tauri-specta](https://github.com/oscartbeaumont/tauri-specta) - Completely typesafe Tauri commands
@@ -965,7 +968,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files.  ----------------  x-c
 - [xdan/jodit](https://github.com/xdan/jodit) - Jodit - Best WYSIWYG Editor for You
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [textbus/textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
 - [ZerNico/nuxt-logto](https://github.com/ZerNico/nuxt-logto) - Logto auth module for Nuxt 3
@@ -1038,7 +1041,7 @@
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [BetaHuhn/metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - 🏷️ A JavaScript library for scraping/parsing metadata from a web page.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
