@@ -426,7 +426,6 @@
 - [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 - [RuntimeTools/appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
-- [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [bencevans/screenshot-desktop](https://github.com/bencevans/screenshot-desktop) - 💻 Capture a screenshot of your local machine
 - [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
@@ -1195,6 +1194,7 @@
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [ohbug-org/ohbug](https://github.com/ohbug-org/ohbug) - Self-hosted application monitoring that helps software teams quickly find and fix production errors.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [AlexTorresDev/custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [antvis/algorithm](https://github.com/antvis/algorithm) - 常用的图算法 JS 实现，提供给 G6 及 Graphin 用于图分析场景使用。
@@ -1276,7 +1276,7 @@
 
 ## Vue 
 
-- [ys928/Ombra](https://github.com/ys928/Ombra) - 对标utools，由tauri驱动，一款轻量、小巧、随用随走的应用工具箱，可快速启动本地应用。
+- [ys928/Ombra](https://github.com/ys928/Ombra) - 对标utools，一款轻量、小巧、随用随走的应用工具箱。快速启动、文件搜索。
 - [zlog-fun/vue-json-schema-editor-visual-p](https://github.com/zlog-fun/vue-json-schema-editor-visual-p) - vue-json-schema-editor-visual-p
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
