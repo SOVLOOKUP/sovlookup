@@ -1292,7 +1292,7 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
-- [0604hx/grid-form](https://github.com/0604hx/grid-form) - 🧩基于 GRID 布局的简单表单工具（包含可视化设计器、渲染器），默认组件库为 Naive UI
+- [0604hx/grid-form](https://github.com/0604hx/grid-form) - 🧩格子表单：基于 GRID 布局的简单表单工具（包含可视化设计器、渲染器），默认组件库为 Naive UI，同时支持 element-plus、vant4 渲染
 - [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 一款开源简历设计生成器，内置两款设计器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
