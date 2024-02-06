@@ -186,7 +186,7 @@
 - [argoproj-labs/old-argo-dataflow](https://github.com/argoproj-labs/old-argo-dataflow) - Dataflow is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 - [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
+- [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
@@ -1028,7 +1028,7 @@
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [antvis/G6VP](https://github.com/antvis/G6VP) - G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build AI-driven business apps like assembling blocks, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports Pos
 - [StarlaneStudios/cirql](https://github.com/StarlaneStudios/cirql) - 🔧 A flexible SurrealDB ORM & query builder with Zod powered validation 🏋️‍♂️
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
@@ -1055,7 +1055,7 @@
 - [nuintun/qrcode](https://github.com/nuintun/qrcode) - A pure JavaScript QRCode encode and decode library.
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [BetaHuhn/metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - 🏷️ A JavaScript library for scraping/parsing metadata from a web page.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
