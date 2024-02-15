@@ -786,7 +786,7 @@
 ## Rust 
 
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a safe, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 - [rodrimati1992/abi_stable_crates](https://github.com/rodrimati1992/abi_stable_crates) - Rust-to-Rust ffi,ffi-safe equivalents of std types,and creating libraries loaded at startup.
 - [ZettaScaleLabs/stabby](https://github.com/ZettaScaleLabs/stabby) - A Stable ABI for Rust with compact sum-types
 - [outfoxxed/dyntable](https://github.com/outfoxxed/dyntable) - Idiomatic and FFI Safe dyn traits in Rust
@@ -961,7 +961,7 @@
 
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [firstbatchxyz/hollowdb-vector](https://github.com/firstbatchxyz/hollowdb-vector) - A decentralized vector database for building vector search applications
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
 - [StarlaneStudios/Surrealist](https://github.com/StarlaneStudios/Surrealist) - ⚡ Powerful graphical SurrealDB query playground and database explorer for Browser and Desktop
