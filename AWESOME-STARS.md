@@ -1292,7 +1292,7 @@
 
 ## Vue 
 
-- [ys928/Ombra](https://github.com/ys928/Ombra) - 对标utools，一款轻量、小巧、随用随走的应用工具箱。快速启动、文件搜索。
+- [ys928/Ombra](https://github.com/ys928/Ombra) - 一款轻量、小巧、随用随走的应用工具箱。快速启动、文件搜索。
 - [zlog-fun/vue-json-schema-editor-visual-p](https://github.com/zlog-fun/vue-json-schema-editor-visual-p) - vue-json-schema-editor-visual-p
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
