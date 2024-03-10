@@ -959,6 +959,7 @@
 
 ## TypeScript 
 
+- [repeaterjs/repeater](https://github.com/repeaterjs/repeater) - The missing constructor for creating safe async iterators
 - [wobsoriano/vue-driver](https://github.com/wobsoriano/vue-driver) - Drive the user's focus across the page.
 - [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
