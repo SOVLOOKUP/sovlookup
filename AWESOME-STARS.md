@@ -1298,7 +1298,7 @@
 
 ## Vue 
 
-- [varletjs/varlet](https://github.com/varletjs/varlet) - Material design mobile component library for Vue3
+- [varletjs/varlet](https://github.com/varletjs/varlet) - Material design 2 and 3 mobile component library for Vue3, it also performs well on desktop.
 - [ys928/Ombra](https://github.com/ys928/Ombra) - 一款轻量、小巧、随用随走的应用工具箱。快速启动、文件搜索。
 - [zlog-fun/vue-json-schema-editor-visual-p](https://github.com/zlog-fun/vue-json-schema-editor-visual-p) - vue-json-schema-editor-visual-p
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
