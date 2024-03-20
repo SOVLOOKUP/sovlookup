@@ -64,6 +64,7 @@
 
 ## C++ 
 
+- [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Displays
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [dacap/clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [primihub/primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
@@ -1027,7 +1028,7 @@
 - [klover2/wechatpay-node-v3-ts](https://github.com/klover2/wechatpay-node-v3-ts) - 微信支付v3
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
@@ -1059,7 +1060,7 @@
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(面向未来，技术栈无关，即插即用。)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(无框架，跨技术栈组件库，即插即用。)
 - [surrealdb-community/surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - 
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
@@ -1307,6 +1308,7 @@
 
 ## Vue 
 
+- [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - 
 - [varletjs/varlet](https://github.com/varletjs/varlet) - Material design 2 and 3 mobile component library for Vue3, it also performs well on desktop.
 - [ys928/Ombra](https://github.com/ys928/Ombra) - 一款轻量、小巧、随用随走的应用工具箱。快速启动、文件搜索。
 - [zlog-fun/vue-json-schema-editor-visual-p](https://github.com/zlog-fun/vue-json-schema-editor-visual-p) - vue-json-schema-editor-visual-p
