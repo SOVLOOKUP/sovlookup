@@ -965,6 +965,9 @@
 
 ## TypeScript 
 
+- [boidushya/solana-adapter-walletconnect](https://github.com/boidushya/solana-adapter-walletconnect) - 
+- [anza-xyz/wallet-adapter](https://github.com/anza-xyz/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
+- [Web3Auth/web3auth-web](https://github.com/Web3Auth/web3auth-web) - Simple infrastructure that enables Web3 wallets and applications to provide seamless user logins for both mainstream and Web3.0 users.
 - [wvbe/docxml](https://github.com/wvbe/docxml) - TypeScript (component) library for building and parsing a DOCX file
 - [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call
 - [VolodymyrBaydalka/docxjs](https://github.com/VolodymyrBaydalka/docxjs) - Docx rendering library
