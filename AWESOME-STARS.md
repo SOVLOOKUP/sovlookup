@@ -251,6 +251,7 @@
 
 ## HTML 
 
+- [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) - 
 - [molian-Z/OmniMagicCube](https://github.com/molian-Z/OmniMagicCube) - OmniMagicCube是一个基于Vue3的可视化框架，它支持全部的Vue3组件库包括自己开发的组件，它为我们带来了全新的组件支持能力。以及高效的页面开发
 - [v03413/bepusdt](https://github.com/v03413/bepusdt) - 一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker一键部署；支持独角发卡 易支付 异次元发卡
 - [cluster-labs/horizon](https://github.com/cluster-labs/horizon) - A Dashboard to manage and monitor IPFS Cluster
@@ -965,6 +966,7 @@
 
 ## TypeScript 
 
+- [WindrunnerMax/DocEditor](https://github.com/WindrunnerMax/DocEditor) - 文档编辑器
 - [boidushya/solana-adapter-walletconnect](https://github.com/boidushya/solana-adapter-walletconnect) - 
 - [anza-xyz/wallet-adapter](https://github.com/anza-xyz/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
 - [Web3Auth/web3auth-web](https://github.com/Web3Auth/web3auth-web) - Simple infrastructure that enables Web3 wallets and applications to provide seamless user logins for both mainstream and Web3.0 users.
