@@ -65,6 +65,7 @@
 
 ## C++ 
 
+- [joeferner/node-java](https://github.com/joeferner/node-java) - Bridge API to connect with existing Java APIs.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [dacap/clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [primihub/primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
