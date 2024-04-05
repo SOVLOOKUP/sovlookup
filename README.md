@@ -140,11 +140,11 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         15 hrs 2 mins   ██████████████░░░░░░░░░░░   56.02 %
-Java         4 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-XML          3 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-TypeScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-JavaScript   1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Rust         15 hrs 3 mins   ██████████████░░░░░░░░░░░   55.68 %
+Java         4 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+XML          3 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+TypeScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JavaScript   1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
