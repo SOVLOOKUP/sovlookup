@@ -369,7 +369,6 @@
 - [kirillmurashov/vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - Vue2 && Vue3 Component for resize and drag elements
 - [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5
 - [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [stormseed/daykeep-calendar-quasar](https://github.com/stormseed/daykeep-calendar-quasar) - A full event display calendar for the Quasar framework that has multiple viewing formats.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
@@ -1150,6 +1149,7 @@
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 🍍 Configurable persistence and rehydration of Pinia stores.
 - [posva/pinia-plugin-debounce](https://github.com/posva/pinia-plugin-debounce) - Config-based action debouncing made easy
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [js-sdsl/js-sdsl](https://github.com/js-sdsl/js-sdsl) - A javascript standard data structure library which benchmark against C++ STL.
 - [Stun3R/strapi-sdk-js](https://github.com/Stun3R/strapi-sdk-js) - 📦 Javascript SDK for your Strapi API
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
