@@ -793,6 +793,7 @@
 
 ## Rust 
 
+- [serialport/serialport-rs](https://github.com/serialport/serialport-rs) - A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.
 - [not-fl3/nanoserde](https://github.com/not-fl3/nanoserde) - Serialisation library with zero dependencies
 - [astonbitecode/j4rs](https://github.com/astonbitecode/j4rs) - Java for Rust
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
@@ -973,6 +974,8 @@
 
 ## TypeScript 
 
+- [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
+- [seeksdream/relation-graph](https://github.com/seeksdream/relation-graph) - relation-graph is a relationship graph display component that supports Vue2, Vue3, React. Allowing you to fully customize the graphical elements using HTML/CSS and Vue or React components through slot
 - [tus/tus-node-server](https://github.com/tus/tus-node-server) - Node.js tus server, standalone or integrable in any framework, with disk, S3, and GGC stores.
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
