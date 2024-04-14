@@ -1018,7 +1018,7 @@
 - [WeBankFinTech/KoalaForm](https://github.com/WeBankFinTech/KoalaForm) - 中后台前端低代码表单
 - [Saul-Mirone/prosemirror-adapter](https://github.com/Saul-Mirone/prosemirror-adapter) - Universal adapter to create prosemirror nodeview from modern UI frameworks.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。（v10 版本已发布）
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。
 - [xdan/jodit](https://github.com/xdan/jodit) - Jodit - Best WYSIWYG Editor for You
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [textbus/textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
