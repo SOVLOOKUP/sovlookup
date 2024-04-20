@@ -140,11 +140,11 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    3 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.49 %
-Vue.js        2 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
-JSON          45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Git Config    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-HTML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript    4 hrs 13 mins   ████████████▓░░░░░░░░░░░░   50.87 %
+Vue.js        2 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   35.39 %
+JSON          53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Git Config    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+HTML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
