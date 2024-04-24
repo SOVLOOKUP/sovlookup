@@ -778,7 +778,7 @@
 - [holgi/fastapi-permissions](https://github.com/holgi/fastapi-permissions) - row level security for FastAPI framework
 - [identixone/fastapi_contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities on top of FastAPI
 - [MushroomMaula/fastapi_login](https://github.com/MushroomMaula/fastapi_login) - FastAPI-Login tries to provide similar functionality as Flask-Login does.
-- [autogluon/autogluon](https://github.com/autogluon/autogluon) - AutoGluon: Fast and Accurate ML in 3 Lines of Code
+- [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [nghuyong/WeiboSpider](https://github.com/nghuyong/WeiboSpider) - 持续维护的新浪微博采集工具🚀🚀🚀
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1047,7 +1047,7 @@
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - 🚦Provide autocompletion and typecheck to Nuxt router
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
 - [Javen205/TNWX](https://github.com/Javen205/TNWX) - TNWX: TypeScript + Node.js + WeiXin 微信系开发脚手架，支持微信公众号、微信支付、微信小游戏、微信小程序、企业微信/企业号。最最最重要的是能快速的集成至任何 Node.js 框架(Express、Nest、Egg、Koa 等)
 - [klover2/wechatpay-node-v3-ts](https://github.com/klover2/wechatpay-node-v3-ts) - 微信支付v3
