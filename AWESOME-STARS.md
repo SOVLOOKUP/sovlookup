@@ -980,6 +980,7 @@
 
 ## TypeScript 
 
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [slikts/queueable](https://github.com/slikts/queueable) - Convert streams to async ⌛ iterables ➰
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [hcg1023/vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React Dnd implementation in Vue Composition-api.
