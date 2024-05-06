@@ -578,6 +578,7 @@
 
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
+- [alibaba-damo-academy/FunClip](https://github.com/alibaba-damo-academy/FunClip) - A video clipping tool based on FunASR open-source models and Gradio || 一款基于FunASR高准确率开源语音识别模型的智能视频剪辑工具
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
@@ -799,6 +800,7 @@
 
 ## Rust 
 
+- [rust-num/num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
 - [igumnoff/shiva](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type
 - [serialport/serialport-rs](https://github.com/serialport/serialport-rs) - A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.
 - [not-fl3/nanoserde](https://github.com/not-fl3/nanoserde) - Serialisation library with zero dependencies
@@ -953,7 +955,6 @@
 
 ## Shell 
 
-- [alibaba-damo-academy/FunClip](https://github.com/alibaba-damo-academy/FunClip) - A video clipping tool based on FunASR open-source models and Gradio || 一款基于FunASR高准确率开源语音识别模型的智能视频剪辑工具
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
@@ -1350,7 +1351,7 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
-- [0604hx/grid-form](https://github.com/0604hx/grid-form) - 格子表单：基于 GRID 布局的简单表单工具（包含可视化设计器、渲染器），默认组件库为 Naive UI，同时支持 element-plus、vant4 渲染
+- [0604hx/grid-form](https://github.com/0604hx/grid-form) - 格子表单：基于 GRID 布局的简单表单工具（包含可视化设计器、渲染器），默认组件库为 Naive UI，同时支持 element-plus、vant4、Varlet3 渲染
 - [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 一款开源简历设计生成器，内置两款设计器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
