@@ -155,7 +155,7 @@
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [pkujhd/goloader](https://github.com/pkujhd/goloader) - load and run golang code at runtime.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [qfdk/uranus](https://github.com/qfdk/uranus) - A nginx web manager UI
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
 - [ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm
@@ -1220,7 +1220,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [apptools-lab/AppToolkit](https://github.com/apptools-lab/AppToolkit) - 🐘 The Front-end Env Toolkit（前端环境管理工具）
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [Q42/openapi-typescript-validator](https://github.com/Q42/openapi-typescript-validator) - Generate typescript with ajv validation based on openapi schemas
