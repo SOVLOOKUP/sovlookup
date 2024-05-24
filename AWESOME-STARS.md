@@ -1225,7 +1225,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
-- [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
+- [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
