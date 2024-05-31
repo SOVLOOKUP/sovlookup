@@ -50,7 +50,7 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
         <img src="https://avatars2.githubusercontent.com/u/21073039" width="100px;" alt="muwoo"/>
       </a>
       <br />
-      <a href="https://github.com/muwoo">木偶</a>
+      <a href="https://github.com/muwoo">muwoo</a>
     </td>
     <td align="center">
       <a href="https://github.com/johndpope">
