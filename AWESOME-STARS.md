@@ -1147,7 +1147,7 @@
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [OwnStoreOrg/ownstore-website](https://github.com/OwnStoreOrg/ownstore-website) - The official web app of OwnStore suite.
-- [sleeyax/asarmor](https://github.com/sleeyax/asarmor) - Protect asar files from extraction
+- [sleeyax/asarmor](https://github.com/sleeyax/asarmor) - Protect asar archive files from extraction
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
@@ -1334,7 +1334,7 @@
 - [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [antvis/Graphin](https://github.com/antvis/Graphin) - A React toolkit for graph visualization based on G6
+- [antvis/Graphin](https://github.com/antvis/Graphin) - 🌌 A React toolkit for graph visualization based on G6.
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
