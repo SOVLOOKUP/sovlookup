@@ -125,11 +125,11 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/baifengbai">Bai Feng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jaimemh">
-        <img src="https://avatars2.githubusercontent.com/u/35988159" width="100px;" alt="jaimemh"/>
+      <a href="https://github.com/ShaoQiBNU">
+        <img src="https://avatars2.githubusercontent.com/u/37075909" width="100px;" alt="ShaoQiBNU"/>
       </a>
       <br />
-      <a href="https://github.com/jaimemh">Jaime Morgan Hitchcock</a>
+      <a href="https://github.com/ShaoQiBNU">ShaoQiBNU</a>
     </td>
   </tr>
 </table>
