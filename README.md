@@ -140,8 +140,7 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile   22 mins         ████████████████████████░   96.30 %
-JSON        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+PowerShell   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
