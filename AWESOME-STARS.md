@@ -804,6 +804,7 @@
 
 ## Rust 
 
+- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast) - Async broadcast channels
 - [CrossCopy/tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - A Tauri clipboard plugin with text, files, html, RTF, and image support. Clipboard content update monitoring is also supported.
 - [helmerapp/scap](https://github.com/helmerapp/scap) - High-performance, cross-platform screen capture library in Rust.
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
@@ -994,6 +995,7 @@
 
 ## TypeScript 
 
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [wolf-table/table](https://github.com/wolf-table/table) - A web-based(canvas) JavaScript Table
 - [tans/uka](https://github.com/tans/uka) - USDT发卡系统
