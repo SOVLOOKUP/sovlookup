@@ -578,6 +578,7 @@
 
 ## Python 
 
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - An Open-sourced Knowledgable Large Language Model Framework.
 - [kanadeblisst00/wechat_ocr](https://github.com/kanadeblisst00/wechat_ocr) - 使用Python调用微信本地ocr服务
 - [sarthakrastogi/graph-rag](https://github.com/sarthakrastogi/graph-rag) - 
@@ -585,7 +586,7 @@
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
-- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
@@ -671,7 +672,6 @@
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 - [cnschema/cnSchema](https://github.com/cnschema/cnSchema) - 开放中文知识图谱的schema
 - [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher) - Text Content Grapher based on keyinfo extraction by NLP method。输入一篇文档，将文档进行关键信息提取，进行结构化，并最终组织成图谱组织形式，形成对文章语义信息的图谱化展示。
@@ -809,6 +809,7 @@
 
 ## Rust 
 
+- [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
 - [enarx/ciborium](https://github.com/enarx/ciborium) - CBOR utilities
 - [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast) - Async broadcast channels
@@ -1024,7 +1025,7 @@
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
 - [fast-crud/fast-crud](https://github.com/fast-crud/fast-crud) - 面向配置的crud框架，开发crud 快如闪电，超级表格；Options-oriented crud framework,  develop crud as fast as lightning；based on vue3；super table
 - [WindrunnerMax/DocEditor](https://github.com/WindrunnerMax/DocEditor) - 文档编辑器
-- [boidushya/solana-adapter-walletconnect](https://github.com/boidushya/solana-adapter-walletconnect) - 
+- [boidushya/solana-adapter-walletconnect](https://github.com/boidushya/solana-adapter-walletconnect) - Demo for solana adapter w/ WalletConnect
 - [anza-xyz/wallet-adapter](https://github.com/anza-xyz/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
 - [Web3Auth/web3auth-web](https://github.com/Web3Auth/web3auth-web) - Simple infrastructure that enables Web3 wallets and applications to provide seamless user logins for both mainstream and Web3.0 users.
 - [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
@@ -1075,7 +1076,7 @@
 - [volverjs/form-vue](https://github.com/volverjs/form-vue) - Vue 3 forms made simple with @volverjs/ui-vue and Zod.
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [wobsoriano/trpc-nuxt-subscriptions-demo](https://github.com/wobsoriano/trpc-nuxt-subscriptions-demo) - tRPC Nuxt + Websocket/Subscriptions Demo
-- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size!  Web Components with JSX. （Web Components 构建工具，4kb！）
+- [hellof2e/quark-core](https://github.com/hellof2e/quark-core) - Fast 4Kb size!  Web Components with JSX. （Web Components 构建工具，4kb！构建跨技术栈组件）
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [mablay/rpc-async](https://github.com/mablay/rpc-async) - Augments async communication with RPC functionality (ws, udpSocket, ipc, ...)
 - [udamir/wsapix](https://github.com/udamir/wsapix) - Next generation Websocket framework for nodejs
@@ -1242,6 +1243,7 @@
 - [antvis/XFlow](https://github.com/antvis/XFlow) - React component for building interactive diagrams.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
