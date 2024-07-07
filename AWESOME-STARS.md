@@ -578,6 +578,7 @@
 
 ## Python 
 
+- [Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker) - Digital Avatar Conversational System - Linly-Talker. 😄✨ Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction me
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - An Open-sourced Knowledgable Large Language Model Framework.
 - [kanadeblisst00/wechat_ocr](https://github.com/kanadeblisst00/wechat_ocr) - 使用Python调用微信本地ocr服务
