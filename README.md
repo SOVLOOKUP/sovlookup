@@ -67,12 +67,21 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/wangrongding">荣顶</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Kos-M">
+        <img src="https://avatars2.githubusercontent.com/u/46938390" width="100px;" alt="Kos-M"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kos-M">Kostas</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/linonetwo">
         <img src="https://avatars2.githubusercontent.com/u/3746270" width="100px;" alt="linonetwo"/>
       </a>
       <br />
       <a href="https://github.com/linonetwo">lin onetwo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/chenbimo">
         <img src="https://avatars2.githubusercontent.com/u/33003566" width="100px;" alt="chenbimo"/>
@@ -80,8 +89,6 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <br />
       <a href="https://github.com/chenbimo">陈随易</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/thomas-yanxin">
         <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
@@ -123,13 +130,6 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       </a>
       <br />
       <a href="https://github.com/noahehall">noah edward hall</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ShaoQiBNU">
-        <img src="https://avatars2.githubusercontent.com/u/37075909" width="100px;" alt="ShaoQiBNU"/>
-      </a>
-      <br />
-      <a href="https://github.com/ShaoQiBNU">ShaoQiBNU</a>
     </td>
   </tr>
 </table>
