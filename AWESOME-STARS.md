@@ -1007,6 +1007,8 @@
 
 ## TypeScript 
 
+- [lighthouse-web3/encryption-sdk](https://github.com/lighthouse-web3/encryption-sdk) - Build your trustless, decentralized and fault tolerant Applications using distributed key shards with threshold cryptography
+- [lighthouse-web3/lighthouse-package](https://github.com/lighthouse-web3/lighthouse-package) - cli tool and npm package for interacting with lighthouse
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [gizmo-ds/afdian-connect](https://github.com/gizmo-ds/afdian-connect) - 一些爱发电缺少的功能
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
