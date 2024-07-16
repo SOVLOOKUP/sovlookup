@@ -135,7 +135,7 @@
 
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [v03413/bepusdt](https://github.com/v03413/bepusdt) - 一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker一键部署；支持独角发卡 易支付 异次元发卡
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management system with passkey superpowers
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management system optimized for passkeys
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
@@ -495,6 +495,7 @@
 
 ## Jupyter Notebook 
 
+- [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
@@ -813,6 +814,9 @@
 
 ## Rust 
 
+- [ceramicnetwork/rust-ceramic](https://github.com/ceramicnetwork/rust-ceramic) - Implementation of the Ceramic protocol in Rust
+- [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
+- [crustio/crust](https://github.com/crustio/crust) - Official Rust implementation of the Crust protocol
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
 - [enarx/ciborium](https://github.com/enarx/ciborium) - CBOR utilities
@@ -1008,6 +1012,16 @@
 
 ## TypeScript 
 
+- [LIT-Protocol/js-sdk](https://github.com/LIT-Protocol/js-sdk) - The Lit Protocol SDK provides developers with a framework for implementing Lit functionality into their own applications.
+- [indexnetwork/index](https://github.com/indexnetwork/index) - Discovery Protocol
+- [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - Realtime database, runs anywhere. Install Fireproof in your front-end app or edge function, and sync data via any backend.
+- [aarontravass/Athena](https://github.com/aarontravass/Athena) - 🌿 an open source, distributed, blockchain based storage system for healthcare providers
+- [piedar/js-ipfs-mount](https://github.com/piedar/js-ipfs-mount) - mount /ipfs /mfs
+- [ipfs/service-worker-gateway](https://github.com/ipfs/service-worker-gateway) - [WIP EXPERIMENT] IPFS Gateway implemented in Service Worker
+- [ipfs/js-ipfs-unixfs](https://github.com/ipfs/js-ipfs-unixfs) - JavaScript implementation of IPFS' unixfs (a Unix FileSystem representation on top of a MerkleDAG)
+- [ipfs-shipyard/is-ipfs](https://github.com/ipfs-shipyard/is-ipfs) - A set of utilities to help identify IPFS resources on the web
+- [ipfs/js-ipfsd-ctl](https://github.com/ipfs/js-ipfsd-ctl) - Control an IPFS daemon (go-ipfs or js-ipfs) using JavaScript!
+- [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动G
 - [lighthouse-web3/encryption-sdk](https://github.com/lighthouse-web3/encryption-sdk) - Build your trustless, decentralized and fault tolerant Applications using distributed key shards with threshold cryptography
 - [lighthouse-web3/lighthouse-package](https://github.com/lighthouse-web3/lighthouse-package) - cli tool and npm package for interacting with lighthouse
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
