@@ -583,6 +583,7 @@
 
 ## Python 
 
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [sutro-planet/easyvideotrans](https://github.com/sutro-planet/easyvideotrans) - Easyvideotrans后端。 https://easyvideotrans.com/
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
@@ -639,7 +640,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [GAMEOMETRICS/VisualGraph-python](https://github.com/GAMEOMETRICS/VisualGraph-python) - 
 - [robertsdotpm/p2pd](https://github.com/robertsdotpm/p2pd) - Asynchronous P2P networking library and service
-- [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证框架，你的工作从未如此简单快捷。
+- [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证框架，你的工作从未如此简单快捷。
 - [readmagic/loveStudy](https://github.com/readmagic/loveStudy) - 爱学习,爱上进,不同于其他xxqg刷题软件的一款自动刷题工具。
 - [mizhexiaoxiao/WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) - 😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能
 - [hchhtc123/PP-Tracking_GUi](https://github.com/hchhtc123/PP-Tracking_GUi) - 基于飞桨开源的实时跟踪系统PP-Tracking开发的可视化界面，覆盖车辆行人跟踪、多类别跟踪、流量统计等功能，适用于智慧交通、安防监控等场景。
