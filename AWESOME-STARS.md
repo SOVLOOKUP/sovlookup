@@ -296,6 +296,7 @@
 
 ## JavaScript 
 
+- [mattrossman/breathing-dots-tutorial](https://github.com/mattrossman/breathing-dots-tutorial) - Learn how to use instanced rendering and post-processing techniques to recreate a hypnotic animation with react-three-fiber.
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -615,7 +616,7 @@
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforming Llama2-13B.
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [shibing624/text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
@@ -1037,6 +1038,8 @@
 
 ## TypeScript 
 
+- [d3adrabbit/origami](https://github.com/d3adrabbit/origami) - Free 3D Motion Graphics
+- [tkey/tkey](https://github.com/tkey/tkey) - Whitelabel, design and own the full UI/UX with Self-host Web3Auth (tKey). All of the power of threshold key management at your fingertips
 - [torusresearch/CustomAuth](https://github.com/torusresearch/CustomAuth) - Tools that allow applications to interact with the Torus Network. For integration, look at docs.web3auth.io
 - [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Convert javaScript code to be runtime agnostic
 - [unjs/nanotar](https://github.com/unjs/nanotar) - 📼  Tiny and fast tar utils for any JavaScript runtime!
