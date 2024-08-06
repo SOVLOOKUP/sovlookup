@@ -39,18 +39,18 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/chrislusf">Chris Lu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rc-chuah">
-        <img src="https://avatars2.githubusercontent.com/u/44928288" width="100px;" alt="rc-chuah"/>
-      </a>
-      <br />
-      <a href="https://github.com/rc-chuah">RC Chuah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/eust-w">
         <img src="https://avatars2.githubusercontent.com/u/39115651" width="100px;" alt="eust-w"/>
       </a>
       <br />
       <a href="https://github.com/eust-w">longtao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rc-chuah">
+        <img src="https://avatars2.githubusercontent.com/u/44928288" width="100px;" alt="rc-chuah"/>
+      </a>
+      <br />
+      <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
     <td align="center">
       <a href="https://github.com/muwoo">
