@@ -137,7 +137,7 @@
 
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [v03413/bepusdt](https://github.com/v03413/bepusdt) - 一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker一键部署；支持独角发卡 易支付 异次元发卡
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management system optimized for passkeys
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
@@ -1391,7 +1391,7 @@
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
-- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) - 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。A flow chart editing framework focusing on business customization.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [RienNeVaPlus/type-arango](https://github.com/RienNeVaPlus/type-arango) - 🥑 TypeArango manages ArangoDB collections, documents, relations and routes by taking advantage of TypeScript typings.
 - [neo4j-contrib/neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
