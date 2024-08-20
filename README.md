@@ -46,18 +46,18 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/johndpope">
-        <img src="https://avatars2.githubusercontent.com/u/289994" width="100px;" alt="johndpope"/>
-      </a>
-      <br />
-      <a href="https://github.com/johndpope">John D. Pope</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/muwoo">
         <img src="https://avatars2.githubusercontent.com/u/21073039" width="100px;" alt="muwoo"/>
       </a>
       <br />
       <a href="https://github.com/muwoo">muwoo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/johndpope">
+        <img src="https://avatars2.githubusercontent.com/u/289994" width="100px;" alt="johndpope"/>
+      </a>
+      <br />
+      <a href="https://github.com/johndpope">John D. Pope</a>
     </td>
     <td align="center">
       <a href="https://github.com/wangrongding">
