@@ -59,6 +59,7 @@
 
 ## C# # 
 
+- [flytkgl/PDFQFZ](https://github.com/flytkgl/PDFQFZ) - PDF加盖骑缝章的小工具
 - [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [microsoft/SmartKG](https://github.com/microsoft/SmartKG) - This project accepts excel files as input which contains the description of a Knowledge Graph (Vertexes and Edges) and convert it into an in-memory Graph Store. This project implements APIs to search/
