@@ -98,6 +98,7 @@
 
 ## CSS 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
@@ -1063,7 +1064,7 @@
 - [ipfs/js-ipfs-unixfs](https://github.com/ipfs/js-ipfs-unixfs) - JavaScript implementation of IPFS' unixfs (a Unix FileSystem representation on top of a MerkleDAG)
 - [ipfs-shipyard/is-ipfs](https://github.com/ipfs-shipyard/is-ipfs) - A set of utilities to help identify IPFS resources on the web
 - [ipfs/js-ipfsd-ctl](https://github.com/ipfs/js-ipfsd-ctl) - Control an IPFS daemon (go-ipfs or js-ipfs) using JavaScript!
-- [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动G
+- [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 Ti
 - [lighthouse-web3/encryption-sdk](https://github.com/lighthouse-web3/encryption-sdk) - Build your trustless, decentralized and fault tolerant Applications using distributed key shards with threshold cryptography
 - [lighthouse-web3/lighthouse-package](https://github.com/lighthouse-web3/lighthouse-package) - cli tool and npm package for interacting with lighthouse
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
