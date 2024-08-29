@@ -1278,7 +1278,7 @@
 - [IDuxFE/idux](https://github.com/IDuxFE/idux) - 🚀 A UI Component Library for Vue3.x
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [aeroheim/midori](https://github.com/aeroheim/midori) - library for animated image backgrounds
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 The coding tools which is visual code editing, auxiliary and Low-code metaprogramming for R&D
 - [MrXujiang/xijs](https://github.com/MrXujiang/xijs) - A business - oriented scene Js Library
