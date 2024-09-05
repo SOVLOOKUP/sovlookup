@@ -289,7 +289,6 @@
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [rememberber/WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
-- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
@@ -318,7 +317,7 @@
 - [zhuweiyou/yiyan-api](https://github.com/zhuweiyou/yiyan-api) - 封装百度文心一言网页版 API
 - [LoseNine/Crack-JS-Spider](https://github.com/LoseNine/Crack-JS-Spider) - JS破解逆向，破解JS反爬虫加密参数，已破解极验滑块w（2022.2.19），QQ音乐sign（2022.2.13），拼多多anti_content，boss直聘zp_token，知乎x-zse-96，酷狗kg_mid/dfid，唯品会mars_cid，中国裁判文书网（2020-06-30更新），淘宝密码，天安保险登录，b站登录，房天下登录，WPS登录，微博登录，有道翻译，网易登录，微信公众号登录
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
-- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
@@ -592,7 +591,7 @@
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [sutro-planet/easyvideotrans](https://github.com/sutro-planet/easyvideotrans) - Easyvideotrans后端。 https://easyvideotrans.com/
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [TheAiSingularity/graphrag-local-ollama](https://github.com/TheAiSingularity/graphrag-local-ollama) - Local models support for Microsoft's graphrag using ollama (llama3, mistral, gemma2 phi3)- LLM & Embedding extraction
@@ -617,7 +616,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforming Llama2-13B.
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [shibing624/text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
@@ -934,6 +933,7 @@
 - [Michael-F-Bryan/include_dir](https://github.com/Michael-F-Bryan/include_dir) - The logical evolution of the include_str macro for embedding a directory tree into your binary.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
 - [cosmic-initiative/cosmic-initiative](https://github.com/cosmic-initiative/cosmic-initiative) - Starlane makes it easy to deploy and interoperate with secure WebAssembly code in the cloud, the edge, desktop, mobile and IoT environments.
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [facebookresearch/dachshund](https://github.com/facebookresearch/dachshund) - Dachshund is a graph mining library written in Rust. It provides high performance data structures for multiple kinds of graphs, from simple undirected graphs to typed hypergraphs. Dachshund also provi
@@ -1332,7 +1332,7 @@
 - [casbin/node-casbin](https://github.com/casbin/node-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser
 - [pubkey/jsonschema-key-compression](https://github.com/pubkey/jsonschema-key-compression) - Compress json-data based on its json-schema while still having valid json
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
@@ -1411,7 +1411,7 @@
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv) - ⚛️ Polished Gatsby theme for documentation site
