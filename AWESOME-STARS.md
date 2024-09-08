@@ -1041,6 +1041,7 @@
 
 ## TypeScript 
 
+- [Digital39999/ts-prisma](https://github.com/Digital39999/ts-prisma) - TypeScript utility package that simplifies working with Prisma.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [galacean/engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
 - [opentiny/fluent-editor](https://github.com/opentiny/fluent-editor) - Fluent Editor is a rich text editor based on Quill 2.0, which extends rich modules and formats on the basis of Quill. It is powerful and out-of-the-box. Fluent Editor 是一个基于 Quill 2.0 的富文本编辑器，在 Quill 基
