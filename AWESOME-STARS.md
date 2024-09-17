@@ -1104,7 +1104,7 @@
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [repeaterjs/repeater](https://github.com/repeaterjs/repeater) - The missing constructor for creating safe async iterators
 - [wobsoriano/vue-driver](https://github.com/wobsoriano/vue-driver) - Drive the user's focus across the page.
-- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+- [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [Vanilla-IceCream/fastify-uws](https://github.com/Vanilla-IceCream/fastify-uws) - A performant HTTP and WebSocket server for Fastify with uWebSockets.
 - [dLwuren/source-core](https://github.com/dLwuren/source-core) - 一款 Windows 平台下的效率工具，以「可视化编程」的方式创建自动化任务。
