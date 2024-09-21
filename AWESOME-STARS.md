@@ -45,6 +45,7 @@
 
 ## C 
 
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [openziti/ziti-sdk-nodejs](https://github.com/openziti/ziti-sdk-nodejs) - An SDK for embedding zero trust into Node.JS applications and web servers to improve security.
 - [hurdlegroup/robotjs](https://github.com/hurdlegroup/robotjs) - Node.js Desktop Automation.
 - [SnosMe/uiohook-napi](https://github.com/SnosMe/uiohook-napi) - 
@@ -300,7 +301,7 @@
 - [shovelers/helia-wnfs](https://github.com/shovelers/helia-wnfs) - 
 - [mattrossman/breathing-dots-tutorial](https://github.com/mattrossman/breathing-dots-tutorial) - Learn how to use instanced rendering and post-processing techniques to recreate a hypnotic animation with react-three-fiber.
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [timdown/rangy](https://github.com/timdown/rangy) - A cross-browser JavaScript range and selection library.
@@ -816,7 +817,7 @@
 - [MushroomMaula/fastapi_login](https://github.com/MushroomMaula/fastapi_login) - FastAPI-Login tries to provide similar functionality as Flask-Login does.
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [nghuyong/WeiboSpider](https://github.com/nghuyong/WeiboSpider) - 持续维护的新浪微博采集工具🚀🚀🚀
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
