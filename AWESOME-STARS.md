@@ -90,7 +90,7 @@
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [branchseer/DeskGap](https://github.com/branchseer/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [sentialx/extract-file-icon](https://github.com/sentialx/extract-file-icon) - Get associated file icon
 - [km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记
@@ -141,7 +141,7 @@
 - [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [v03413/bepusdt](https://github.com/v03413/bepusdt) - 一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker一键部署；支持独角发卡 易支付 异次元发卡
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Passwordless-First Authentication APIs & Embeddable UI Components. Convert Your Visitors into Users.
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
@@ -965,7 +965,7 @@
 - [HiRoFa/GreenCopperRuntime](https://github.com/HiRoFa/GreenCopperRuntime) - Javascript runtime library built in rust which can be used with quickjs
 - [driftluo/tentacle](https://github.com/driftluo/tentacle) - A multiplexed p2p network framework that supports custom protocols
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
-- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
+- [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and simulating inputs
