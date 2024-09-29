@@ -852,7 +852,7 @@
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
 - [ipvm-wg/homestar](https://github.com/ipvm-wg/homestar) - Homestar is the individual node that makes up the Everywhere Computer network (similar to how IPFS Kubo, Iroh, Nabu, or other implementation nodes make up the IPFS network). It's written in Rust and i
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
-- [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) - BlockMesh, is an innovative, open and secure network that allows you to easily monetize your excess bandwidth. Giving you a great opportunity to passively profit and participate in the frontline of AI
+- [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) - 
 - [rust-num/num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
 - [igumnoff/shiva](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type
 - [serialport/serialport-rs](https://github.com/serialport/serialport-rs) - A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.
