@@ -83,18 +83,18 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/thomas-yanxin">
-        <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
-      </a>
-      <br />
-      <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wuchunfu">
         <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
       </a>
       <br />
       <a href="https://github.com/wuchunfu">ChunFuWu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thomas-yanxin">
+        <img src="https://avatars2.githubusercontent.com/u/58030051" width="100px;" alt="thomas-yanxin"/>
+      </a>
+      <br />
+      <a href="https://github.com/thomas-yanxin">thomas-yanxin</a>
     </td>
     <td align="center">
       <a href="https://github.com/StevenJokess">
