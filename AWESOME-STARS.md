@@ -308,7 +308,7 @@
 - [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx,.xls)、pdf等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word preview library
 - [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report
 - [vv314/actions-mtz-coupons](https://github.com/vv314/actions-mtz-coupons) - 以自动化的方式领取外卖红包。
-- [askorama/seqproto](https://github.com/askorama/seqproto) - Extremely fast, compact, binary serialization/deserialization for your structured data
+- [oramasearch/seqproto](https://github.com/oramasearch/seqproto) - Extremely fast, compact, binary serialization/deserialization for your structured data
 - [zyqwst/json-schema-editor-vue](https://github.com/zyqwst/json-schema-editor-vue) - A json-schema editor of high efficient and easy-to-use, base on Vue
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -829,6 +829,8 @@
 
 ## Rust 
 
+- [VoidField101/TCP-V-Serial](https://github.com/VoidField101/TCP-V-Serial) - Virtual Serial Port (via USB-IP) to TCP Socket
+- [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server
 - [zhengkyl/fuqr](https://github.com/zhengkyl/fuqr) - qr code generator
 - [ChurchTao/clipboard-rs](https://github.com/ChurchTao/clipboard-rs) - Cross-platform clipboard API (text | image | rich text | html | files | monitoring changes) | 跨平台剪贴板 API(文本|图片|富文本|html|文件|监听变化) Windows,MacOS,Linux
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
@@ -1177,7 +1179,7 @@
 - [filecoin-station/desktop](https://github.com/filecoin-station/desktop) - Station is a visionary desktop app that connects your computer’s idle resources to the Filecoin network and rewards you with FIL. Taking part is simple, just launch the app and start earning.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [antvis/G6VP](https://github.com/antvis/G6VP) - G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [StarlaneStudios/cirql](https://github.com/StarlaneStudios/cirql) - 🔧 A flexible SurrealDB ORM & query builder with Zod powered validation 🏋️‍♂️
