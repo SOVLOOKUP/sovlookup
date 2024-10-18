@@ -300,7 +300,7 @@
 - [mattrossman/breathing-dots-tutorial](https://github.com/mattrossman/breathing-dots-tutorial) - Learn how to use instanced rendering and post-processing techniques to recreate a hypnotic animation with react-three-fiber.
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [timdown/rangy](https://github.com/timdown/rangy) - A cross-browser JavaScript range and selection library.
 - [HuolalaTech/word-to-vue](https://github.com/HuolalaTech/word-to-vue) - A tool that converts Word documents into Vue template.
@@ -829,6 +829,7 @@
 
 ## Rust 
 
+- [ShadowBlip/virtual-usb-rs](https://github.com/ShadowBlip/virtual-usb-rs) - 
 - [VoidField101/TCP-V-Serial](https://github.com/VoidField101/TCP-V-Serial) - Virtual Serial Port (via USB-IP) to TCP Socket
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server
 - [zhengkyl/fuqr](https://github.com/zhengkyl/fuqr) - qr code generator
