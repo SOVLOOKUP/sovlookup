@@ -1043,6 +1043,9 @@
 
 ## TypeScript 
 
+- [keno-lee/vue-virt-list](https://github.com/keno-lee/vue-virt-list) - 【持续更新中】⚡️ 一个支持vue2&vue3的高性能虚拟(滚动)列表组件 👉🏻 轻量5KB 百万数据渲染 满帧率滚动 丰富场景支持  📑 [vue虚拟列表] [vue虚拟滚动列表][vue虚拟树] [vue-virtual-list] [vue-virtual-scroll-list] [vue-virtual-scroller] [vue-virt-tree]
+- [Mini-ghost/vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validation with Composition API
+- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
 - [Digital39999/ts-prisma](https://github.com/Digital39999/ts-prisma) - TypeScript utility package that simplifies working with Prisma.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [galacean/engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
@@ -1313,7 +1316,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [antvis/XFlow](https://github.com/antvis/XFlow) - React component for building interactive diagrams.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
@@ -1447,6 +1450,7 @@
 
 ## Vue 
 
+- [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [EasyTier/EasyLink](https://github.com/EasyTier/EasyLink) - GUI Implementation of Easytier
 - [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
 - [molian-Z/OmniMagicCube](https://github.com/molian-Z/OmniMagicCube) - OmniMagicCube是一个基于Vue3的可视化框架，它支持全部的Vue3组件库包括自己开发的组件，它为我们带来了全新的组件支持能力。以及高效的页面开发
