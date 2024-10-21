@@ -306,7 +306,7 @@
 - [timdown/rangy](https://github.com/timdown/rangy) - A cross-browser JavaScript range and selection library.
 - [HuolalaTech/word-to-vue](https://github.com/HuolalaTech/word-to-vue) - A tool that converts Word documents into Vue template.
 - [mslosarek/docxtemplater-image-module-free](https://github.com/mslosarek/docxtemplater-image-module-free) - Open Source Image Module for docxtemplater
-- [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx,.xls)、pdf等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word preview library
+- [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
 - [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report
 - [vv314/actions-mtz-coupons](https://github.com/vv314/actions-mtz-coupons) - 以自动化的方式领取外卖红包。
 - [oramasearch/seqproto](https://github.com/oramasearch/seqproto) - Extremely fast, compact, binary serialization/deserialization for your structured data
