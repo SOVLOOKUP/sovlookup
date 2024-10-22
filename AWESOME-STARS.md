@@ -1045,6 +1045,7 @@
 
 ## TypeScript 
 
+- [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 - [keno-lee/vue-virt-list](https://github.com/keno-lee/vue-virt-list) - 【持续更新中】⚡️ 一个支持vue2&vue3的高性能虚拟(滚动)列表组件 👉🏻 轻量5KB 百万数据渲染 满帧率滚动 丰富场景支持  📑 [vue虚拟列表] [vue虚拟滚动列表][vue虚拟树] [vue-virtual-list] [vue-virtual-scroll-list] [vue-virtual-scroller] [vue-virt-tree]
 - [Mini-ghost/vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validation with Composition API
 - [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
@@ -1266,7 +1267,7 @@
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
-- [sst/sst](https://github.com/sst/sst) - SST v2
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [erxes/erxes](https://github.com/erxes/erxes) - Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualtrics alternative
 - [VirtusLab-Open-Source/strapi-plugin-comments](https://github.com/VirtusLab-Open-Source/strapi-plugin-comments) - A plugin for Strapi Headless CMS that provides end to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
