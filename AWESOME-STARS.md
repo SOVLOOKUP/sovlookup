@@ -91,7 +91,7 @@
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
+- [oracle/graaljs](https://github.com/oracle/graaljs) - GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 - [branchseer/DeskGap](https://github.com/branchseer/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [sentialx/extract-file-icon](https://github.com/sentialx/extract-file-icon) - Get associated file icon
 - [km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记
@@ -835,6 +835,7 @@
 
 ## Rust 
 
+- [kixelated/web-transport-rs](https://github.com/kixelated/web-transport-rs) - Rust WebTransport library for native and WASM
 - [ShadowBlip/virtual-usb-rs](https://github.com/ShadowBlip/virtual-usb-rs) - 
 - [VoidField101/TCP-V-Serial](https://github.com/VoidField101/TCP-V-Serial) - Virtual Serial Port (via USB-IP) to TCP Socket
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server
