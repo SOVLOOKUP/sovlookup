@@ -116,6 +116,7 @@
 
 ## Dart 
 
+- [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
 - [fuseio/eth_url_parser](https://github.com/fuseio/eth_url_parser) - Module that supports parsing / parsing of all the different ethereum standard urls
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [openwebf/webf](https://github.com/openwebf/webf) - Build flutter apps with HTML/CSS and JavaScript.
@@ -656,7 +657,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [GAMEOMETRICS/VisualGraph-python](https://github.com/GAMEOMETRICS/VisualGraph-python) - 
 - [robertsdotpm/p2pd](https://github.com/robertsdotpm/p2pd) - Asynchronous P2P networking library and service
-- [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证 ALL-IN-ONE，安卓 RPA 机器人框架，下一代移动端数据自动化机器人。
+- [firerpa/lamda](https://github.com/firerpa/lamda) - 🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。
 - [readmagic/loveStudy](https://github.com/readmagic/loveStudy) - 爱学习,爱上进,不同于其他xxqg刷题软件的一款自动刷题工具。
 - [mizhexiaoxiao/WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) - 😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能
 - [hchhtc123/PP-Tracking_GUi](https://github.com/hchhtc123/PP-Tracking_GUi) - 基于飞桨开源的实时跟踪系统PP-Tracking开发的可视化界面，覆盖车辆行人跟踪、多类别跟踪、流量统计等功能，适用于智慧交通、安防监控等场景。
