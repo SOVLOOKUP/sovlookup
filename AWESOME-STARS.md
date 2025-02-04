@@ -600,6 +600,7 @@
 
 ## Python 
 
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
 - [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 - [HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG) - "MiniRAG: Making RAG Simpler with Small and Free Language Models"
 - [VisionXLab/mllm-mmrotate](https://github.com/VisionXLab/mllm-mmrotate) - A Simple Aerial Detection Baseline of Multimodal Language Models.
