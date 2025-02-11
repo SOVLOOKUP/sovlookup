@@ -266,6 +266,7 @@
 ## HTML 
 
 - [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) - 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [cluster-labs/horizon](https://github.com/cluster-labs/horizon) - A Dashboard to manage and monitor IPFS Cluster
@@ -304,6 +305,7 @@
 
 ## JavaScript 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [zacharyreese/DualQRCode](https://github.com/zacharyreese/DualQRCode) - Two different URLs in one QR code
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [DePayFi/web3-payments](https://github.com/DePayFi/web3-payments) - 💸 JavaScript library to scan crypto wallets for liquefiable assets and perform cost-effective, auto-converted payments onchain.
@@ -515,6 +517,7 @@
 
 ## Jupyter Notebook 
 
+- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
@@ -615,7 +618,6 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [Jacob-Zhou/simple-csc](https://github.com/Jacob-Zhou/simple-csc) - This repository provides an implementation of the paper "A Simple yet Effective Training-free Prompt-free Approach to Chinese Spelling Correction Based on Large Language Models".
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -1089,7 +1091,8 @@
 
 ## TypeScript 
 
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+- [rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui) - RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology.
 - [garden-co/jazz](https://github.com/garden-co/jazz) - Build your next app with sync.
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
 - [mnfst/manifest](https://github.com/mnfst/manifest) - The 1-file micro-backend. ⭐ to support the project !
@@ -1129,7 +1132,7 @@
 - [d3adrabbit/origami](https://github.com/d3adrabbit/origami) - Free 3D Motion Graphics
 - [tkey/tkey](https://github.com/tkey/tkey) - Whitelabel, design and own the full UI/UX with Self-host Web3Auth (tKey). All of the power of threshold key management at your fingertips
 - [torusresearch/CustomAuth](https://github.com/torusresearch/CustomAuth) - Tools that allow applications to interact with the Torus Network. For integration, look at docs.web3auth.io
-- [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Convert javaScript code to be runtime agnostic
+- [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.
 - [unjs/nanotar](https://github.com/unjs/nanotar) - 📼  Tiny and fast tar utils for any JavaScript runtime!
 - [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun and Deno
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
