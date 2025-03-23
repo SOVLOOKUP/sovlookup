@@ -80,13 +80,13 @@
 
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [lanthora/candy](https://github.com/lanthora/candy) - A reliable, low-latency, and anti-censorship virtual private network
-- [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
+- [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [dacap/clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [primihub/primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
-- [DefTruth/RVM-Inference](https://github.com/DefTruth/RVM-Inference) - 🔥Robust Video Matting C++ inference toolkit with ONNXRuntime、MNN、NCNN and TNN, via lite.ai.toolkit.
+- [xlite-dev/RVM-Inference](https://github.com/xlite-dev/RVM-Inference) - 🔥Robust Video Matting C++ inference toolkit with ONNXRuntime、MNN、NCNN and TNN, via lite.ai.toolkit.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -1126,6 +1126,7 @@
 
 ## TypeScript 
 
+- [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 - [dotoritos-kim/dxf-json](https://github.com/dotoritos-kim/dxf-json) - perfect dxf parser
 - [YFGaia/dify-plus](https://github.com/YFGaia/dify-plus) - Dify-Plus 是 Dify 的企业级增强版，集成了基于 gin-vue-admin 的管理中心，并针对企业场景进行了功能优化。本项目源于内部使用，现开源以解决行业共同痛点，欢迎社区交流与贡献。 🚀  Dify-Plus = 管理中心 + Dify 二开  特别说明： 本项目为开源社区的二次开发成果，严格遵循 Dify 原项目的版权许可协议，未涉及原项目许可的多租户功能及 logo 等版权信息
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
