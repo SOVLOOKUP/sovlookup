@@ -1205,7 +1205,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [LIT-Protocol/js-sdk](https://github.com/LIT-Protocol/js-sdk) - The Lit Protocol SDK provides developers with a framework for implementing Lit functionality into their own applications.
 - [indexnetwork/index](https://github.com/indexnetwork/index) - Discovery Protocol
-- [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - Realtime database, runs anywhere. Install Fireproof in your front-end app or edge function, and sync data via any backend.
+- [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - The vibe coding database runs in the browser, fits in the context window, and syncs anywhere.
 - [aarontravass/Athena](https://github.com/aarontravass/Athena) - 🌿 an open source, distributed, blockchain based storage system for healthcare providers
 - [piedar/js-ipfs-mount](https://github.com/piedar/js-ipfs-mount) - mount /ipfs /mfs
 - [ipfs/service-worker-gateway](https://github.com/ipfs/service-worker-gateway) - IPFS Gateway implemented in Service Worker
