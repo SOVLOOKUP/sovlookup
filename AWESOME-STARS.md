@@ -321,6 +321,7 @@
 
 ## JavaScript 
 
+- [mybolide/vidoeTags](https://github.com/mybolide/vidoeTags) - 使用AI模型为视频自动生成标签和描述的工具
 - [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - 开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
@@ -1134,6 +1135,7 @@
 
 ## TypeScript 
 
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
 - [kibertoad/unzipomatic](https://github.com/kibertoad/unzipomatic) - Modern unzipping library for Node.js
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
 - [unjs/mkdist](https://github.com/unjs/mkdist) - Lightweight file-to-file transpiler.
