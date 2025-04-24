@@ -324,6 +324,7 @@
 
 ## JavaScript 
 
+- [bahdotsh/mdlib](https://github.com/bahdotsh/mdlib) - A lightweight, web-based tool for creating, managing, and viewing markdown notes
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [mybolide/vidoeTags](https://github.com/mybolide/vidoeTags) - 使用AI模型为视频自动生成标签和描述的工具
 - [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - 开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
@@ -575,6 +576,7 @@
 
 ## Others 
 
+- [Blushyes/sofast-release](https://github.com/Blushyes/sofast-release) - 如快版本发布项目。
 - [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki) - 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
@@ -912,6 +914,7 @@
 
 ## Rust 
 
+- [BrynCooke/graph-api](https://github.com/BrynCooke/graph-api) - An ergonomic graph API for Rust
 - [genmeta/gm-quic](https://github.com/genmeta/gm-quic) - An IETF quic transport protocol implemented natively using async Rust
 - [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe) - Package your Node.js application into a single executable file, but only 10MB.🔥
 - [conikeec/mcpr](https://github.com/conikeec/mcpr) - Model Context Protocol (MCP) implementation in Rust
@@ -964,7 +967,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 - [rodrimati1992/abi_stable_crates](https://github.com/rodrimati1992/abi_stable_crates) - Rust-to-Rust ffi,ffi-safe equivalents of std types,and creating libraries loaded at startup.
 - [ZettaScaleLabs/stabby](https://github.com/ZettaScaleLabs/stabby) - A Stable ABI for Rust with compact sum-types
@@ -1105,7 +1108,7 @@
 
 ## SCSS 
 
-- [nlbwqmz/wj-markdown-editor](https://github.com/nlbwqmz/wj-markdown-editor) - 一款开源桌面端markdown编辑器，支持windows系统。
+- [nlbwqmz/wj-markdown-editor](https://github.com/nlbwqmz/wj-markdown-editor) - 一款开源桌面端markdown编辑器，支持windows、linux系统。
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
 ## Scala 
