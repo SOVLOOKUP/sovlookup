@@ -47,7 +47,7 @@
 
 ## Batchfile 
 
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## C 
 
@@ -335,7 +335,6 @@
 ## JavaScript 
 
 - [bahdotsh/mdlib](https://github.com/bahdotsh/mdlib) - A lightweight, web-based tool for creating, managing, and viewing markdown notes
-- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [mybolide/vidoeTags](https://github.com/mybolide/vidoeTags) - 使用AI模型为视频自动生成标签和描述的工具
 - [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - 开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
@@ -930,11 +929,13 @@
 
 ## Rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) - embedded-hal implementation for Rust on ESP32 and ESP-IDF
 - [jiawesoft/jiascheduler](https://github.com/jiawesoft/jiascheduler) - A high-performance, scalable, dynamically configured job scheduler developed with rust
 - [BrynCooke/graph-api](https://github.com/BrynCooke/graph-api) - An ergonomic graph API for Rust
 - [genmeta/gm-quic](https://github.com/genmeta/gm-quic) - An IETF quic transport protocol implemented natively using async Rust
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe) - Package your Node.js application into a single executable file, but only 10MB.🔥
 - [conikeec/mcpr](https://github.com/conikeec/mcpr) - Model Context Protocol (MCP) implementation in Rust
 - [atomashpolskiy/rustface](https://github.com/atomashpolskiy/rustface) - Face detection library for the Rust programming language
