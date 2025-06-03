@@ -164,7 +164,7 @@
 ## Go 
 
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
@@ -1179,7 +1179,7 @@
 - [cryptopayserver00/cryptopayserver](https://github.com/cryptopayserver00/cryptopayserver) - Accept Crypto payments. Free, open-source & self-hosted, Crypto payment processor.
 - [merkle-pay/merkle-pay](https://github.com/merkle-pay/merkle-pay) - the crypto payment system
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) - 
 - [vace/markdown-docx](https://github.com/vace/markdown-docx) - Convert Markdown files to DOCX format with support for both browser and Node.js environments.  将 Markdown 文件转换为 DOCX 格式，支持浏览器和 Node.js 环境。
@@ -1639,7 +1639,7 @@
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
@@ -1662,7 +1662,7 @@
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [megasanjay/vue3-marquee](https://github.com/megasanjay/vue3-marquee) - A simple marquee component with ZERO dependencies for Vue 3.
-- [una-ui/una-ui](https://github.com/una-ui/una-ui) - An Atomic UI framework for Nuxt, powered by Unocss engine 💛
+- [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
 - [themusecatcher/vue-amazing-ui](https://github.com/themusecatcher/vue-amazing-ui) - 基于 Vue3 + TypeScript + Vite 开发的 UI 组件库！主题可调，全量使用 TypeScript 和 SFC，支持 tree shaking！若觉得好用，欢迎点个 ⭐️⭐️ 支持一下 🫶🫶
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [EasyTier/EasyLink](https://github.com/EasyTier/EasyLink) - GUI Implementation of Easytier
