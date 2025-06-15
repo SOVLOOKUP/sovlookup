@@ -1073,7 +1073,7 @@
 - [neo4j-labs/graph](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [fluencelabs/marine](https://github.com/fluencelabs/marine) - Marine runs multi-module WebAssembly applications with interface-types and shared-nothing linking scheme
-- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
