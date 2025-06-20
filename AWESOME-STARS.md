@@ -88,6 +88,7 @@
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [lanthora/candy](https://github.com/lanthora/candy) - A simple networking tool
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
