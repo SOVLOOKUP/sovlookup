@@ -1198,6 +1198,7 @@
 - [cryptopayserver00/cryptopayserver](https://github.com/cryptopayserver00/cryptopayserver) - Accept Crypto payments. Free, open-source & self-hosted, Crypto payment processor.
 - [merkle-pay/merkle-pay](https://github.com/merkle-pay/merkle-pay) - the crypto payment system
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) - 
 - [vace/markdown-docx](https://github.com/vace/markdown-docx) - Convert Markdown files to DOCX format with support for both browser and Node.js environments.  将 Markdown 文件转换为 DOCX 格式，支持浏览器和 Node.js 环境。
