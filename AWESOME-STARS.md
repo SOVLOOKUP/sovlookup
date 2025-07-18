@@ -115,6 +115,7 @@
 
 ## CSS 
 
+- [WeChatPadPro/WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) - WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具
 - [Liksone/halo-theme-sora](https://github.com/Liksone/halo-theme-sora) - A blog theme for Halo
 - [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot：统一的聊天机器人应用接口标准
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
@@ -335,7 +336,6 @@
 
 ## JavaScript 
 
-- [WeChatPadPro/WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) - WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具
 - [z2586300277/three-editor](https://github.com/z2586300277/three-editor) - Three.js Editor Cores  一个基于three.js 的低代码内核 -- star -- 点星星
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCK
 - [bahdotsh/mdlib](https://github.com/bahdotsh/mdlib) - A lightweight, web-based tool for creating, managing, and viewing markdown notes
@@ -1220,7 +1220,7 @@
 - [chrononeko/chronocat](https://github.com/chrononeko/chronocat) - 模块化的 Satori 框架
 - [unjs/hookable](https://github.com/unjs/hookable) - 🪝 Awaitable Hooks
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-- [muppet-dev/muppet](https://github.com/muppet-dev/muppet) - Toolkit for building MCPs using HonoJS
+- [muppet-dev/muppet](https://github.com/muppet-dev/muppet) - MCP Servers SDK for TypeScript
 - [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 - [dotoritos-kim/dxf-json](https://github.com/dotoritos-kim/dxf-json) - perfect dxf parser
 - [YFGaia/dify-plus](https://github.com/YFGaia/dify-plus) - Dify-Plus 是 Dify 的企业级增强版，集成了基于 gin-vue-admin 的管理中心，并针对企业场景进行了功能优化。 🚀  Dify-Plus = 管理中心 + Dify 二开 。 特别说明： 本项目为开源社区的二次开发成果，严格遵循 Dify 原项目的版权许可协议，未涉及原项目许可的多租户功能及 logo 等版权信息。如有相关需求，请直接联系 Dify 官方获取授权与支持。
