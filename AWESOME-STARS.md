@@ -390,7 +390,7 @@
 - [yahoo/fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
-- [socketsupply/socket](https://github.com/socketsupply/socket) - A cross-platform runtime for Web developers to build desktop & mobile apps for any OS using any frontend library.
+- [socketsupply/socket](https://github.com/socketsupply/socket) - 
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [feint123/dtools](https://github.com/feint123/dtools) - 基于tauri实现的工具集合应用，支持插件安装
 - [nftblackmagic/web3cdn](https://github.com/nftblackmagic/web3cdn) - 
