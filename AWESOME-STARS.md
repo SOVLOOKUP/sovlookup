@@ -1364,7 +1364,7 @@
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Data Platform (CDP)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [plexidev/quick.db](https://github.com/plexidev/quick.db) - An easy, open-source, Node.js database designed for complete beginners getting into the concept of coding.
 - [daltonmenezes/interprocess](https://github.com/daltonmenezes/interprocess) - 💬 A scalable and type-safe Electron IPC management tool with enhanced DX
 - [Ninzore/bilibili-captain](https://github.com/Ninzore/bilibili-captain) - 简易B站API调用（控制类）
@@ -1527,7 +1527,7 @@
 - [MrXujiang/xijs](https://github.com/MrXujiang/xijs) - A business - oriented scene Js Library
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [dash14/v-network-graph](https://github.com/dash14/v-network-graph) - An interactive network graph visualization component for Vue 3
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
@@ -1690,7 +1690,7 @@
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 : 轻量级跨平台IM聊天应用，集成AI机器人( DeepSeek/Gemini/Kimi... )、音视频通话及AI购物。支持多端消息同步，自定义主题，高效便捷  🍒
 - [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
-- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。
+- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。LangGraph+ Vue + Flask。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
 - [opentiny/tiny-engine](https://github.com/opentiny/tiny-engine) - TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
