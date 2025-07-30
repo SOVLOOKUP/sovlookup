@@ -177,7 +177,7 @@
 - [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [v03413/BEpusdt](https://github.com/v03413/BEpusdt) - 一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker部署；支持独角发卡 易支付 异次元 萌次元发卡
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Customer Identity and Access Management (CIAM) for modern apps. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -1212,7 +1212,7 @@
 - [cryptopayserver00/cryptopayserver](https://github.com/cryptopayserver00/cryptopayserver) - Accept Crypto payments. Free, open-source & self-hosted, Crypto payment processor.
 - [merkle-pay/merkle-pay](https://github.com/merkle-pay/merkle-pay) - the crypto payment system
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as search engines, Slack, Linear, Jira, Notion, YouTube, GitHub, Discord and more. Join our discord: https://disc
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: 
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) - 
 - [vace/markdown-docx](https://github.com/vace/markdown-docx) - Convert Markdown files to DOCX format with support for both browser and Node.js environments.  将 Markdown 文件转换为 DOCX 格式，支持浏览器和 Node.js 环境。
