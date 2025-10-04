@@ -341,7 +341,7 @@
 
 ## JavaScript 
 
-- [ishtms/velocy](https://github.com/ishtms/velocy) - A blazing fast, minimal backend framework for Node.js
+- [ishtms/velocy](https://github.com/ishtms/velocy) - A blazing fast, minimal backend framework for Node.js with 0 depenencies!
 - [platformatic/massimo](https://github.com/platformatic/massimo) - Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [OXOYO/X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) - 基于G6和Vue的可视化图形编辑器。A visual graph editor based on G6 and Vue.
@@ -364,7 +364,7 @@
 - [DePayFi/web3-payments](https://github.com/DePayFi/web3-payments) - 💸 JavaScript library to scan crypto wallets for liquefiable assets and perform cost-effective, auto-converted payments onchain.
 - [brunobar79/eth-url-parser](https://github.com/brunobar79/eth-url-parser) - Module that supports parsing / parsing of all the different ethereum standard urls
 - [duxapp/duxui](https://github.com/duxapp/duxui) - 基于Taro开发的一套UI库，兼容小程序、H5、ReactNative、鸿蒙
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
@@ -925,7 +925,7 @@
 - [brightmart/ai_law](https://github.com/brightmart/ai_law) - all kinds of baseline models for long text classificaiton( text categorization)
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI/LLM applications and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated
@@ -1225,7 +1225,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [kmbro/langextract-typescript](https://github.com/kmbro/langextract-typescript) - Port from Google's LangExtract to Typescript
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
