@@ -48,7 +48,7 @@
 
 - [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
-- [duixcom/Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
+- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
@@ -674,7 +674,6 @@
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [dscao/cloud_gps](https://github.com/dscao/cloud_gps) - GPS定位平台数据接入homeassistant，包含“途强在线“、“途强物联“、”优驾盒子联网版“、“高德机车版”、“中移行车卫士”、“哈啰智能芯”、“平替airtag”等
-- [ChenyangGao/p115client](https://github.com/ChenyangGao/p115client) - Python 115 网盘客户端
 - [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR) - A lightweight LMM-based Document Parsing Model
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
@@ -1183,7 +1182,7 @@
 
 - [wukongdaily/be3600](https://github.com/wukongdaily/be3600) - 该项目可以让BE3600路由器在不刷机情况下,一键变成类似iStoreOS风格
 - [taskPyroer/taskpyro](https://github.com/taskPyroer/taskpyro) - 爬虫管理系统,爬虫管理平台,分布式爬虫管理平台,可视化操作,完整监控,灵活的Python环境管理,,环境隔离,资源占用小,支持 Scrapy 等主流爬虫框架,支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具,支持node环境下的js逆向代码,支持windows分布式调度
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
@@ -1217,6 +1216,7 @@
 
 ## TypeScript 
 
+- [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
