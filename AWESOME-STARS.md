@@ -866,7 +866,7 @@
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。支持Windows，Linux下训练和预测，支持Nvidia Jetson开发板预测。
 - [dataabc/weibo-search](https://github.com/dataabc/weibo-search) - 获取微博搜索结果信息，搜索即可以是微博关键词搜索，也可以是微博话题搜索
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
-- [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
+- [baserow/baserow](https://github.com/baserow/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
@@ -964,6 +964,7 @@
 
 ## Rust 
 
+- [databento/dbn](https://github.com/databento/dbn) - Databento Binary Encoding (DBN) - Fast message encoding and storage format for market data
 - [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis) - A set of Rust libraries to interact with apple's private APIs and servers.
 - [SideStore/omnisette-server](https://github.com/SideStore/omnisette-server) - An HTTP server wrapper for omnisette. Supports both V1 (Provision) and V3 of anisette servers.
 - [daleione/langextract](https://github.com/daleione/langextract) - A Rust library for extracting structured data from unstructured text using Large Language Models (LLMs), featuring precise source attribution and interactive visualization capabilities.
@@ -1216,6 +1217,7 @@
 
 ## TypeScript 
 
+- [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - A web-based Video Editing SDK built on WebCodecs. 基于 WebCodecs 构建的网页视频编辑 SDK。
 - [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
@@ -1250,7 +1252,7 @@
 - [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 Open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹
 - [Kchengz/epic-designer](https://github.com/Kchengz/epic-designer) - vue3 表单设计器
 - [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
-- [Telegram-Mini-Apps/telegram-apps](https://github.com/Telegram-Mini-Apps/telegram-apps) - Made from scratch TypeScript packages, examples and documentation you will surely need to start developing on Telegram Mini Apps.
+- [Telegram-Mini-Apps/tma.js](https://github.com/Telegram-Mini-Apps/tma.js) - Made from scratch TypeScript packages, examples and documentation you will surely need to start developing on Telegram Mini Apps.
 - [satorijs/satori](https://github.com/satorijs/satori) - The Universal Messenger Protocol
 - [cryptopayserver00/cryptopayserver](https://github.com/cryptopayserver00/cryptopayserver) - Accept Crypto payments. Free, open-source & self-hosted, Crypto payment processor.
 - [merkle-pay/merkle-pay](https://github.com/merkle-pay/merkle-pay) - the crypto payment system
