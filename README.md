@@ -140,7 +140,11 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   2 hrs 52 mins   ██████████████████████▒░░   89.90 %
+JavaScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
