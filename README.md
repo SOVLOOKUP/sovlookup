@@ -140,11 +140,8 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 mins         ██████████████▓░░░░░░░░░░   59.00 %
-JavaScript   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.44 %
-Other        2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python     13 mins         ██████████████████████▓░░   90.73 %
+Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
 ```
 
 <!--END_SECTION:waka-->
