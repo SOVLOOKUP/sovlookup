@@ -95,7 +95,6 @@
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [lanthora/candy](https://github.com/lanthora/candy) - A tool for creating and managing a virtual network implemented in C++
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
@@ -1377,6 +1376,7 @@
 - [nusr/excel](https://github.com/nusr/excel) - Online Collaboration Excel
 - [EIPTools/eip-tools](https://github.com/EIPTools/eip-tools) - Explore all EIPs, ERCs, RIPs and CAIPs easily!
 - [itpropro/nuxt-oidc-auth](https://github.com/itpropro/nuxt-oidc-auth) - OIDC (OpenID connect) focused auth module for Nuxt
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg) - the vlt monorepo
 - [tatumio/tatum-js](https://github.com/tatumio/tatum-js) - 🚀 Tatum SDK: A 💪 powerful, 🌟 feature-rich TypeScript/JavaScript 📚 library that streamlines the 🛠️ development of 🌐 blockchain applications.
 - [tiagosiebler/okx-api](https://github.com/tiagosiebler/okx-api) - Node.js SDK for the OKX APIs and WebSockets, with TypeScript & browser support, integration tests, beautification & more.
@@ -1683,7 +1683,7 @@
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
