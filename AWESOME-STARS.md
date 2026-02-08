@@ -98,6 +98,7 @@
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [lanthora/candy](https://github.com/lanthora/candy) - A tool for creating and managing a virtual network implemented in C++
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
@@ -672,6 +673,7 @@
 
 ## PHP 
 
+- [Nafezly/payments](https://github.com/Nafezly/payments) - Payment Helper of Payment Gateways ( PayPal - Paymob - Fawry - Thawani - WeAccept - Kashier - Hyperpay - Tap - Opay - Paytabs - Vodafone Cash - Orange Money - Meza Wallet - Etisalat Cash - Binance - P
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 - [hiouttime/dujiaoka](https://github.com/hiouttime/dujiaoka) - 🦄独角数卡-优雅开源的自动售货系统｜开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
@@ -1413,7 +1415,6 @@
 - [nusr/excel](https://github.com/nusr/excel) - Online Collaboration Excel
 - [EIPTools/eip-tools](https://github.com/EIPTools/eip-tools) - Explore all EIPs, ERCs, RIPs and CAIPs easily!
 - [itpropro/nuxt-oidc-auth](https://github.com/itpropro/nuxt-oidc-auth) - OIDC (OpenID connect) focused auth module for Nuxt
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg) - the vlt monorepo
 - [tatumio/tatum-js](https://github.com/tatumio/tatum-js) - 🚀 Tatum SDK: A 💪 powerful, 🌟 feature-rich TypeScript/JavaScript 📚 library that streamlines the 🛠️ development of 🌐 blockchain applications.
 - [tiagosiebler/okx-api](https://github.com/tiagosiebler/okx-api) - Node.js SDK for the OKX APIs and WebSockets, with TypeScript & browser support, integration tests, beautification & more.
@@ -1832,6 +1833,7 @@
 
 ## Vue 
 
+- [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
 - [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [mhaibaraai/movk-nuxt](https://github.com/mhaibaraai/movk-nuxt) - `@movk/nuxt` 是一个为 Nuxt 4 设计的模块化工程套件,提供 Schema 驱动的自动表单生成、独立 UI 组件和通用工具函数。
 - [genu/nuxt-ui-formwerk](https://github.com/genu/nuxt-ui-formwerk) - Integrates Formwerk into Nuxt UI
