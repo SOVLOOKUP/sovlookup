@@ -366,6 +366,7 @@
 
 ## JavaScript 
 
+- [rahadiana/okx-coin-list](https://github.com/rahadiana/okx-coin-list) - okx-coin-list
 - [scurker/currency.js](https://github.com/scurker/currency.js) - A javascript library for handling currencies
 - [sfnemis/ClipMaster](https://github.com/sfnemis/ClipMaster) - A powerful GNOME Shell clipboard manager with history, encryption, image support, favorites, and 12 themes. Follows system dark/light mode.
 - [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️
@@ -652,6 +653,7 @@
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [BDBC-KG-NLP/QA-Survey-CN](https://github.com/BDBC-KG-NLP/QA-Survey-CN) - 北京航空航天大学大数据高精尖中心自然语言处理研究团队开展了智能问答的研究与应用总结。包括基于知识图谱的问答（KBQA），基于文本的问答系统（TextQA），基于表格的问答系统（TableQA）、基于视觉的问答系统（VisualQA）和机器阅读理解（MRC）等，每类任务分别对学术界和工业界进行了相关总结。
 - [Hanqaqa/PCB_Business_Card](https://github.com/Hanqaqa/PCB_Business_Card) - Elegant PCB Business Card made with Inkscape, Kicad and Svg2Shenzen.
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -770,7 +772,7 @@
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [sutro-planet/easyvideotrans](https://github.com/sutro-planet/easyvideotrans) - Easyvideotrans后端。 https://easyvideotrans.com/
-- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
+- [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [TheAiSingularity/graphrag-local-ollama](https://github.com/TheAiSingularity/graphrag-local-ollama) - Local models support for Microsoft's graphrag using ollama (llama3, mistral, gemma2 phi3)- LLM & Embedding extraction
 - [uezo/aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 Building AI-based conversational avatars lightning fast ⚡️💬
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -1288,6 +1290,7 @@
 
 ## TypeScript 
 
+- [guigrpa/docx-templates](https://github.com/guigrpa/docx-templates) - Template-based docx report creation
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 - [hipcityreg/situation-monitor](https://github.com/hipcityreg/situation-monitor) - Real-time dashboard for monitoring global news, markets, and geopolitical events
@@ -1683,7 +1686,6 @@
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [rubensworks/jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 - [appy-one/acebase](https://github.com/appy-one/acebase) - A fast, low memory, transactional, index & query enabled NoSQL database engine and server for node.js and browser with realtime data change notifications
