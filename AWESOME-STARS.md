@@ -1036,7 +1036,6 @@
 - [honsunrise/oldwin](https://github.com/honsunrise/oldwin) - 
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 - [databento/dbn](https://github.com/databento/dbn) - Databento Binary Encoding (DBN) - Fast message encoding and storage format for market data
-- [kodomonocch1/see_proto](https://github.com/kodomonocch1/see_proto) - Schema-aware JSON compression with millisecond lookups — cut transfer/storage while enabling exists*/pos* queries. (Demo + wheels; core is binary-only)
 - [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis) - A set of Rust libraries to interact with apple's private APIs and servers.
 - [SideStore/omnisette-server](https://github.com/SideStore/omnisette-server) - An HTTP server wrapper for omnisette. Supports both V1 (Provision) and V3 of anisette servers.
 - [daleione/langextract](https://github.com/daleione/langextract) - A Rust library for extracting structured data from unstructured text using Large Language Models (LLMs), featuring precise source attribution and interactive visualization capabilities.
