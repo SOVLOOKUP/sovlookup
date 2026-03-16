@@ -149,7 +149,7 @@
 ## Dart 
 
 - [sqmw/desk_tidy](https://github.com/sqmw/desk_tidy) - DeskTidy：Windows 桌面整理/启动器（拼音搜索/快捷键/托盘隐藏/桌面收纳盒） | Desktop organizer & launcher with boxes
-- [aa2013/ClipShare](https://github.com/aa2013/ClipShare) - A cross-platform (currently Android, Windows, MacOS) clipboard history and synchronization software that supports background sync on Android 10 and above, and can copy and sync text, images, files, an
+- [aa2013/ClipShare](https://github.com/aa2013/ClipShare) - A cross-platform (currently Android, Windows, Linux, MacOS) clipboard history and synchronization software that supports background sync on Android 10 and above, and can copy and sync text, images, fi
 - [DargonLee/easy_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta is a cross-platform clipboard manager that saves your copy history and simplifies access with shortcuts.
 - [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
@@ -256,7 +256,7 @@
 - [raystack/optimus](https://github.com/raystack/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [argoproj-labs/old-argo-dataflow](https://github.com/argoproj-labs/old-argo-dataflow) - Dataflow is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 - [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an open-source engine for autonomous agents — event-driven, proactive, and self-scheduling.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is a single-binary runtime to build and run autonomous agents — no Python, no Node.js, just define the role.
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -396,7 +396,7 @@
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [AnubhabB/wasm-diff](https://github.com/AnubhabB/wasm-diff) - Text `diff` demo in browser with Rust WASM
 - [zacharyreese/DualQRCode](https://github.com/zacharyreese/DualQRCode) - Two different URLs in one QR code
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [DePayFi/web3-payments](https://github.com/DePayFi/web3-payments) - 💸 JavaScript library to scan crypto wallets for liquefiable assets and perform cost-effective, auto-converted payments onchain.
 - [brunobar79/eth-url-parser](https://github.com/brunobar79/eth-url-parser) - Module that supports parsing / parsing of all the different ethereum standard urls
 - [duxapp/duxui](https://github.com/duxapp/duxui) - 基于Taro开发的一套UI库，兼容小程序、H5、ReactNative、鸿蒙
