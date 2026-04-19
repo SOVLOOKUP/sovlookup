@@ -720,7 +720,7 @@
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [P1sec/hermes-dec](https://github.com/P1sec/hermes-dec) - A reverse engineering tool for decompiling and disassembling the React Native Hermes bytecode
 - [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - [GitHub Trending #2] A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
@@ -764,7 +764,7 @@
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [zhenxun-org/zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
-- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [riddle911/autobid](https://github.com/riddle911/autobid) - 
 - [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
