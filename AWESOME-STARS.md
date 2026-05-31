@@ -1038,6 +1038,7 @@
 
 ## Rust 
 
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) - A simple feed parser (RSS, Atom, JSON Feed)
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to make it easier to configure your favorite Linux distribution as a router. Built with Rust and eBPF.
@@ -1281,7 +1282,7 @@
 
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [wukongdaily/be3600](https://github.com/wukongdaily/be3600) - 该项目可以让BE3600路由器在不刷机情况下,一键变成类似iStoreOS风格
-- [taskPyroer/taskpyro](https://github.com/taskPyroer/taskpyro) - 爬虫管理系统,爬虫管理平台,分布式爬虫管理平台, openclaw龙虾,AI助手,可视化操作,完整监控,灵活的Python环境管理,,环境隔离,资源占用小,支持 Scrapy 等主流爬虫框架,支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具,支持node环境下的js逆向代码,支持windows分布式调度
+- [taskPyroer/taskpyro](https://github.com/taskPyroer/taskpyro) - 爬虫管理系统,爬虫管理平台,分布式爬虫管理平台, 流程编排,openclaw龙虾,AI助手,可视化操作,完整监控,灵活的Python环境管理,,环境隔离,资源占用小,支持 Scrapy 等主流爬虫框架,支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具,支持node环境下的js逆向代码,支持windows分布式调度
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
@@ -1316,6 +1317,7 @@
 
 ## TypeScript 
 
+- [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app.
 - [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.
 - [HCLonely/all-pusher-api](https://github.com/HCLonely/all-pusher-api) - 统一化推送服务API. 已支持钉钉, Discord, 邮件, 飞书, PushDeer, PushPlus, QQ 频道, Server 酱, Showdoc Push, Telegram Bot, 企业微信群机器人, 息知, WxPusher, NowPush, iGot等平台.
@@ -1335,7 +1337,7 @@
 - [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [nebulajs-com/nebulajs-cloud](https://github.com/nebulajs-com/nebulajs-cloud) - 🚀 基于Nodejs + 百度Amis的分布式低代码平台，支持代码生成、工作流、可视化页面设计等功能。简单易用，可大幅度提高应用开发效率。/ lowcode fullstack platform
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 你的第一支团队，何必是人类！
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为你 7*24 在线搞钱的“云上牛马”团队
 - [LouisMazel/maz-ui](https://github.com/LouisMazel/maz-ui) - Vue & Nuxt library of standalone components & tools to build interfaces
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
