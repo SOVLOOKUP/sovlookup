@@ -739,7 +739,7 @@
 - [EatWorld/UmiOCR-AI-OCR-Plugin](https://github.com/EatWorld/UmiOCR-AI-OCR-Plugin) - 为Umi-OCR提供多厂商AI云端识别能力的插件。集成OpenAI/Gemini/Grok等，作为离线OCR的强力补充，提供更高精度和更广泛的语言支持。
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
-- [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
+- [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [dscao/cloud_gps](https://github.com/dscao/cloud_gps) - GPS定位平台数据接入homeassistant，包含“途强在线“、“途强物联“、”优驾盒子联网版“、“高德机车版”、“中移行车卫士”、“哈啰智能芯”、“平替airtag”等
 - [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR) - A lightweight LMM-based Document Parsing Model
@@ -1878,7 +1878,7 @@
 
 - [mageg-x/gopay](https://github.com/mageg-x/gopay) - payment gateway
 - [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
-- [mhaibaraai/movk-nuxt](https://github.com/mhaibaraai/movk-nuxt) - Nuxt 4 模块化工程套件 — 把表单、表格、API、主题与交互收敛为开箱即用的模块能力：Schema 驱动的 AutoForm、功能完备的 DataTable、带认证与进度追踪的 API 系统，以及独立组件与通用 Composables。
+- [mhaibaraai/movk-nuxt](https://github.com/mhaibaraai/movk-nuxt) - 构建在 Nuxt UI 之上的 UI 工程套件 — Schema 驱动的 AutoForm（Zod v4）、功能完备的 DataTable、独立组件与 Composables。在 Nuxt 4 中获得含认证与进度追踪的 API 集成在内的完整能力；其 UI、表单、表格与主题亦可经 Vite 插件直接用于纯 Vue + Vite 项目（API 集成域仅 Nuxt）。
 - [genu/nuxt-ui-formwerk](https://github.com/genu/nuxt-ui-formwerk) - Integrates Formwerk into Nuxt UI
 - [wxsub/element-plus-formkit](https://github.com/wxsub/element-plus-formkit) - Data-driven form component based on ElementPlus implementation
 - [chenbz777/questionnaire_web](https://github.com/chenbz777/questionnaire_web) - 离线版问卷
