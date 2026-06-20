@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [engigu/baihu-panel](https://github.com/engigu/baihu-panel) - 🐯轻量级定时任务管理系统，支持 Python, Node.js, Go, Rust, PHP 等所有主流语言的动态安装与多版本切换,，Docker/Compose 即用。A lightweight, high-performance cron panel built with Go & Vue 3.
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
@@ -1647,7 +1648,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [nuintun/qrcode](https://github.com/nuintun/qrcode) - A pure JavaScript QRCode encode and decode library.
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A tiny, zero-dependency cron task scheduler for Node.js, written in TypeScript.
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
@@ -1930,7 +1931,7 @@
 - [open-source-labs/OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework.
 - [altai-ui/qui-max](https://github.com/altai-ui/qui-max) - A Vue 3.x Neumorphic design system for Web. Written in TypeScript with Composition API 🔥
-- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [MiracleTanC/Neo4j-KGBuilder](https://github.com/MiracleTanC/Neo4j-KGBuilder) - Neo4j+springboot+vue+d3.js知识图谱构建和可视化
