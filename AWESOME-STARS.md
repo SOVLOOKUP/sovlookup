@@ -1385,7 +1385,7 @@
 - [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [Child-qjj/g6-extension-vue](https://github.com/Child-qjj/g6-extension-vue) - This extension allows you to define G6 node by Vue component and JSX syntax.
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [kmbro/langextract-typescript](https://github.com/kmbro/langextract-typescript) - Port from Google's LangExtract to Typescript
@@ -1592,6 +1592,7 @@
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - A Canvas/SVG-based rich text editor
 - [mablay/rpc-async](https://github.com/mablay/rpc-async) - Augments async communication with RPC functionality (ws, udpSocket, ipc, ...)
 - [udamir/wsapix](https://github.com/udamir/wsapix) - Next generation Websocket framework for nodejs
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 Uno
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -1913,7 +1914,6 @@
 - [molian-Z/OmniMagicCube](https://github.com/molian-Z/OmniMagicCube) - OmniMagicCube是一个基于Vue3的可视化框架，它支持全部的Vue3组件库包括自己开发的组件，它为我们带来了全新的组件支持能力。以及高效的页面开发
 - [yuzilog/vue-json-schema-editor-visual-p](https://github.com/yuzilog/vue-json-schema-editor-visual-p) - vue-json-schema-editor-visual-p
 - [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [0604hx/grid-form](https://github.com/0604hx/grid-form) - 格子表单：基于 GRID 布局的简单表单工具（包含可视化设计器、渲染器），默认组件库为 Naive UI，同时支持 element-plus、vant4、Varlet3 渲染
