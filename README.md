@@ -53,18 +53,18 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/visualGravitySense">Dmitri Gornakov</a>
     </td>
     <td align="center">
-      <a href="https://github.com/chrislusf">
-        <img src="https://avatars2.githubusercontent.com/u/1543151" width="100px;" alt="chrislusf"/>
-      </a>
-      <br />
-      <a href="https://github.com/chrislusf">Chris Lu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/bludnic">
         <img src="https://avatars2.githubusercontent.com/u/25831507" width="100px;" alt="bludnic"/>
       </a>
       <br />
       <a href="https://github.com/bludnic">bludnic</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chrislusf">
+        <img src="https://avatars2.githubusercontent.com/u/1543151" width="100px;" alt="chrislusf"/>
+      </a>
+      <br />
+      <a href="https://github.com/chrislusf">Chris Lu</a>
     </td>
     <td align="center">
       <a href="https://github.com/rc-chuah">
