@@ -332,6 +332,7 @@
 - [dead8309/markitdown-ts](https://github.com/dead8309/markitdown-ts) - Convert various file formats to Markdown for indexing, text analysis, and other applications that benefit from structured text. TS port of the python ibrary.
 - [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [Sunny-DotNet/ExchangeRates](https://github.com/Sunny-DotNet/ExchangeRates) - 国际汇率,每小时同步一次
+- [indexnetwork/index](https://github.com/indexnetwork/index) - Discovery Protocol
 - [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) - 
 - [cluster-labs/horizon](https://github.com/cluster-labs/horizon) - A Dashboard to manage and monitor IPFS Cluster
 - [rebase-network/who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
@@ -619,6 +620,7 @@
 
 ## Kotlin 
 
+- [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 - [qiin2333/moonlight-vplus](https://github.com/qiin2333/moonlight-vplus) - Turn your Android device into a powerful game streaming terminal! Gawr! ✨
 - [Luoyacheng/legado](https://github.com/Luoyacheng/legado) - 阅读Sigma是gedoor/legado的一个分支版本，在原有基础上增加更多功能，为书源带来更多可能性。
 - [leavesCZY/Monitor](https://github.com/leavesCZY/Monitor) - 一个适用于 OkHttp / Retrofit 的可视化抓包工具
@@ -1325,6 +1327,7 @@
 
 ## TypeScript 
 
+- [plainhub/plain-web](https://github.com/plainhub/plain-web) - The web page for PlainApp to manage your phone data.
 - [typekcz/nocobase-plugins](https://github.com/typekcz/nocobase-plugins) - 
 - [Bunnarin/plugin-auth-oidc](https://github.com/Bunnarin/plugin-auth-oidc) - nocobase auth oidc but better
 - [surrealdb/surqlize](https://github.com/surrealdb/surqlize) - A type-safe TypeScript ORM for SurrealDB with full type inference, a fluent query builder, and native support for graph relationships
@@ -1504,7 +1507,6 @@
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [slymnoyann/hey-1](https://github.com/slymnoyann/hey-1) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [indexnetwork/index](https://github.com/indexnetwork/index) - Discovery Protocol
 - [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - The vibe coding database runs in the browser, fits in the context window, and syncs anywhere.
 - [aarontravass/Athena](https://github.com/aarontravass/Athena) - 🌿 an open source, distributed, blockchain based storage system for healthcare providers
 - [piedar/js-ipfs-mount](https://github.com/piedar/js-ipfs-mount) - mount /ipfs /mfs
@@ -1649,7 +1651,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [nuintun/qrcode](https://github.com/nuintun/qrcode) - A pure JavaScript QRCode encode and decode library.
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A tiny, zero-dependency cron task scheduler for Node.js, written in TypeScript.
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - Job scheduling for Node.js with overlap prevention, distributed coordination, and background tasks. Zero dependencies.
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [exuanbo/module-from-string](https://github.com/exuanbo/module-from-string) - Load module from string using require or import.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
