@@ -199,6 +199,7 @@
 - [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [ipshipyard/p2p-forge](https://github.com/ipshipyard/p2p-forge) - An Authoritative DNS server for distributing DNS subdomains to libp2p peers
 - [asymmetric-research/solana-exporter](https://github.com/asymmetric-research/solana-exporter) - Prometheus monitor for the Solana blockchain
@@ -779,7 +780,6 @@
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [zhenxun-org/zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
 - [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [riddle911/autobid](https://github.com/riddle911/autobid) - 
 - [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -852,7 +852,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [GAMEOMETRICS/VisualGraph-python](https://github.com/GAMEOMETRICS/VisualGraph-python) - 
 - [robertsdotpm/p2pd](https://github.com/robertsdotpm/p2pd) - Async NAT traversal library for Python 3
-- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
+- [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
 - [readmagic/loveStudy](https://github.com/readmagic/loveStudy) - 爱学习,爱上进,不同于其他xxqg刷题软件的一款自动刷题工具。
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [mizhexiaoxiao/WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) - 😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能
