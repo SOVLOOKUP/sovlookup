@@ -53,13 +53,6 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/visualGravitySense">Dmitri Gornakov</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bludnic">
-        <img src="https://avatars2.githubusercontent.com/u/25831507" width="100px;" alt="bludnic"/>
-      </a>
-      <br />
-      <a href="https://github.com/bludnic">bludnic</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/chrislusf">
         <img src="https://avatars2.githubusercontent.com/u/1543151" width="100px;" alt="chrislusf"/>
       </a>
@@ -80,8 +73,6 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <br />
       <a href="https://github.com/johndpope">John D. Pope</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/wangrongding">
         <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
@@ -89,6 +80,8 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <br />
       <a href="https://github.com/wangrongding">荣顶</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/muwoo">
         <img src="https://avatars2.githubusercontent.com/u/21073039" width="100px;" alt="muwoo"/>
@@ -130,6 +123,13 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       </a>
       <br />
       <a href="https://github.com/Gravifer">Tci Gravifer Fang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/h7ml">
+        <img src="https://avatars2.githubusercontent.com/u/55233292" width="100px;" alt="h7ml"/>
+      </a>
+      <br />
+      <a href="https://github.com/h7ml">h7ml</a>
     </td>
   </tr>
 </table>
