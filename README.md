@@ -140,9 +140,7 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    4 mins                █████████████████████████   100.00 %
-TOML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
