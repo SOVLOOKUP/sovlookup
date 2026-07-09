@@ -47,6 +47,7 @@
 
 ## C 
 
+- [MrOz59/Hermes-KMS](https://github.com/MrOz59/Hermes-KMS) - Linux DRM/KMS virtual display driver — streams the compositor's scanout zero-copy as a DMA-BUF straight into a hardware encoder. An EVDI alternative for low-latency screen capture (used by Hermes).
 - [awesometic/realtek-r8152-dkms](https://github.com/awesometic/realtek-r8152-dkms) - A DKMS package for easy use of Realtek r8152 driver, which supports Realtek USB NICs including RTL8156 (2.5 GbE) and RTL8157 (5 GbE)
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
@@ -85,6 +86,8 @@
 
 ## C++ 
 
+- [MrOz59/Hestia](https://github.com/MrOz59/Hestia) - Hestia is a Moonlight-Qt-based desktop client designed to integrate with Hermes(Apollo-Linux).
+- [MrOz59/Hermes](https://github.com/MrOz59/Hermes) - Apollo-derived Linux game-streaming host with low-latency virtual displays via Hermes-KMS (zero-copy DRM/KMS), with EVDI still supported. Moonlight/Artemis/Hestia compatible.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [zilliztech/knowhere](https://github.com/zilliztech/knowhere) - Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.
 - [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -725,7 +728,7 @@
 - [markoceri/leapmotor-api](https://github.com/markoceri/leapmotor-api) - Unofficial Python client for the Leapmotor vehicle cloud API.
 - [tmwgsicp/ForgeRSS](https://github.com/tmwgsicp/ForgeRSS) - 将任意网站转换为 RSS 订阅源、多引擎抓取、反爬突破、支持爬取抖音、快手、小红书、B站、知乎、小宇宙、知识星球
 - [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公
-- [tmwgsicp/wechat-download-api](https://github.com/tmwgsicp/wechat-download-api) - 一款完全开源的微信公众号文章获取、 RSS 订阅API服务，支持IP代理池反风控。
+- [tmwgsicp/wechat-download-api](https://github.com/tmwgsicp/wechat-download-api) - 一款完全开源的微信公众号文章获取、 RSS 订阅API服务，支持IP代理池反风控，支持mcp接入各种Agent工具。
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
@@ -1115,7 +1118,6 @@
 - [ShadowBlip/virtual-usb-rs](https://github.com/ShadowBlip/virtual-usb-rs) - 
 - [VoidField101/TCP-V-Serial](https://github.com/VoidField101/TCP-V-Serial) - Virtual Serial Port (via USB-IP) to TCP Socket
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server
-- [zhengkyl/fuqr](https://github.com/zhengkyl/fuqr) - qr code generator
 - [ChurchTao/clipboard-rs](https://github.com/ChurchTao/clipboard-rs) - Cross-platform clipboard API (text | image | rich text | html | files | monitoring changes) | 跨平台剪贴板 API(文本|图片|富文本|html|文件|监听变化) Windows,MacOS,Linux
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
 - [wnfs-wg/rs-wnfs](https://github.com/wnfs-wg/rs-wnfs) - Rust implementation of the WebNative FileSystem (WNFS) specification
@@ -1499,6 +1501,7 @@
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [Mini-ghost/vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validation with Composition API
 - [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue
+- [zhengkyl/fuqr](https://github.com/zhengkyl/fuqr) - qr code generator
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [Digital39999/ts-prisma](https://github.com/Digital39999/ts-prisma) - TypeScript utility package that simplifies working with Prisma.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
