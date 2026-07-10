@@ -635,7 +635,7 @@
 
 ## Makefile 
 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 
 ## Nim 
 
@@ -648,7 +648,6 @@
 ## Others 
 
 - [jitOffice/jit-pdf-sdk](https://github.com/jitOffice/jit-pdf-sdk) - 一款可在线预览/编辑/批注PDF文件的SDK
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
 - [Blushyes/sofast-release](https://github.com/Blushyes/sofast-release) - 如快版本发布项目。
 - [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
@@ -1054,6 +1053,7 @@
 
 ## Rust 
 
+- [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.
 - [zibo-chen/rust-paddle-ocr](https://github.com/zibo-chen/rust-paddle-ocr) - 高性能OCR识别库，支持上百种语言，提供命令行、图形界面及C API多种调用方式，使用便捷高效。  High-performance OCR library powered by PaddleOCR v4/v5/v6 with MNN backend. Supports 10+ languages (Chinese, English, Japanese, Korean, Arabic, Cyril
 - [RaisFast/raisfast](https://github.com/RaisFast/raisfast) - The fastest CMS, easiest to deploy. Single binary, zero dependencies, zero GC. Download and run.  Rust-powered high-performance BaaS and headless CMS with built-in blog, ecommerce, wallet, payment & m
@@ -1302,6 +1302,7 @@
 ## Shell 
 
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 实例配置，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
 - [wukongdaily/be3600](https://github.com/wukongdaily/be3600) - 该项目可以让BE3600路由器在不刷机情况下,一键变成类似iStoreOS风格
 - [taskPyroer/taskpyro](https://github.com/taskPyroer/taskpyro) - 爬虫管理系统,爬虫管理平台,分布式爬虫管理平台, 流程编排,openclaw龙虾,AI助手,可视化操作,完整监控,灵活的Python环境管理,,环境隔离,资源占用小,支持 Scrapy 等主流爬虫框架,支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具,支持node环境下的js逆向代码,支持windows分布式调度
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
@@ -1339,7 +1340,7 @@
 ## TypeScript 
 
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr) - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, and browser extensions. Docke
-- [xushanpei/open-file-viewer](https://github.com/xushanpei/open-file-viewer) - 一个面向浏览器的文件预览库，支持原生 JavaScript、React、Vue 和 Svelte。核心目标是把文件预览嵌入到你自己的页面容器里，而不是跳转到新窗口。
+- [xushanpei/open-file-viewer](https://github.com/xushanpei/open-file-viewer) - A framework-agnostic embedded file viewer for vanilla JavaScript, React, Vue and Svelte. Put PDF, Office, images, media, archives, email, drawings, 3D, GIS and engineering files inside one stable cont
 - [bent2685/ocr-web](https://github.com/bent2685/ocr-web) - PP-OCRv5 inference for browser & Electron — onnxruntime-web based, no native binding
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [plainhub/plain-web](https://github.com/plainhub/plain-web) - The web page for PlainApp to manage your phone data.
