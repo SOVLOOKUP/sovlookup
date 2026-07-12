@@ -743,7 +743,7 @@
 - [P1sec/hermes-dec](https://github.com/P1sec/hermes-dec) - A reverse engineering tool for decompiling and disassembling the React Native Hermes bytecode
 - [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。【QQ交流群：115069513】
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
-- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为 OPC/中小微企业老板们量身打造的"AI 搞钱搭子"
+- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客AI Agent
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
@@ -1339,6 +1339,7 @@
 
 ## TypeScript 
 
+- [ifer47/markeron](https://github.com/ifer47/markeron) - Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.
 - [bun-bm2/bm2](https://github.com/bun-bm2/bm2) - High-performance process orchestration for Bun applications.
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr) - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, and browser extensions. Docke
 - [xushanpei/open-file-viewer](https://github.com/xushanpei/open-file-viewer) - A framework-agnostic embedded file viewer for vanilla JavaScript, React, Vue and Svelte. Put PDF, Office, images, media, archives, email, drawings, 3D, GIS and engineering files inside one stable cont
