@@ -74,7 +74,7 @@
 ## C# # 
 
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
 - [LightCountry/TokenPay](https://github.com/LightCountry/TokenPay) - ✅一款同时支持动态和静态收款地址收取TRX、USDT-TRC20、ETH系列区块链所有代币的支付解决方案！✅A payment solution that supports both dynamic and static payee addresses to receive TRX, USDT-TRC20, all tokens of ETH series blockchain!
 - [flytkgl/PDFQFZ](https://github.com/flytkgl/PDFQFZ) - PDF加盖骑缝章的小工具
 - [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
