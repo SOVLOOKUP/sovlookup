@@ -739,7 +739,7 @@
 - [Steamauto/Steamauto](https://github.com/Steamauto/Steamauto) - 免费开源的网易BUFF、悠悠有品、ECOsteam、C5Game、Steam的全自动收发货解决方案
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [P1sec/hermes-dec](https://github.com/P1sec/hermes-dec) - A reverse engineering tool for decompiling and disassembling the React Native Hermes bytecode
-- [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。【QQ交流群：115069513】
+- [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - A powerful no-code automation tool. Build workflows via drag-and-drop modules for web scraping, form filling and automated testing. | 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客AI Agent
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
@@ -778,7 +778,7 @@
 - [jingsongliujing/OnnxOCR](https://github.com/jingsongliujing/OnnxOCR) - 基于PaddleOCR重构，并且脱离PaddlePaddle深度学习训练框架的轻量级OCR，推理速度超快   ——  A lightweight OCR system based on PaddleOCR, decoupled from the PaddlePaddle deep learning training framework, with ultra-fast inference spee
 - [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder) - 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 - [TuGraph-family/chat2graph](https://github.com/TuGraph-family/chat2graph) - Chat2Graph: Graph Native Agentic System.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - [NeurIPS '25] Knowledge Graph Generation from Any Text
@@ -1069,7 +1069,7 @@
 - [gustavosett/Windows-11-Clipboard-History-For-Linux](https://github.com/gustavosett/Windows-11-Clipboard-History-For-Linux) - A beautiful, Windows 11-style Clipboard History Manager for Linux 💅
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [EmbarkStudios/quilkin](https://github.com/EmbarkStudios/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and mor
 - [jhqxxx/aha](https://github.com/jhqxxx/aha) - aha model inference library, now supports Qwen(2.5VL/3/3VL/3.5/ASR/3Embedding/3Reranker), MiniCPM(4/5), VoxCPM(0.5B/1.5/2), DeepSeek-OCR/2, Hunyuan-OCR, PaddleOCR-VL/1.5/1.6, RMBG2.0, GLM(ASR-Nano-251
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1109,7 +1109,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [dagrs-dev/dagrs](https://github.com/dagrs-dev/dagrs) - High-performance, Rust-based asynchronous task programming framework implementing Flow-Based Programming for scalable directed acyclic graph (DAG) task orchestration
-- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - the zero-copy data plane with a Rust core
+- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
 - [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler
 - [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
 - [moq-dev/web-transport](https://github.com/moq-dev/web-transport) - Rust WebTransport library for native and WASM
