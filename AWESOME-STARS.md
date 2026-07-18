@@ -743,7 +743,7 @@
 - [P1sec/hermes-dec](https://github.com/P1sec/hermes-dec) - A reverse engineering tool for decompiling and disassembling the React Native Hermes bytecode
 - [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - A powerful no-code automation tool. Build workflows via drag-and-drop modules for web scraping, form filling and automated testing. | 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
-- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客AI Agent
+- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客智能体
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
@@ -780,7 +780,7 @@
 - [jingsongliujing/OnnxOCR](https://github.com/jingsongliujing/OnnxOCR) - 基于PaddleOCR重构，并且脱离PaddlePaddle深度学习训练框架的轻量级OCR，推理速度超快   ——  A lightweight OCR system based on PaddleOCR, decoupled from the PaddlePaddle deep learning training framework, with ultra-fast inference spee
 - [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder) - 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 - [TuGraph-family/chat2graph](https://github.com/TuGraph-family/chat2graph) - Chat2Graph: Graph Native Agentic System.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data, through one API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - [NeurIPS '25] Knowledge Graph Generation from Any Text
@@ -970,6 +970,7 @@
 - [liuhuanyong/EventTriplesExtraction](https://github.com/liuhuanyong/EventTriplesExtraction) - An experiment and demo-level tool for text information extraction (event-triples extraction),  which can be a route to the event chain and topic graph, 基于依存句法与语义角色标注的事件三元组抽取，可用于文本理解如文档主题链，事件线等应用。
 - [ownthink/Jiagu](https://github.com/ownthink/Jiagu) - Jiagu深度学习自然语言处理工具  知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
 - [leon-thomm/Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [sknetwork-team/scikit-network](https://github.com/sknetwork-team/scikit-network) - Graph Algorithms
 - [JDAI-CV/FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo) - A PyTorch Toolbox for Face Recognition
@@ -1053,6 +1054,7 @@
 
 ## Rust 
 
+- [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm) - Rusted PackFile Manager (RPFM) is a... reimplementation in Rust and Qt6 of PackFile Manager (PFM), one of the best modding tools for Total War Games.
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.
 - [zibo-chen/rust-paddle-ocr](https://github.com/zibo-chen/rust-paddle-ocr) - 高性能OCR识别库，支持上百种语言，提供命令行、图形界面及C API多种调用方式，使用便捷高效。  High-performance OCR library powered by PaddleOCR v4/v5/v6 with MNN backend. Supports 10+ languages (Chinese, English, Japanese, Korean, Arabic, Cyril
@@ -1341,7 +1343,7 @@
 
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [infrost/RaptorQR](https://github.com/infrost/RaptorQR) - Ultra-fast offline file and text transfer over animated QR codes with WASM fast_qr, ZXing and RaptorQ.
-- [ifer47/markeron](https://github.com/ifer47/markeron) - Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.
+- [ifer47/markeron](https://github.com/ifer47/markeron) - Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.
 - [bun-bm2/bm2](https://github.com/bun-bm2/bm2) - High-performance process orchestration for Bun applications.
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr) - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, and browser extensions. Docke
 - [xushanpei/open-file-viewer](https://github.com/xushanpei/open-file-viewer) - A framework-agnostic embedded file viewer for vanilla JavaScript, React, Vue and Svelte. Put PDF, Office, images, media, archives, email, drawings, 3D, GIS and engineering files inside one stable cont
@@ -1509,7 +1511,7 @@
 - [zhengkyl/fuqr](https://github.com/zhengkyl/fuqr) - qr code generator
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [Digital39999/ts-prisma](https://github.com/Digital39999/ts-prisma) - TypeScript utility package that simplifies working with Prisma.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [galacean/engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
 - [opentiny/tiny-editor](https://github.com/opentiny/tiny-editor) - TinyEditor is a rich text editor based on Quill 2.0, which extends rich modules and formats on the basis of Quill. It is powerful and out-of-the-box. TinyEditor 是一个基于 Quill 2.0 的富文本编辑器，在 Quill 基础上扩展了丰
 - [waitingsong/node-win32-api](https://github.com/waitingsong/node-win32-api) - win32 api
@@ -1889,7 +1891,6 @@
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv) - ⚛️ Polished Gatsby theme for documentation site
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 - [antvis/AVA](https://github.com/antvis/AVA) - 🤖 AI-native Visual Analytics framework build for agents.
 - [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
