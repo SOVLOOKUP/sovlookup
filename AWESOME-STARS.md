@@ -784,7 +784,7 @@
 - [jingsongliujing/OnnxOCR](https://github.com/jingsongliujing/OnnxOCR) - 基于PaddleOCR重构，并且脱离PaddlePaddle深度学习训练框架的轻量级OCR，推理速度超快   ——  A lightweight OCR system based on PaddleOCR, decoupled from the PaddlePaddle deep learning training framework, with ultra-fast inference spee
 - [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder) - 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 - [TuGraph-family/chat2graph](https://github.com/TuGraph-family/chat2graph) - Chat2Graph: Graph Native Agentic System.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - [NeurIPS '25] Knowledge Graph Generation from Any Text
@@ -1312,7 +1312,7 @@
 ## Shell 
 
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - An OpenClash-focused configuration and resource repository featuring setup guides, subscription conversion templates, rule snippets, utility scripts, overwrite resources, IPv6 guidance, and troublesho
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的综合配置与扩展资源库，提供图文设置方案、订阅转换模板、YAML 配置示例与远程 YAML 部署方式，收录直连、代理、Steam CDN、加密 DNS 及游戏等规则碎片，并配套 OpenClash 安装、更新与架构检测脚本、覆写模块资源，以及 IPv6 配置方案和故障排除文档。
 - [wukongdaily/be3600](https://github.com/wukongdaily/be3600) - 该项目可以让BE3600路由器在不刷机情况下,一键变成类似iStoreOS风格
 - [taskPyroer/taskpyro](https://github.com/taskPyroer/taskpyro) - 爬虫管理系统,爬虫管理平台,分布式爬虫管理平台, 流程编排,openclaw龙虾,AI助手,可视化操作,完整监控,灵活的Python环境管理,,环境隔离,资源占用小,支持 Scrapy 等主流爬虫框架,支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具,支持node环境下的js逆向代码,支持windows分布式调度
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
