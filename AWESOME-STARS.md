@@ -95,7 +95,7 @@
 - [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter) - Utility to convert between various subscription format
-- [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended) - 基于 subconverter 二次开发的订阅转换后端 mihomo 专用增强版：无需拉取远程订阅内容即可完成转换，规避订阅源访问屏蔽；接入 mihomo 原生解析能力并自动跟随上游协议/参数变化，实现完美解析节点链接，同时兼容原版模板。增加仪表盘等有趣功能。
+- [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended) - 基于 subconverter 二次开发的 Mihomo 专用订阅转换后端增强版。无需由后端拉取远程订阅内容即可完成转换，有效规避订阅源访问受限或屏蔽问题；深度集成 Mihomo 原生解析能力，持续同步上游协议与参数支持，可准确解析各类节点链接，并兼容原版 subconverter 模板。同时提供可视化仪表盘及多项实用扩展功能。
 - [epico/ibus-libpinyin](https://github.com/epico/ibus-libpinyin) - 
 - [libpinyin/libpinyin](https://github.com/libpinyin/libpinyin) - Library to deal with pinyin.
 - [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) - 
@@ -612,7 +612,7 @@
 
 ## Jupyter Notebook 
 
-- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
+- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 - [VisionXLab/mllm-mmrotate](https://github.com/VisionXLab/mllm-mmrotate) - [IGARSS 2025 Oral] A Simple Aerial Detection Baseline of Multimodal Language Models.
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 - [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
@@ -1058,6 +1058,7 @@
 
 ## Rust 
 
+- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr) - Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-model zoo, custom int8 kernels, no ML framework, no Python, no GPU.
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
@@ -1349,6 +1350,7 @@
 
 ## TypeScript 
 
+- [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in TypeScript
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [infrost/RaptorQR](https://github.com/infrost/RaptorQR) - Ultra-fast offline file and text transfer over animated QR codes with WASM fast_qr, ZXing and RaptorQ.
