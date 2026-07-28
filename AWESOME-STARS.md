@@ -332,6 +332,7 @@
 
 ## HTML 
 
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [wmpeng/codingplan](https://github.com/wmpeng/codingplan) - 国内主流 AI 平台的 Coding Plan对比，智谱、Kimi、MiniMax、阿里云百炼、字节火山方舟、百度千帆
 - [andyhuo520/ppocrv6-studio](https://github.com/andyhuo520/ppocrv6-studio) - # 简短要点总结 1. 基于PP-OCRv6（Tiny/Small/Medium三版本）搭建本地OCR工作台 2. 苹果硅芯片支持CoreML硬件加速 3. 提供模型一键切换功能 4. 配套OmniDocBench评测能力
@@ -1058,6 +1059,7 @@
 
 ## Rust 
 
+- [nicepkg/deskmakeover](https://github.com/nicepkg/deskmakeover) - Give your Windows desktop a look you actually like — nine hand-tuned icon styles, wallpaper zones, live preview, one-click restore (桌面美颜). Free, open source, local-only.
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr) - Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-model zoo, custom int8 kernels, no ML framework, no Python, no GPU.
@@ -1350,6 +1352,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in TypeScript
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
@@ -1510,7 +1513,7 @@
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg) - the vlt package manager monorepo
 - [tatumio/tatum-js](https://github.com/tatumio/tatum-js) - 🚀 Tatum SDK: A 💪 powerful, 🌟 feature-rich TypeScript/JavaScript 📚 library that streamlines the 🛠️ development of 🌐 blockchain applications.
-- [tiagosiebler/okx-api](https://github.com/tiagosiebler/okx-api) - Complete JavaScript & Node.js SDK for the OKX APIs and WebSockets, with TypeScript & browser support & integration tests
+- [sieblyio/okx-api](https://github.com/sieblyio/okx-api) - Complete JavaScript & Node.js SDK for the OKX APIs and WebSockets, with TypeScript & browser support & integration tests
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
 - [unocss-community/unocss-preset-theme](https://github.com/unocss-community/unocss-preset-theme) - The dynamic theme presets for UnoCSS.
