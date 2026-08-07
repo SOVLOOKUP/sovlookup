@@ -1071,6 +1071,7 @@
 
 ## Rust 
 
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [nicepkg/deskmakeover](https://github.com/nicepkg/deskmakeover) - Give your Windows desktop a look you actually like — nine hand-tuned icon styles, wallpaper zones, live preview, one-click restore (桌面美颜). Free, open source, local-only.
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
