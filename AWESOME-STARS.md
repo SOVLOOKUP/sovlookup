@@ -786,7 +786,7 @@
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [x-tabdeveloping/turftopic](https://github.com/x-tabdeveloping/turftopic) - Robust and fast topic models with sentence-transformers.
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
@@ -1402,7 +1402,6 @@
 - [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 - [hipcityreg/situation-monitor](https://github.com/hipcityreg/situation-monitor) - Real-time dashboard for monitoring global news, markets, and geopolitical events
 - [mhaibaraai/movk-nuxt-docs](https://github.com/mhaibaraai/movk-nuxt-docs) - 一款由 Nuxt UI 和 Nuxt Content 强力驱动的 Nuxt 优雅文档主题，内置组件文档自动生成、AI 聊天助手、MCP Server 支持、SEO 优化、暗黑模式、全文搜索等功能，助您轻松构建美观、专业、智能的文档网站。
-- [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [nebulajs-com/nebulajs-cloud](https://github.com/nebulajs-com/nebulajs-cloud) - 🚀 基于Nodejs + 百度Amis的分布式低代码平台，支持代码生成、工作流、可视化页面设计等功能。简单易用，可大幅度提高应用开发效率。/ lowcode fullstack platform
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [mhaibaraai/movk-nuxt](https://github.com/mhaibaraai/movk-nuxt) - 构建在 Nuxt UI 之上的 UI 工程套件 — Schema 驱动的 AutoForm（Zod v4）、功能完备的 DataTable、独立组件与 Composables。在 Nuxt 4 中获得含认证与进度追踪的 API 集成在内的完整能力；其 UI、表单、表格与主题亦可经 Vite 插件直接用于纯 Vue + Vite 项目（API 集成域仅 Nuxt）。
@@ -1698,7 +1697,7 @@
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
 - [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(企业级 H5 UI 组件库，无框架，即插即用。)
 - [surrealdb-community/surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - 
-- [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- [ravionhq/superjson](https://github.com/ravionhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [aphex/use-trpc](https://github.com/aphex/use-trpc) - Vue Composable library for tRPC
 - [lloydzhou/antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue) - the vue toolkit for graph analysis based on x6
 - [lloydzhou/graphin-vue](https://github.com/lloydzhou/graphin-vue) - The vue toolkit for graph analysis based on @antv/graphin
@@ -1954,6 +1953,7 @@
 - [magiccode1412/magicmail](https://github.com/magiccode1412/magicmail) - 一款私有化部署的多邮箱聚合代收系统，后端基于 Go+Fiber 构建，前端采用 Vue3+Vite 开发 PWA 应用，SQLite 单文件存储。依托 IMAP IDLE 长连接实现全账号邮件实时推送，告别传统轮询代收延迟问题。支持全平台自适应、深浅色主题自动跟随系统，手机 / PC 浏览器均可安装为 PWA 桌面应用，统一管理多厂商邮箱消息、查看正文与附件。项目编译为独立二进制文件，配合 sys
 - [mageg-x/gopay](https://github.com/mageg-x/gopay) - payment gateway
 - [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
+- [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [genu/nuxt-ui-formwerk](https://github.com/genu/nuxt-ui-formwerk) - Integrates Formwerk into Nuxt UI
 - [wxsub/element-plus-formkit](https://github.com/wxsub/element-plus-formkit) - Data-driven form component based on ElementPlus implementation
 - [chenbz777/questionnaire_web](https://github.com/chenbz777/questionnaire_web) - 离线版问卷
