@@ -347,7 +347,6 @@
 - [dead8309/markitdown-ts](https://github.com/dead8309/markitdown-ts) - Convert various file formats to Markdown for indexing, text analysis, and other applications that benefit from structured text. TS port of the python ibrary.
 - [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [Sunny-DotNet/ExchangeRates](https://github.com/Sunny-DotNet/ExchangeRates) - 国际汇率,每小时同步一次
-- [indexnetwork/index](https://github.com/indexnetwork/index) - Social Discovery Protocol
 - [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) - 
 - [cluster-labs/horizon](https://github.com/cluster-labs/horizon) - A Dashboard to manage and monitor IPFS Cluster
 - [rebase-network/who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
@@ -1564,6 +1563,7 @@
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [slymnoyann/hey-1](https://github.com/slymnoyann/hey-1) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [indexnetwork/index](https://github.com/indexnetwork/index) - Social Discovery Protocol
 - [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - The vibe coding database runs in the browser, fits in the context window, and syncs anywhere.
 - [aarontravass/Athena](https://github.com/aarontravass/Athena) - 🌿 an open source, distributed, blockchain based storage system for healthcare providers
 - [piedar/js-ipfs-mount](https://github.com/piedar/js-ipfs-mount) - mount /ipfs /mfs
