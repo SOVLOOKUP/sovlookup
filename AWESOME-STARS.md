@@ -660,6 +660,7 @@
 
 ## Others 
 
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 - [sanweiya/fcitx5-mellow-themes](https://github.com/sanweiya/fcitx5-mellow-themes) - Aesthetic, modern fcitx5 theme featuring rounded rectangle design.
 - [clash-client/clash-download](https://github.com/clash-client/clash-download) - 最全、最新、最稳定的 Clash 客户端
 - [jitOffice/jit-pdf-sdk](https://github.com/jitOffice/jit-pdf-sdk) - 一款可在线预览/编辑/批注PDF文件的SDK
