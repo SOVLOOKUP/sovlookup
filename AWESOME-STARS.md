@@ -1076,6 +1076,7 @@
 
 ## Rust 
 
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [huanfeng/WindInput](https://github.com/huanfeng/WindInput) - 清风输入法 | 轻量、快速、可定制的开源中文输入法，专为五笔和码表输入方案设计（Windows / macOS）
 - [Marssssss/OneAI](https://github.com/Marssssss/OneAI) - A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
@@ -1378,6 +1379,7 @@
 
 ## TypeScript 
 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [almeidazs/elysia-adapter](https://github.com/almeidazs/elysia-adapter) - Unofficial Elysia framework adapter for Nest.js
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
@@ -1407,7 +1409,7 @@
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [infrost/RaptorQR](https://github.com/infrost/RaptorQR) - Ultra-fast offline file and text transfer over animated QR codes with WASM fast_qr, ZXing and RaptorQ.
 - [ifer47/markeron](https://github.com/ifer47/markeron) - Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.
-- [bun-bm2/bm2](https://github.com/bun-bm2/bm2) - High-performance process orchestration for Bun applications.
+- [Bunsgate/bm2](https://github.com/Bunsgate/bm2) - High-performance process orchestration for Bun applications.
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr) - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, web worker, and browser exten
 - [xushanpei/open-file-viewer](https://github.com/xushanpei/open-file-viewer) - A framework-agnostic embedded file viewer for vanilla JavaScript, React, Vue and Svelte. Put PDF, Office, images, media, archives, email, drawings, 3D, GIS and engineering files inside one stable cont
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
@@ -1418,7 +1420,7 @@
 - [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app.
 - [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.
-- [areyoubugcoder/Mp2RSS](https://github.com/areyoubugcoder/Mp2RSS) - 在任意阅读器里像订阅播客一样订阅微信公众号、X
+- [areyoubugcoder/Mp2RSS](https://github.com/areyoubugcoder/Mp2RSS) - 持续抓取公众号最新文章，沉淀为含 Markdown 正文的结构化数据，通过 RSS / JSON Feed / Open API / CLI / AI Agent 多种形态交付 —— 支撑舆情分析、投研报告、内容监测、高质量信息收集与个人内容阅读。
 - [HCLonely/all-pusher-api](https://github.com/HCLonely/all-pusher-api) - 统一化推送服务API. 已支持钉钉, Discord, 邮件, 飞书, PushDeer, PushPlus, QQ 频道, Server 酱, Showdoc Push, Telegram Bot, 企业微信群机器人, 息知, WxPusher, NowPush, iGot等平台.
 - [CaoMeiYouRen/push-all-in-one](https://github.com/CaoMeiYouRen/push-all-in-one) - Push All In One！支持 Server 酱(以及 Server 酱³)、自定义邮件、钉钉机器人、企业微信机器人、企业微信应用、飞书、pushplus、WxPusher、iGot 、Qmsg、息知、PushDeer、Discord、OneBot、Telegram、ntfy 等多种推送方式。
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
