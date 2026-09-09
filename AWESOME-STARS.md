@@ -33,7 +33,6 @@
 - [Prolog](#prolog)
 - [Python](#python)
 - [ReScript](#rescript)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -829,7 +828,7 @@
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [Jacob-Zhou/simple-csc](https://github.com/Jacob-Zhou/simple-csc) - This repository provides an implementation of "A Simple yet Effective Training-free Prompt-free Approach to Chinese Spelling Correction Based on Large Language Models" and "A Training-free LLM-based A
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
@@ -1071,10 +1070,6 @@
 
 - [yixiu00001/LSTM-CRF-medical](https://github.com/yixiu00001/LSTM-CRF-medical) - 构建医疗实体识别的模型，包含词典和语料标注，基于python构建
 
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
 ## Ruby 
 
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
@@ -1181,6 +1176,7 @@
 - [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
 - [enarx/ciborium](https://github.com/enarx/ciborium) - CBOR utilities
 - [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast) - Async broadcast channels
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [CrossCopy/tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - A Tauri clipboard plugin with text, files, html, RTF, and image support. Clipboard content update monitoring is also supported.
 - [CapSoftware/scap](https://github.com/CapSoftware/scap) - High-performance, cross-platform screen capture library in Rust.
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - High performance ergonomic ORM for Rust.
@@ -1388,11 +1384,13 @@
 
 ## TypeScript 
 
+- [Flex-7746/JumpSSO](https://github.com/Flex-7746/JumpSSO) - 支持私有部署的轻量单点登录服务器，支持主流的 OIDC、SAML2 客户端接入使用，支持将飞书、钉钉、企微、飞牛作为用户身份源，可实现一站通免密码登录，解决企业内部各类系统不同账户的登录问题。
+- [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link) - Google Antigravity (agy CLI) models for DeepSeek Harness — streaming chat, thinking, tool activity, usage, in-GUI Google OAuth login
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) - DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 - [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs) - PocketJS is a portable application runtime that turns modern component code into native pixels across radically different hardware.
-- [william0wang/zcode-acp](https://github.com/william0wang/zcode-acp) - ACP adapter for ZCode — drive GLM-5.3 from IDEA, VS Code, Zed or any ACP client; pair with zcode-acp-remote for phone/web access
+- [william0wang/zcode-acp](https://github.com/william0wang/zcode-acp) - ACP adapter for ZCode — drive GLM-5.3 and GLM-5.3-Flash from IDEA, VS Code, Zed or any ACP client; pair with zcode-acp-remote for phone/web access
 - [TriDefender/zcode-api](https://github.com/TriDefender/zcode-api) - A reverse proxy-ish that delegates your requests to bigmodel.cn or z.ai. This uses the same oauth login process like zcode did, would work on start-plan or coding plans, but it's all about the 1.5x us
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [almeidazs/elysia-adapter](https://github.com/almeidazs/elysia-adapter) - Unofficial Elysia framework adapter for Nest.js
@@ -1427,6 +1425,7 @@
 - [Procboss/pboss](https://github.com/Procboss/pboss) - High-performance process orchestration for Bun applications.
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr) - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, web worker, and browser exten
 - [xushanpei/open-file-viewer](https://github.com/xushanpei/open-file-viewer) - A framework-agnostic embedded file viewer for vanilla JavaScript, React, Vue and Svelte. Put PDF, Office, images, media, archives, email, drawings, 3D, GIS and engineering files inside one stable cont
+- [bent2685/ocr-web](https://github.com/bent2685/ocr-web) - PP-OCRv5 inference for browser & Electron — onnxruntime-web based, no native binding
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [plainhub/plain-desktop](https://github.com/plainhub/plain-desktop) - The desktop app and web ui for PlainApp to manage your phone data.
 - [typekcz/nocobase-plugins](https://github.com/typekcz/nocobase-plugins) - 
@@ -1555,7 +1554,7 @@
 - [rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui) - RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology.
 - [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [thirdweb-dev/web3-onboard](https://github.com/thirdweb-dev/web3-onboard) - Client library to onboard users to web3 apps
 - [modstart-lib/focusany](https://github.com/modstart-lib/focusany) - 专注高效的AI工具条
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
@@ -1620,7 +1619,6 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [suchipi/suchibot](https://github.com/suchipi/suchibot) - A cross-platform AutoHotKey-like thing with TypeScript as its scripting language
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [wolf-table/table](https://github.com/wolf-table/table) - A web-based(canvas) JavaScript Table
 - [tans/uka](https://github.com/tans/uka) - USDT发卡系统
 - [soketi/monorepo](https://github.com/soketi/monorepo) - 
