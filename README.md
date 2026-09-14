@@ -39,13 +39,6 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nholuongut">
-        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
-      </a>
-      <br />
-      <a href="https://github.com/nholuongut">Nho Luong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/visualGravitySense">
         <img src="https://avatars2.githubusercontent.com/u/26278690" width="100px;" alt="visualGravitySense"/>
       </a>
@@ -80,8 +73,6 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <br />
       <a href="https://github.com/wangrongding">荣顶</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/muwoo">
         <img src="https://avatars2.githubusercontent.com/u/21073039" width="100px;" alt="muwoo"/>
@@ -89,6 +80,8 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       <br />
       <a href="https://github.com/muwoo">muwoo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/linonetwo">
         <img src="https://avatars2.githubusercontent.com/u/3746270" width="100px;" alt="linonetwo"/>
@@ -130,6 +123,13 @@ I'm Y**u** B**ei**, I have huge attraction on ⚡ computer science ⚡ and I am 
       </a>
       <br />
       <a href="https://github.com/h7ml">h7ml</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/baifengbai">
+        <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
+      </a>
+      <br />
+      <a href="https://github.com/baifengbai">Bai Feng</a>
     </td>
   </tr>
 </table>
