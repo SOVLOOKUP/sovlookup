@@ -187,6 +187,8 @@
 
 ## Go 
 
+- [Notifuse/notifuse](https://github.com/Notifuse/notifuse) - Open-source, self-hosted newsletter, email marketing and transactional email platform. Visual MJML editor, Liquid templating, 7 sending providers.
+- [deanxv/done-hub](https://github.com/deanxv/done-hub) - 
 - [unraid/apprise-go](https://github.com/unraid/apprise-go) - Apprise, Ported to Go
 - [hoonfeng/paircode](https://github.com/hoonfeng/paircode) - PairCode IDE - AI-powered Code Editor
 - [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
@@ -298,7 +300,7 @@
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
-- [doorbash/pm2-web](https://github.com/doorbash/pm2-web) - Web based monitor for PM2
+- [zerodayalways/pm2-web](https://github.com/zerodayalways/pm2-web) - Web based monitor for PM2
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
@@ -1391,6 +1393,8 @@
 
 ## TypeScript 
 
+- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
+- [TGDash/HashPay](https://github.com/TGDash/HashPay) - 
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 - [makepay-apps/medusa-plugin-digital-downloads](https://github.com/makepay-apps/medusa-plugin-digital-downloads) - Native Medusa v2 digital products, protected downloads, streaming, entitlements, and software licenses with local and S3 storage.
 - [yousofabouhalawa/medusa-digital-products](https://github.com/yousofabouhalawa/medusa-digital-products) - Digital products, software licensing, entitlements, activations, and secure downloads for Medusa v2
@@ -2007,6 +2011,7 @@
 
 ## Vue 
 
+- [Arkhe-Systems/senddock](https://github.com/Arkhe-Systems/senddock) - Open-source email marketing platform. Self-hostable, API-first, built with Go and Vue.
 - [hqw700/ScrcpyOverWebRTC](https://github.com/hqw700/ScrcpyOverWebRTC) - A high-performance, web-based Android remote control solution powered by scrcpy and WebRTC. Control your devices with ultra-low latency directly from your browser.
 - [mageg-x/gopay](https://github.com/mageg-x/gopay) - payment gateway
 - [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
