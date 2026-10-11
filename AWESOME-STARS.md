@@ -727,6 +727,7 @@
 
 ## PHP 
 
+- [1227cwx/HDupay](https://github.com/1227cwx/HDupay) - Self-hosted HD wallet payment system for USDT/USDC, compatible with the Epay API. | HD 自托管 USDT/USDC 收款系统，兼容易支付（Epay）接口。
 - [hyvor/relay](https://github.com/hyvor/relay) - 📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [techhaha/mpay_v2](https://github.com/techhaha/mpay_v2) - MPAY V2 是一套基于 Webman 的支付中台后端服务，面向多商户、多通道、多支付方式的统一收款、支付路由、订单管理、退款、转账、清算和资金流水场景。
 - [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
@@ -752,7 +753,7 @@
 
 ## Prolog 
 
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative knowledge graph database designed for building, sharing, versioning, and reasoning over structured data.
 
 ## Python 
 
@@ -1420,9 +1421,10 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [jitOffice/JitDrive](https://github.com/jitOffice/JitDrive) - 支持多级目录、多格式在线预览、高保真文档协同编辑、AI 智能标签 / 重复检测 / 敏感扫描 / 智能推荐，公开·加密·白名单·协作四种分享链接。由 JitWord iframe + Preview SDK 驱动
 - [OpenListTeam/OpenList-Worker](https://github.com/OpenListTeam/OpenList-Worker) - Service Worker Backend for OpenList
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接
 - [textbee/textbee](https://github.com/textbee/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [KitionAI/kition](https://github.com/KitionAI/kition) - Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace.
